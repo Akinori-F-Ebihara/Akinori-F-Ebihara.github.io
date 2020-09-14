@@ -10,11 +10,3 @@ redirect_from:
 
 - Everything is under construction.  
 Testing text
-
-- Tmp
----------
-how does it work?
-
-- Tmp2
--======
--hello world

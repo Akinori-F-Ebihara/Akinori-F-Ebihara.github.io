@@ -8,4 +8,4 @@ redirect_from:
   - /about.html
 ---
 
-Everything is under construction.
+# Everything is under construction.

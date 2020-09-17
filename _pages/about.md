@@ -9,11 +9,9 @@ redirect_from:
 ---
 
 # Vision  
--======
 Under construction.
 
 # Current Research Interests  
--======
 - Bio-inspired machine learning  
 - Sequential Probability Ratio Test (SPRT)
 - Face

@@ -8,5 +8,15 @@ redirect_from:
   - /about.html
 ---
 
-- Everything is under construction.  
-Testing text
+- Vision  
+-======
+- Under construction.
+
+- Current Research Interests  
+-======
+- Bio-inspired machine learning  
+- Sequential Probability Ratio Test (SPRT)
+- Face
+  - Face recognition (computer vision)
+  - Face recognition (visual neuroscience)
+  - Face presentation attack detection (PAD)

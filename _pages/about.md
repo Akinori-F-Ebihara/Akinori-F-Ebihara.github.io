@@ -8,11 +8,11 @@ redirect_from:
   - /about.html
 ---
 
-- Vision  
+# Vision  
 -======
-- Under construction.
+Under construction.
 
-- Current Research Interests  
+# Current Research Interests  
 -======
 - Bio-inspired machine learning  
 - Sequential Probability Ratio Test (SPRT)

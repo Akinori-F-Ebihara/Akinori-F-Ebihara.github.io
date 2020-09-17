@@ -8,7 +8,6 @@ redirect_from:
   - /about.html
 ---
 
-# Vision  
 Under construction.
 
 # Current Research Interests  

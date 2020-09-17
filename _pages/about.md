@@ -17,3 +17,6 @@ Under construction.
   - Face recognition (computer vision)
   - Face recognition (visual neuroscience)
   - Face presentation attack detection (PAD)
+
+# Contact  
+jazzzcaster[at]gmail.com

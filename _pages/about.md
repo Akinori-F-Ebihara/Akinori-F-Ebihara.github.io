@@ -10,7 +10,7 @@ redirect_from:
 
 Under construction.
 
-# Current Research Interests  
+# Research Interests  
 - Bio-inspired machine learning  
 - Sequential Probability Ratio Test (SPRT)
 - Face

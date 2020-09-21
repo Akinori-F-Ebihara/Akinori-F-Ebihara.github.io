@@ -4,9 +4,9 @@ title: "Publications"
 permalink: /publications/
 author_profile: true
 ---
-# Peer-reviewed journals / conference papers  
+# Peer-reviewed Journals / Conference Papers  
 under construction.
-# Non-peer-reviewed presentations  
+# Non-peer-reviewed Presentations  
 under construction.
 # Patents  
 under construction.  

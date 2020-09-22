@@ -4,18 +4,7 @@ title: "Honors and Awards"
 permalink: /awards/
 author_profile: true
 ---
-<p class="p9"><i></i><br></p>
-<p dir="rtl" class="p3"><span class="s3"><b>Honors and Awards</b></span></p>
-<p class="p8">Mar. 31st, 2020<span class="Apple-tab-span">	</span><b>NEC Central Research Laboratories Best Invention Award</b><br>
-<span class="Apple-tab-span">	</span><span class="Apple-tab-span">	</span>Awarded for the invention of SPRT-TANDEM algorithm and the associated patent.</p>
-<p class="p8">Nov. 21st, 2018<span class="Apple-tab-span">	</span><b>2018 Bio-X Incentive Award</b><br>
-<span class="Apple-tab-span">	</span><span class="Apple-tab-span">	</span>Awarded for the presentation “Flash Reflection-based Face Liveness Detection for Mobile <span class="Apple-tab-span">	</span><span class="Apple-tab-span">	</span><span class="Apple-tab-span">	</span><span class="Apple-tab-span">	</span>Devices” at IEICE SBRA 2018.</p>
-<p class="p8">April 12th, 2015<span class="Apple-tab-span">	</span><b>JMSA New York Life Science Forum 2015 Best Presentation Award</b><br>
-<span class="Apple-tab-span">	</span><span class="Apple-tab-span">	</span>http://jmsa-nyc-forum.weebly.com/past-award-recipients.html</p>
-<p class="p8">2008~2010 <span class="Apple-tab-span">	</span><b>Murata Overseas Scholarship Foundation, 39th year’s scholarship awardee</b><br>
-<span class="Apple-tab-span">	</span><span class="Apple-tab-span">	</span>2 years of financial support (covers living expenses, travel expenses and tuition if any) for <span class="Apple-tab-span">	</span><span class="Apple-tab-span">	</span><span class="Apple-tab-span">	</span><span class="Apple-tab-span">	</span>studying abroad.<span class="Apple-converted-space"> </span></p>
-<p class="p8">Mar. 23rd, 2007 <span class="Apple-tab-span">	</span><b>Dean Prize for the contribution to Overseas Visit Program</b><br>
-<span class="Apple-tab-span">	</span><span class="Apple-tab-span">	</span>Being one of 10 representatives of School of Science, The University of Tokyo to visit <span class="Apple-tab-span">	</span><span class="Apple-tab-span">	</span><span class="Apple-tab-span">	</span><span class="Apple-tab-span">	</span>Harvard <span class="Apple-tab-span">	</span>University and MIT</p>
+
 
 ## [Mar. 31st, 2020] NEC Central Research Laboratories Best Invention Award  
 Awarded for the invention of SPRT-TANDEM algorithm and the associated patents.  
@@ -73,3 +62,41 @@ Mar. 23rd, 2007&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <p style="text-indent:12.65em;margin-top:-10px;">
 Being one of 10 representatives of School of Science, The University of Tokyo to visit Harvard University and MIT.  
 </p> -->
+
+
+<!-- <p class="p9"><i></i><br></p>
+<p dir="rtl" class="p3"><span class="s3"><b>Honors and Awards</b></span></p>
+<p class="p8">Mar. 31st, 2020<span class="Apple-tab-span">	</span><b>NEC Central Research Laboratories Best Invention Award</b><br>
+<span class="Apple-tab-span">	</span><span class="Apple-tab-span">	</span>Awarded for the invention of SPRT-TANDEM algorithm and the associated patent.</p>
+<p class="p8">Nov. 21st, 2018<span class="Apple-tab-span">	</span><b>2018 Bio-X Incentive Award</b><br>
+<span class="Apple-tab-span">	</span><span class="Apple-tab-span">	</span>Awarded for the presentation “Flash Reflection-based Face Liveness Detection for Mobile <span class="Apple-tab-span">	</span><span class="Apple-tab-span">	</span><span class="Apple-tab-span">	</span><span class="Apple-tab-span">	</span>Devices” at IEICE SBRA 2018.</p>
+<p class="p8">April 12th, 2015<span class="Apple-tab-span">	</span><b>JMSA New York Life Science Forum 2015 Best Presentation Award</b><br>
+<span class="Apple-tab-span">	</span><span class="Apple-tab-span">	</span>http://jmsa-nyc-forum.weebly.com/past-award-recipients.html</p>
+<p class="p8">2008~2010 <span class="Apple-tab-span">	</span><b>Murata Overseas Scholarship Foundation, 39th year’s scholarship awardee</b><br>
+<span class="Apple-tab-span">	</span><span class="Apple-tab-span">	</span>2 years of financial support (covers living expenses, travel expenses and tuition if any) for <span class="Apple-tab-span">	</span><span class="Apple-tab-span">	</span><span class="Apple-tab-span">	</span><span class="Apple-tab-span">	</span>studying abroad.<span class="Apple-converted-space"> </span></p>
+<p class="p8">Mar. 23rd, 2007 <span class="Apple-tab-span">	</span><b>Dean Prize for the contribution to Overseas Visit Program</b><br>
+<span class="Apple-tab-span">	</span><span class="Apple-tab-span">	</span>Being one of 10 representatives of School of Science, The University of Tokyo to visit <span class="Apple-tab-span">	</span><span class="Apple-tab-span">	</span><span class="Apple-tab-span">	</span><span class="Apple-tab-span">	</span>Harvard <span class="Apple-tab-span">	</span>University and MIT</p> -->
+
+
+<!-- <div style="margin-left:30em">
+<p>
+<h1 style="font-size:20px">
+<span style="margin-left:-21em">Mar. 31st, 2020&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<b>NEC Central Research Laboratories Best Invention Award</b>
+</h1>
+<p style="margin-top:-10px;">
+Awarded for the invention of SPRT-TANDEM algorithm and the associated patents.  
+</p>
+
+<p>
+<span style="margin-left:-15em">FIRST line of the stanza is flush left First line of the stanza is flush left First line of the stanza is flush left First line of the stanza is flush left
+</span>
+<br><span style="margin-left:-10em">SECOND line of the stanza is indentedFirst line of the stanza is flush left First line of the stanza is flush left First line of the stanza is flush left First line of the stanza is flush left
+</span>
+<br><span style="margin-left:-15em">THIRD line of the stanza is flush left
+</span>
+<br><span style="margin-left:-10em">FOURTH line of the stanza is indentedFirst line of the stanza is flush left First line of the stanza is flush left First line of the stanza is flush left First line of the stan
+</span>
+
+</p>
+</div> -->

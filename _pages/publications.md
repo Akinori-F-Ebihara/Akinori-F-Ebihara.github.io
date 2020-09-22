@@ -5,11 +5,11 @@ permalink: /publications/
 author_profile: true
 ---
 
-# Peer-reviewed Journals / Conference Papers  
+## Peer-reviewed Journals / Conference Papers  
 under construction.
-# Non-peer-reviewed Presentations  
+## Non-peer-reviewed Presentations  
 under construction.
-# Patents  
+## Patents  
 under construction.  
 
 

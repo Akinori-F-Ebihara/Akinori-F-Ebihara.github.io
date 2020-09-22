@@ -4,6 +4,11 @@ title: "Research Experience"
 permalink: /research/
 author_profile: true
 ---
+<p style="font-size:18px">2018~present&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>Biometrics Research Laboratories, NEC,</b>Kanagawa, Japan </p>
+<p style='margin-left:135.0pt;margin-top:-15px'>
+<b>Assistant Manager at the Face Recognition Research Group</b><br>
+- Invented deep neural network-based sequential decision making algorithms
+</p>
 
 ## [2018~present] Biometrics Research Laboratories, NEC, Kanagawa, Japan  
 Assistant Manager at the Face Recognition Research Group

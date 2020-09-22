@@ -7,7 +7,7 @@ author_profile: true
 
 <p style="font-size:22px">2008-2015&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <b>The Rockefeller University (RU), New York, NY</b></p>
-<p style='margin-left:155.0pt;margin-top:-15px'>
+<p style='margin-left:145.0pt;margin-top:-15px'>
 <b>Doctor of Philosophy in Biological Sciences</b><br>
 Ph.D. advisor: Dr. Winrich A. Freiwald, Laboratory of Neural Systems<br>
 Ph.D. co-advisor: Dr. Marcelo Magnasco, Laboratory of Mathematical Physics<br>
@@ -16,7 +16,7 @@ Ph.D. co-advisor: Dr. Marcelo Magnasco, Laboratory of Mathematical Physics<br>
 
 <p style="font-size:22px">2004-2008&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <b>The University of Tokyo, Japan</b></p>
-<p style='margin-left:155.0pt;margin-top:-15px'>
+<p style='margin-left:145.0pt;margin-top:-15px'>
 <b>Bachelor of Science in Biophysics and Biochemistry, March 2008</b><br>
 B.A. advisor: Dr. Hitoshi Sakano<br>
 B.A. mentor: Dr. Hirofumi Nishizumi<br>

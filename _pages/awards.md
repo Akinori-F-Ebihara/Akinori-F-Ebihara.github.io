@@ -1,4 +1,4 @@
---
+---
 layout: archive
 title: "Honors and Awards"
 permalink: /awards/

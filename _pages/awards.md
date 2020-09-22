@@ -12,7 +12,7 @@ Awarded for the invention of SPRT-TANDEM algorithm and the associated patents.
 Awarded for the oral presentation “Flash Reflection-based Face Liveness Detection for Mobile Devices” at IEICE SBRA 2018.  
 
 ## [April 12, 2015] JMSA New York Life Science Forum 2015 Best Presentation Award  
-Awarded for the oral presentation "A circuit mechanism for explicit multi-stimulus coding" at Japanese Medical Society of America (JMSA) 2015.
+Awarded for the oral presentation "A circuit mechanism for explicit multi-stimulus coding" at Japanese Medical Society of America (JMSA) 2015.  
 http://jmsa-nyc-forum.weebly.com/past-award-recipients.html
 
 ## [2008~2010] Murata Overseas Scholarship Foundation, 39th year’s scholarship awardee

@@ -5,19 +5,19 @@ permalink: /awards/
 author_profile: true
 ---
 
-<p style="font-size:20px">Mar. 31st, 2020&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>NEC Central Research Laboratories Best Invention Award</b></p>
+<p style="font-size:20px">Mar. 31st, 2020&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>NEC Central Research Laboratories Best Invention Award</b></p>
 <p style='margin-left:155.0pt'>Awarded for the invention of SPRT-TANDEM algorithm and the associated patents. </p>
 
-<p style="font-size:20px">Nov. 21st, 2018 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>Bio-X incentive award</b></p>
+<p style="font-size:20px">Nov. 21st, 2018&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>Bio-X incentive award</b></p>
 <p style='margin-left:155.0pt'>Awarded for the invention of SPRT-TANDEM algorithm and the associated patents. </p>
 
-<p style="font-size:20px">Apr. 12th, 2015 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>JMSA New York Life Science Forum 2015 Best Presentation Award  </b></p>
+<p style="font-size:20px">Apr. 12th, 2015&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>JMSA New York Life Science Forum 2015 Best Presentation Award  </b></p>
 <p style='margin-left:155.0pt'>Awarded for the oral presentation "A circuit mechanism for explicit multi-stimulus coding" at Japanese Medical Society of America (JMSA) 2015.</p>
 
-<p style="font-size:20px">2008~2010 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>Murata Overseas Scholarship Foundation, 39th year’s scholarship awardee</b></p>
+<p style="font-size:20px">2008~2010&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>Murata Overseas Scholarship Foundation, 39th year’s scholarship awardee</b></p>
 <p style='margin-left:155.0pt'>2 years of financial support (covers living expenses, travel expenses and tuition if any) for studying abroad.</p>
 
-<p style="font-size:20px">March 23, 2007&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>Dean Prize for the contribution to Overseas Visit Program</b></p>
+<p style="font-size:20px">March 23, 2007&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>Dean Prize for the contribution to Overseas Visit Program</b></p>
 <p style='margin-left:155.0pt'>Being one of 10 representatives of School of Science, The University of Tokyo to visit Harvard University and MIT.  </p>
 
 

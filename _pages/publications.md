@@ -6,11 +6,31 @@ author_profile: true
 ---
 
 ## Peer-reviewed Journals / Conference Papers  
-test: 
 <ol>
-    <li value="3">three</li>
-    <li value="2">two</li>
-    <li value="1">one</li>
+    <li value="6">Ebihara, A.F., Miyagawa, T., Sakurai, K., and Imaoka, H. 
+      <br><b>Deep Neural Networks for the Sequential Probability Ratio Test on Non-i.i.d. Data Series.</b>
+      <br><i>Manuscript under review.</i>
+    </li><br>
+    <li value="5">Ebihara, A.F., Sakurai, K., and Imaoka, H.  
+      <br><b>Specular- and Diffuse-reflection-based Face Spoofing Detection for Mobile Devices.</b>
+      <br><i>nternational Joint Conference on Biometrics (IJCB) 2020, Virtual conference.</i>
+    </li><br>
+    <li value="4">Caruso, V.C., Mohl, J.T., Glynn, C., Jee, J., Willets, S.M., Azman, A., Ebihara, A.F., Estrada, R., Freiwald, W.A., Tokdar, S.T., and Groh, J.M. 
+      <br><b>Single neurons may encode simultaneous stimuli by switching between activity patterns.</b>
+      <br><i>Nature Communications 9, 2715 (2018).</i>
+      </li><br>
+    <li value="3">Ebihara, A.F., Hocevar, A., Magnasco M.O., and Freiwald, W.A. 
+      <br><b>Multi-object scene encoding in face-selective cortex.</b>
+      <br><i>Manuscript in preparation.</i>
+    </li><br>
+    <li value="2">Leibo, J.Z., Anselmi, F., Mutch J., Ebihara, A.F., Freiwald, W.A., and Poggio, T. 
+      <br><b>View-invariance and mirror-symmetric tuning in a model of the macaque face-processing system. </b>
+      <br><i>Cosyne 2013, Salt Lake City, UT,  USA.</i>
+    </li><br>
+    <li value="1">Ebihara, A.F. and Freiwald, W.A. 
+      <br><b>Representation of multiple stimuli in the macaque middle face patch. </b>
+      <br><i>Cosyne 2012, Salt Lake City, UT, USA.</i>
+    </li><br>
 </ol>
 
 ## Non-peer-reviewed Presentations  

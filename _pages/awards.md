@@ -4,7 +4,7 @@ title: "Honors and Awards"
 permalink: /awards/
 author_profile: true
 ---
-
+Test 
 <p style="font-size:20px">Mar. 31st, 2020&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>NEC Central Research Laboratories Best Invention Award</b></p>
 <p style='margin-left:155.0pt;margin-top:-15px'>Awarded for the invention of SPRT-TANDEM algorithm and the associated patents.</p><br>
 

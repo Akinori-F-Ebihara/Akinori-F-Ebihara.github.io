@@ -27,7 +27,7 @@ Advisor: Dr. Hitoshi Imaoka and Mr. Kazuyuki Sakurai<br>
 </p>
 
 <p style="font-size:18px">2008~2015&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<b>Laboratory of Dr. Winrich Freiwald, Laboratory of Neural Systems, RU<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Laboratory of Dr. Marcelo Magnasco, Laboratory of Mathematical Physics, RU</b></p>
+<b>Laboratory of Dr. Winrich Freiwald, Laboratory of Neural Systems, RU<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Laboratory of Dr. Marcelo Magnasco, Laboratory of Mathematical Physics, RU</b></p>
 <p style='margin-left:120.0pt;margin-top:-18px;'>
 <i>Graduate fellow, Biology</i><br>
 - Studied the representation of multiple objects in the temporal lobe face-selective neurons<br> 

@@ -4,11 +4,36 @@ title: "Research Experience"
 permalink: /research/
 author_profile: true
 ---
-<p style="font-size:18px">2018~present&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>Biometrics Research Laboratories, NEC,</b>Kanagawa, Japan </p>
-<p style='margin-left:135.0pt;margin-top:-15px'>
+<p style="font-size:18px">2018~present&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<b>Biometrics Research Laboratories, NEC,</b>Kanagawa, Japan </p>
+<p style='margin-left:125.0pt;margin-top:-15px'>
 <b>Assistant Manager at the Face Recognition Research Group</b><br>
 - Invented deep neural network-based sequential decision making algorithms
 </p>
+
+<p style="font-size:18px">2016~2018&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<b>Data Science Research Laboratories, NEC,</b>Kanagawa, Japan </p>
+<p style='margin-left:125.0pt;margin-top:-15px'>
+<b>Assistant Manager at the Face Recognition Research Group</b><br>
+Advisor: Dr. Hitoshi Imaoka and Mr. Kazuyuki Sakurai<br>
+- Invented a face spoofing detection algorithm for resource-constrained devices
+</p>
+
+<p style="font-size:18px">2015~2016&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<b>Laboratory of Dr. Winrich Freiwald, Laboratory of Neural Systems, Rockefeller University (RU)</b></p>
+<p style='margin-left:125.0pt;margin-top:-15px'>
+<b>Postdoctoral Fellow</b><br>
+- Provided an explanation to the encoding scheme of the temporal lobe face-selective neurons by using computational and statistical models
+</p>
+
+<p style="font-size:18px">2008~2015&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<b>Laboratory of Dr. Winrich Freiwald, Laboratory of Neural Systems, RU<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Laboratory of Dr. Marcelo Magnasco, Laboratory of Mathematical Physics, RU</b></p>
+<p style='margin-left:125.0pt;margin-top:-15px'>
+<b>Graduate fellow, Biology</b><br>
+- Studied the representation of multiple objects in the temporal lobe face-selective neurons<br> 
+- Piloted optogenetics experiments in rodents  
+</p>
+
 
 ## [2018~present] Biometrics Research Laboratories, NEC, Kanagawa, Japan  
 Assistant Manager at the Face Recognition Research Group

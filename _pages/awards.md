@@ -16,7 +16,7 @@ Awarded for the invention of SPRT-TANDEM algorithm and the associated patents.<b
 Nov. 21st, 2018&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>Bio-X incentive award</b>
 </p>
 <p style='margin-left:155.0pt;margin-top:-18px'>
-Awarded for the invention of SPRT-TANDEM algorithm and the associated patents.<br>
+Awarded for the oral presentation “Flash Reflection-based Face Liveness Detection for Mobile Devices” at IEICE SBRA 2018.<br>
 </p>
 
 <p style="font-size:20px;margin-top:20px">Apr. 12th, 2015&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>JMSA New York Life Science Forum 2015 Best Presentation Award  </b>

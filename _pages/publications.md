@@ -8,9 +8,9 @@ author_profile: true
 ## Peer-reviewed Journals / Conference Papers  
 test: 
 <ol>
-    <li>three</li>
-    <li>two</li>
-    <li>one</li>
+    <li value="3">three</li>
+    <li value="2">two</li>
+    <li value="1">one</li>
 </ol>
 
 ## Non-peer-reviewed Presentations  

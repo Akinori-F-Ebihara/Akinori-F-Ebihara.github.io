@@ -10,6 +10,7 @@ Assistant Manager at the Face Recognition Research Group
 
 ## [2016~2018] Data Science Research Laboratories, NEC, Kanagawa, Japan  
 Assistant Manager at the Face Recognition Research Group  
+Advisor: Dr. Hitoshi Imaoka and Mr. Kazuyuki Sakurai
 - Invented a face spoofing detection algorithm for resource-constrained devices  
 
 ## [2015~2016] Laboratory of Dr. Winrich Freiwald, Laboratory of Neural Systems, Rockefeller University (RU)  

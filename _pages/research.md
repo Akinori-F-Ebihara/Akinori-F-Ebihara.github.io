@@ -5,7 +5,7 @@ permalink: /research/
 author_profile: true
 ---
 ## [2018~present] Biometrics Research Laboratories, NEC, Kanagawa, Japan  
-Assistant Manager at the Face Recognition Research Group  
+Assistant Manager at the Face Recognition Research Group
 - Invented deep neural network-based sequential decision making algorithms  
 
 ## [2016~2018] Data Science Research Laboratories, NEC, Kanagawa, Japan  

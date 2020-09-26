@@ -8,7 +8,7 @@ author_profile: true
 ## Peer-reviewed Journals / Conferences  
 <ol>
     <li value="6">Ebihara, A.F., Miyagawa, T., Sakurai, K., and Imaoka, H. 
-      <br><b>Deep Neural Networks for the Sequential Probability Ratio Test on Non-i.i.d. Data Series.</b>
+      <br><b>Sequential Density Ratio Estimation for Simultaneous Optimization of Speed and Accuracy.</b>
       <br><i>Manuscript under review.</i>
     </li><br>
     <li value="5">Ebihara, A.F., Sakurai, K., and Imaoka, H.  

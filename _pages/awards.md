@@ -6,7 +6,7 @@ author_profile: true
 ---
 
 <p style="font-size:20px">
-Mar. 31st, 2020&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>NEC Central Research Laboratories Best Invention Award</b>
+Mar. 31st, 2020&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>NEC Central Research Laboratories Best Invention Award 2020</b>
 </p>
 <p style='margin-left:155.0pt;margin-top:-18px'>
 Awarded for the invention of SPRT-TANDEM algorithm and the associated patents.<br>

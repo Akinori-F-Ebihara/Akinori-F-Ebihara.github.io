@@ -41,11 +41,11 @@ author_profile: true
     </li><br>
     <li value="12">Ebihara, A.F., Sakurai, K., and Imaoka, H. 
       <br><b>Flash Reflection-based Face Liveness Detection for Mobile Devices.</b>
-      <br><i>The Eighth Symposium on Biometrics, Recognition and Authentication (IEICE SBRA), Iidabashi, Tokyo, Japan.</i>
+      <br><i>The Eighth Symposium on Biometrics, Recognition and Authentication (IEICE SBRA2018), Iidabashi, Tokyo, Japan.</i>
     </li><br>
     <li value="11">Ebihara, A.F., Sakurai, K., and Imaoka, H. 
       <br><b>Spoofing Detection with a Monocular Camera using Flash Reflection.</b>
-      <br><i>IEICE Bio-X Study Group. Kanazawa city, Ishikawa, Japan.</i>
+      <br><i>IEICE Bio-X Study Group 2018. Kanazawa city, Ishikawa, Japan.</i>
     </li><br>
     <li value="10">Ebihara, A.F.   
       <br><b>A circuit mechanism for explicit multi-stimulus coding.</b>

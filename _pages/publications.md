@@ -53,7 +53,7 @@ author_profile: true
     </li><br>
     <li value="9">Caruso, V.C., Ebihara, A.F., Milewski A., Tokdar, S., Freiwald W.A., and Groh J.M. 
       <br><b>Is multiplexing a general strategy for encoding multiple items in the brain? Evidence from a visual cortical face area and a subcortical auditory area.</b>
-      <br><i>Society for Neuroscience annual meeting, Poster session on Oscillations and synchrony: Unit studies. Chicago, IL.</i>
+      <br><i>Society for Neuroscience annual meeting 2015, Poster session on Oscillations and synchrony: Unit studies. Chicago, IL.</i>
       </li><br>
     <li value="8">Ebihara, A.F., Hocevar, A., Magnasco M.O., and Freiwald, W.A.
       <br><b>Representation of multiple stimuli by face selective neurons in the macaque temporal lobe.</b>

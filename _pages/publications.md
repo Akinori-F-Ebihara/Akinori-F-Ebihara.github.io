@@ -65,27 +65,27 @@ author_profile: true
     </li><br>
     <li value="6">Ebihara, A.F., Hocevar, A., Magnasco M.O., and Freiwald, W.A. 
       <br><b>Representations of multiple stimuli in the macaque temporal lobe.</b>
-      <br><i>Cold Spring Harbor Symposium on Quantitative Biology: Cognition, Cold Spring Harbor, NY.</i>
+      <br><i>Cold Spring Harbor Symposium on Quantitative Biology 2014: Cognition, Cold Spring Harbor, NY.</i>
     </li><br>
     <li value="5">Ebihara, A.F., Leibo, J.Z., Poggio, T., and Freiwald, W.A. 
       <br><b>Max-pooling and clutter tolerance in the macaque face processing system.</b>
-      <br><i>NSF-STC site visit at McGovern Institute for Brain Research (MIT), Cambridge, MA.</i>
+      <br><i>NSF-STC site visit at McGovern Institute for Brain Research (MIT), 2012, Cambridge, MA.</i>
     </li><br>
     <li value="4">Ebihara, A.F. and Freiwald, W.A.   
       <br><b>Representations of multiple stimuli in the macaque face patches.</b>
-      <br><i>Society for Neuroscience annual meeting, Poster session on Neural Processing of Faces and Bodies, Session 263.10/Y19, New Orleans, LA.</i>
+      <br><i>Society for Neuroscience annual meeting 2012, Poster session on Neural Processing of Faces and Bodies, Session 263.10/Y19, New Orleans, LA.</i>
     </li><br>
     <li value="3">Ebihara, A.F., Tsao, D.Y., and Freiwald, W.A.
       <br><b>Representation of multiple stimuli by face-selective neurons in the macaque temporal lobe.</b>
-      <br><i>Society for Neuroscience annual meeting, Poster session on Face Processing in Extrastriate Cortex,Session 487.06/OO36, Washington, DC.</i>
+      <br><i>Society for Neuroscience annual meeting 2011, Poster session on Face Processing in Extrastriate Cortex,Session 487.06/OO36, Washington, DC.</i>
       </li><br>
     <li value="2">Ebihara, A.F., Tsao, D.Y., and Freiwald, W.A.
       <br><b>Representations of multiple objects in the macaque face processing system.</b>
-      <br><i>Society for Neuroscience annual meeting, Nanosymposium on Encoding of Visually Presented Faces II, Session 834.4, San Diego, CA.</i>
+      <br><i>Society for Neuroscience annual meeting 2010, Nanosymposium on Encoding of Visually Presented Faces II, Session 834.4, San Diego, CA.</i>
     </li><br>
     <li value="1">Nishizumi, H., Nakayama, H, Ebihara, A.F., and Sakano, H.
       <br><b>Odorant receptor gene choice in the mouse olfactory system.</b>
-      <br><i>The 31st Annual Meeting of the Japan Neuroscience Society, Oral session O1-H04, Tokyo, Japan.</i>
+      <br><i>The 31st Annual Meeting of the Japan Neuroscience Society, 2008, Oral session O1-H04, Tokyo, Japan.</i>
     </li><br>
 </ol>
 

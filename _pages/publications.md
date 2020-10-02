@@ -14,6 +14,7 @@ author_profile: true
     <li value="5">Ebihara, A.F., Sakurai, K., and Imaoka, H.  
       <br><b>Specular- and Diffuse-reflection-based Face Spoofing Detection for Mobile Devices.</b>
       <br><i>International Joint Conference on Biometrics (IJCB) 2020, Virtual conference.</i>
+      <br><b>IJCB 2020 Google PC Chairs Choice Best Paper Award</b>
     </li><br>
     <li value="4">Caruso, V.C., Mohl, J.T., Glynn, C., Jee, J., Willets, S.M., Azman, A., Ebihara, A.F., Estrada, R., Freiwald, W.A., Tokdar, S.T., and Groh, J.M. 
       <br><b>Single neurons may encode simultaneous stimuli by switching between activity patterns.</b>

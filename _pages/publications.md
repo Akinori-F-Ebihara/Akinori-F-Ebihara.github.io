@@ -47,14 +47,14 @@ author_profile: true
       <br><b>Spoofing Detection with a Monocular Camera using Flash Reflection.</b>
       <br><i>IEICE Bio-X Study Group 2018. Kanazawa city, Ishikawa, Japan.</i>
     </li><br>
+    <li value="10">Caruso, V.C., Ebihara, A.F., Milewski A., Tokdar, S., Freiwald W.A., and Groh J.M. 
+      <br><b>Is multiplexing a general strategy for encoding multiple items in the brain? Evidence from a visual cortical face area and a subcortical auditory area.</b>
+      <br><i>Society for Neuroscience annual meeting 2015, Poster session on Oscillations and synchrony: Unit studies. Chicago, IL.</i>
+      </li><br>
     <li value="10">Ebihara, A.F.   
       <br><b>A circuit mechanism for explicit multi-stimulus coding.</b>
       <br><i>JMSA New York Life Science Forum 2015, New York, NY.</i>
     </li><br>
-    <li value="9">Caruso, V.C., Ebihara, A.F., Milewski A., Tokdar, S., Freiwald W.A., and Groh J.M. 
-      <br><b>Is multiplexing a general strategy for encoding multiple items in the brain? Evidence from a visual cortical face area and a subcortical auditory area.</b>
-      <br><i>Society for Neuroscience annual meeting 2015, Poster session on Oscillations and synchrony: Unit studies. Chicago, IL.</i>
-      </li><br>
     <li value="8">Ebihara, A.F., Hocevar, A., Magnasco M.O., and Freiwald, W.A.
       <br><b>Representation of multiple stimuli by face selective neurons in the macaque temporal lobe.</b>
       <br><i>JMSA New York Life Science Forum 2015, New York, NY.</i>

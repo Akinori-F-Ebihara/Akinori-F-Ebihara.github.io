@@ -9,6 +9,7 @@ redirect_from:
 ---
 
 Under construction.
+【試験】準備中
 
 # Research Interests  
 - Bio-inspired machine learning  

@@ -99,7 +99,7 @@ author_profile: true
 Ebihara, A.F.
 <br><b>Normalization Among Heterogeneous Population Confers Stimulus Discriminability on the Macaque Face Patch Neurons.</b>
 <br><i>2015 Student Theses and Dissertations. 278.</i>
-<br>https://digitalcommons.rockefeller.edu/student_theses_and_dissertations/278
+<a>https://digitalcommons.rockefeller.edu/student_theses_and_dissertations/278</a>
 </p>
 
 ## Patents  

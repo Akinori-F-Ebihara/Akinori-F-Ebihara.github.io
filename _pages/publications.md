@@ -7,9 +7,13 @@ author_profile: true
 
 ## Journals / Peer-reviewed Conferences  
 <ol>
-    <li value="6">Ebihara, A.F., Miyagawa, T., Sakurai, K., and Imaoka, H. 
+    <li value="7">Ebihara, A.F., Miyagawa, T., Sakurai, K., and Imaoka, H. 
       <br><b>Sequential Density Ratio Estimation for Simultaneous Optimization of Speed and Accuracy.</b>
       <br><i>Manuscript under review.</i>
+    </li><br>
+    <li value="6">EImaoka, H., Hayasaka, A, Morishita, Y, Ebihara, A.F., Takahashi, K., Hashimoto, H., Liu, J., and Sakurai, K.
+      <br><b>The future of biometrics technology: from face recognition to related applications.</b>
+      <br><i>Manuscript in preparation.</i>
     </li><br>
     <li value="5">Ebihara, A.F., Sakurai, K., and Imaoka, H.  
       <br><b>Specular- and Diffuse-reflection-based Face Spoofing Detection for Mobile Devices.</b>

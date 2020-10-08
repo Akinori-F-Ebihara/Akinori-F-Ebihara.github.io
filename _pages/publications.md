@@ -11,7 +11,7 @@ author_profile: true
       <br><b>Sequential Density Ratio Estimation for Simultaneous Optimization of Speed and Accuracy.</b>
       <br><i>Manuscript under review.</i>
     </li><br>
-    <li value="6">EImaoka, H., Hayasaka, A, Morishita, Y, Ebihara, A.F., Takahashi, K., Hashimoto, H., Liu, J., and Sakurai, K.
+    <li value="6">Imaoka, H., Hayasaka, A., Morishita, Y., Ebihara, A.F., Takahashi, K., Hashimoto, H., Liu, J., and Sakurai, K.
       <br><b>The future of biometrics technology: from face recognition to related applications.</b>
       <br><i>Manuscript in preparation.</i>
     </li><br>

@@ -66,7 +66,7 @@ author_profile: true
     </li><br>
     <li value="7">Ebihara, A.F., Hocevar, A., Magnasco M.O., and Freiwald, W.A. 
       <br><b>Representations of multiple stimuli by face-selective neurons in the macaque temporal lobe.</b>
-      <br><i>Society for Neuroscience annual meeting, Poster session on Neural Processing of Faces and Bodies, Washington, DC.</i>
+      <br><i>Society for Neuroscience annual meeting 2014, Poster session on Neural Processing of Faces and Bodies, Washington, DC.</i>
     </li><br>
     <li value="6">Ebihara, A.F., Hocevar, A., Magnasco M.O., and Freiwald, W.A. 
       <br><b>Representations of multiple stimuli in the macaque temporal lobe.</b>

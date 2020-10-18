@@ -103,8 +103,24 @@ Ebihara, A.F.
 </p>
 
 ## Patents  
-under construction.  
 
+<table cellspacing="0" cellpadding="0">
+  <tr>
+    <td>   </td>
+    <td>Patent number</td>
+    <td>Authors*</td>
+    <td>Description</td>
+    <td>Status</td>
+  </tr>
+  <tr>
+    <td>[28]</td>
+    <td>N.A.</td>
+    <td>MT, AFE</td>
+    <td>Undisclosed (SPRT-related)</td>
+    <td>in prep.</td>
+  </tr>
+</table>  
+*AFE: Akinori F. Ebihara, TM: Taiki Miyagawa.
 
 <!-- {% if author.googlescholar %}
   You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>

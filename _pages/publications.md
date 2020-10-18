@@ -107,10 +107,10 @@ Ebihara, A.F.
 <table cellspacing="0" cellpadding="0">
   <tr>
     <td>   </td>
-    <td>Patent number</td>
-    <td>Authors*</td>
-    <td>Description</td>
-    <td>Status</td>
+    <td><b>Patent number</b></td>
+    <td><b>Authors*</b></td>
+    <td><b>Description</b></td>
+    <td><b>Status</b></td>
   </tr>
   <tr>
     <td>[28]</td>

@@ -104,8 +104,8 @@ Ebihara, A.F.
 
 ## Patents  
 
-<table style="border:none;">
-  <tr　style="border:none;">
+<table>
+  <tr>
     <td>   </td>
     <td><b>Patent number</b></td>
     <td><b>Authors*</b></td>

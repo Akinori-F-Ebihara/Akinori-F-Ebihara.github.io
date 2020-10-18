@@ -115,9 +115,51 @@ Ebihara, A.F.
   <tr>
     <td>[28]</td>
     <td>N.A.</td>
+    <td>Taiki Miyagawa, Akinori F. Ebihara</td>
+    <td>Undisclosed (SPRT-related)</td>
+    <td>in prep.</td>
+  </tr>
+  <tr>
+    <td>[27]</td>
+    <td>N.A.</td>
     <td>MT, AFE</td>
     <td>Undisclosed (SPRT-related)</td>
     <td>in prep.</td>
+  </tr>
+  <tr>
+    <td>[26]</td>
+    <td>N.A.</td>
+    <td>MT, AFE</td>
+    <td>Undisclosed (SPRT-related)</td>
+    <td>in prep.</td>
+  </tr>
+  <tr>
+    <td>[25]</td>
+    <td>N.A.</td>
+    <td>MT, AFE</td>
+    <td>Undisclosed (SPRT-related)</td>
+    <td>in prep.</td>
+  </tr>
+  <tr>
+    <td>[24]</td>
+    <td>N.A.</td>
+    <td>MT, AFE</td>
+    <td>Undisclosed (SPRT-related)</td>
+    <td>in prep.</td>
+  </tr>
+  <tr>
+    <td>[23]</td>
+    <td>N.A.</td>
+    <td>MT, AFE</td>
+    <td>Undisclosed (SPRT-related)</td>
+    <td>in prep.</td>
+  </tr>
+  <tr>
+    <td>[22]</td>
+    <td>JP2020/034545</td>
+    <td>AFE, MT</td>
+    <td>Undisclosed (SPRT-related)</td>
+    <td>pending</td>
   </tr>
 </table>  
 *AFE: Akinori F. Ebihara, TM: Taiki Miyagawa.

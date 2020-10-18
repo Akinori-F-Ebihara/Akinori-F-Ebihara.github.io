@@ -122,47 +122,193 @@ Ebihara, A.F.
   <tr>
     <td>[27]</td>
     <td>N.A.</td>
-    <td>MT, AFE</td>
+    <td>Taiki Miyagawa, Akinori F. Ebihara</td>
     <td>Undisclosed (SPRT-related)</td>
     <td>in prep.</td>
   </tr>
   <tr>
     <td>[26]</td>
     <td>N.A.</td>
-    <td>MT, AFE</td>
+    <td>Akinori F. Ebihara, Taiki Miyagawa</td>
     <td>Undisclosed (SPRT-related)</td>
     <td>in prep.</td>
   </tr>
   <tr>
     <td>[25]</td>
     <td>N.A.</td>
-    <td>MT, AFE</td>
+    <td>Akinori F. Ebihara, Taiki Miyagawa</td>
     <td>Undisclosed (SPRT-related)</td>
     <td>in prep.</td>
   </tr>
   <tr>
     <td>[24]</td>
     <td>N.A.</td>
-    <td>MT, AFE</td>
+    <td>Akinori F. Ebihara, Taiki Miyagawa</td>
     <td>Undisclosed (SPRT-related)</td>
     <td>in prep.</td>
   </tr>
   <tr>
     <td>[23]</td>
     <td>N.A.</td>
-    <td>MT, AFE</td>
+    <td>Akinori F. Ebihara, Taiki Miyagawa</td>
     <td>Undisclosed (SPRT-related)</td>
     <td>in prep.</td>
   </tr>
   <tr>
     <td>[22]</td>
     <td>JP2020/034545</td>
-    <td>AFE, MT</td>
+    <td>Akinori F. Ebihara, Taiki Miyagawa</td>
     <td>Undisclosed (SPRT-related)</td>
     <td>pending</td>
   </tr>
+  <tr>
+    <td>[21]</td>
+    <td>JP2020/033474</td>
+    <td>Taiki Miyagawa, Akinori F. Ebihara</td>
+    <td>Undisclosed (SPRT-related)</td>
+    <td>pending</td>
+  </tr>
+  <tr>
+    <td>[20]</td>
+    <td>JP2020/018236</td>
+    <td>Taiki Miyagawa, Akinori F. Ebihara</td>
+    <td>Undisclosed (SPRT-related)</td>
+    <td>pending</td>
+  </tr>
+  <tr>
+    <td>[19]</td>
+    <td>JP2020/018889</td>
+    <td>Taiki Miyagawa, Akinori F. Ebihara</td>
+    <td>Undisclosed (SPRT-related)</td>
+    <td>pending</td>
+  </tr>
+  <tr>
+    <td>[18]</td>
+    <td>JP2020/018888</td>
+    <td>Akinori F. Ebihara</td>
+    <td>Undisclosed (SPRT-related)</td>
+    <td>pending</td>
+  </tr>
+  <tr>
+    <td>[17]</td>
+    <td>JP2020/018887</td>
+    <td>Akinori F. Ebihara</td>
+    <td>Undisclosed (SPRT-related)</td>
+    <td>pending</td>
+  </tr>
+  <tr>
+    <td>[16]</td>
+    <td>JP2020/018886</td>
+    <td>Akinori F. Ebihara</td>
+    <td>Undisclosed (SPRT-related)</td>
+    <td>pending</td>
+  </tr>
+  <tr>
+    <td>[15]</td>
+    <td>JP2020/018884</td>
+    <td>Akinori F. Ebihara</td>
+    <td>Undisclosed (SPRT-related)</td>
+    <td>pending</td>
+  </tr>
+  <tr>
+    <td>[14]</td>
+    <td>特願2019-136145</td>
+    <td>Akinori F. Ebihara</td>
+    <td>Luggage weight detection from a video</td>
+    <td>pending</td>
+  </tr>
+  <tr>
+    <td>[13]</td>
+    <td>JP2019/012793</td>
+    <td>Akinori F. Ebihara</td>
+    <td>Binary- and multi-class-Nth-order SPRT</td>
+    <td>valid</td>
+  </tr>
+  <tr>
+    <td>[12]</td>
+    <td>US16/971460</td>
+    <td>Akinori F. Ebihara</td>
+    <td>Face spoofing detection with diffusion reflection</td>
+    <td>pending</td>
+  </tr>
+  <tr>
+    <td>[11]</td>
+    <td>特願2020-501933</td>
+    <td>Akinori F. Ebihara</td>
+    <td>Face spoofing detection with diffusion reflection</td>
+    <td>pending</td>
+  </tr>
+  <tr>
+    <td>[10]</td>
+    <td>JP2018/006562</td>
+    <td>Akinori F. Ebihara</td>
+    <td>Face spoofing detection with diffusion reflection</td>
+    <td>expired</td>
+  </tr>
+  <tr>
+    <td>[9]</td>
+    <td>EP18907036.0</td>
+    <td>Akinori F. Ebihara</td>
+    <td>Face spoofing detection with specular reflection</td>
+    <td>pending</td>
+  </tr>
+  <tr>
+    <td>[8]</td>
+    <td>US16/964877</td>
+    <td>Akinori F. Ebihara</td>
+    <td>Face spoofing detection with specular reflection</td>
+    <td>pending</td>
+  </tr>
+  <tr>
+    <td>[7]</td>
+    <td>特願2020-501932</td>
+    <td>Akinori F. Ebihara</td>
+    <td>Face spoofing detection with specular reflection</td>
+    <td>pending</td>
+  </tr>
+  <tr>
+    <td>[6]</td>
+    <td>JP2018/006561</td>
+    <td>Akinori F. Ebihara</td>
+    <td>Face spoofing detection with specular reflection</td>
+    <td>expired</td>
+  </tr>
+  <tr>
+    <td>[5]</td>
+    <td>EP18869108.3</td>
+    <td>Akinori F. Ebihara</td>
+    <td>Face 3D-ness detection on a mobile device</td>
+    <td>pending</td>
+  </tr>
+  <tr>
+    <td>[4]</td>
+    <td>US16/755983</td>
+    <td>Akinori F. Ebihara</td>
+    <td>Face 3D-ness detection on a mobile device</td>
+    <td>pending</td>
+  </tr>
+  <tr>
+    <td>[3]</td>
+    <td>特願2019-549345</td>
+    <td>Akinori F. Ebihara</td>
+    <td>Face 3D-ness detection on a mobile device</td>
+    <td>valid</td>
+  </tr>
+  <tr>
+    <td>[2]</td>
+    <td>JP2018/038898</td>
+    <td>Akinori F. Ebihara</td>
+    <td>Face 3D-ness detection on a mobile device</td>
+    <td>expired</td>
+  </tr>
+  <tr>
+    <td>[1]</td>
+    <td>特願2017-203669</td>
+    <td>Akinori F. Ebihara</td>
+    <td>Face 3D-ness detection on a mobile device</td>
+    <td>expired</td>
+  </tr>
 </table>  
-*AFE: Akinori F. Ebihara, TM: Taiki Miyagawa.
 
 <!-- {% if author.googlescholar %}
   You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>

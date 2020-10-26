@@ -7,21 +7,21 @@
   float: left;
   margin-left: 0;
   margin-right: 0;
-  width: 50%;  //100%
+  width: 100%;  //100%
   clear: both;
   /* sticky footer fix start */
   position: absolute;
   bottom: 0em;
   height: auto;
   /* sticky footer fix end */
-  margin-top: 3em; //3em
+  margin-top: 0em; //3em
   color: mix(rgb(220,220,220), $gray, 25%); //#fff
   -webkit-animation: intro 0.3s both;
           animation: intro 0.3s both;
   -webkit-animation-delay: 0.45s;
           animation-delay: 0.45s;
-  background-color: rgb(220,220,220); //$lighter-gray;
-  border-top: 1px solid rgb(220,220,220); //$light-gray
+  background-color: $lighter-gray;
+  border-top: 1px solid $light-gray
 
   footer {
     @include clearfix;

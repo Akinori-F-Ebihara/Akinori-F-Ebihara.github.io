@@ -8,7 +8,7 @@ author_profile: true
 <b>NEC Biometrics Research Laboratories, </b>Kanagawa, Japan </p>
 <p style='margin-left:120.0pt;margin-top:-18px;'>
 <i>Assistant Manager at the Face Recognition Research Group</i><br>
-- Invented a deep neural network-based sequential decision making algorithm. This algorithm will be used in the NEC Corporation's face recognition suite, <b>NeoFace&reg;</b>.
+- Invented a deep neural network-based sequential decision making algorithm. This algorithm will be used in the NEC Corporation's face recognition suite, <span style="color:#145094"><b>NeoFace&reg;</span></b>.
 </p>
 
 <p style="font-size:18px">2016~2018&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
@@ -16,7 +16,7 @@ author_profile: true
 <p style='margin-left:120.0pt;margin-top:-18px;'>
 <i>Assistant Manager at the Face Recognition Research Group</i><br>
 Advisor: Dr. Hitoshi Imaoka and Mr. Kazuyuki Sakurai<br>
-- Invented a face presentation attack (spoofing) detection algorithm for resource-constrained devices. This algorithm is used in the NEC Corporation's face recognition suite, <b>NeoFace-G Lite&reg;</b>.
+- Invented a face presentation attack (spoofing) detection algorithm for resource-constrained devices. This algorithm is used in the NEC Corporation's face recognition suite, <span style="color:#145094"><b>NeoFace-G Lite&reg;</b></span>.
 </p>
 
 <p style="font-size:18px">2015~2016&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;

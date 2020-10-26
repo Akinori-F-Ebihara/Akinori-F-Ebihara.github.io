@@ -50,10 +50,10 @@
   &--inverse {
     color: $gray !important;
     border: 1px solid $light-gray !important; /* override*/
-    background-color: #fff;
+    background-color: rgb(220,220,220);
 
     &:hover {
-      color: #fff !important;
+      color: rgb(220,220,220) !important;
       border-color: $gray;
     }
   }
@@ -61,7 +61,7 @@
   /* light outline */
 
   &--light-outline {
-    border: 1px solid #fff !important; /* override*/
+    border: 1px solid rgb(220,220,220) !important; /* override*/ //fff
     background-color: transparent;
   }
 

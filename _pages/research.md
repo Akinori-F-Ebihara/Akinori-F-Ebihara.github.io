@@ -16,7 +16,7 @@ author_profile: true
 <p style='margin-left:120.0pt;margin-top:-18px;'>
 <i>Assistant Manager at the Face Recognition Research Group</i><br>
 Advisor: Dr. Hitoshi Imaoka and Mr. Kazuyuki Sakurai<br>
-- Invented a face presentation attack (spoofing) detection algorithm for resource-constrained devices. This algorithm was used in the NEC Corporation's face recognition software<b>NeoFace&reg-G Lite</b>.
+- Invented a face presentation attack (spoofing) detection algorithm for resource-constrained devices. This algorithm was used in the NEC Corporation's face recognition software, <b>NeoFace&reg-G Lite</b>.
 </p>
 
 <p style="font-size:18px">2015~2016&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;

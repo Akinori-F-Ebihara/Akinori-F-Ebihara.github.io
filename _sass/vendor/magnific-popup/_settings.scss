@@ -18,9 +18,9 @@ $mfp-include-arrows:                  true;                       // Include sty
 $mfp-controls-opacity:                1;                          // Opacity of controls
 $mfp-controls-color:                  rgb(220,220,220);                     // Color of controls
 $mfp-controls-border-color:           #000;                     // Border color of controls
-$mfp-inner-close-icon-color:          #fff;                     // Color of close button when inside
-$mfp-controls-text-color:             #ccc;                       // Color of preloader and "1 of X" indicator
-$mfp-controls-text-color-hover:       #fff;                     // Hover color of preloader and "1 of X" indicator
+$mfp-inner-close-icon-color:          rgb(220,220,220);                     // Color of close button when inside
+$mfp-controls-text-color:             rgb(200,200,200);           //ccc            // Color of preloader and "1 of X" indicator
+$mfp-controls-text-color-hover:       rgb(220,220,220);                     // Hover color of preloader and "1 of X" indicator
 $mfp-IE7support:                      true;                       // Very basic IE7 support
 
 // Iframe-type options

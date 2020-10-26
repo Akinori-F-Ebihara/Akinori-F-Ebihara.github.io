@@ -22,7 +22,8 @@ B.A. advisor: Dr. Hitoshi Sakano<br>
 B.A. mentor: Dr. Hirofumi Nishizumi<br>
 <i>Thesis: Expression mechanism of mouse odorant receptor gene</i><br>
 GPA: 3.88/4.00
-</p><br>
+</p>
+<br>
 <br>
 <br>
 <br>

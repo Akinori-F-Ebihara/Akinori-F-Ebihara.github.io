@@ -62,6 +62,17 @@ Being one of 10 representatives of School of Science, The University of Tokyo to
 <br>
 <br>
 <br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
 
 <!-- ## [Mar. 31st, 2020] NEC Central Research Laboratories Best Invention Award  
 Awarded for the invention of SPRT-TANDEM algorithm and the associated patents.  

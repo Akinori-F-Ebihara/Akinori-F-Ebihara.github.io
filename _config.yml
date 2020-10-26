@@ -9,7 +9,7 @@
 locale                   : "en-US"
 title                    : "Home"
 title_separator          : "-"
-name                     : &name "Akinori F. Ebihara, Ph.D"
+name                     : &name "Akinori F. Ebihara"
 description              : &description "A neuroscience Ph.D. working in the field of machine learning / computer vision. An orchid enthusiast."
 url                      : https://Akinori-F-Ebihara.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"

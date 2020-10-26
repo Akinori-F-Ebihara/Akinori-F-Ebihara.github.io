@@ -11,6 +11,7 @@ author_profile: true
 <b>Doctor of Philosophy in Biological Sciences</b><br>
 Ph.D. advisor: Dr. Winrich A. Freiwald, Laboratory of Neural Systems<br>
 Ph.D. co-advisor: Dr. Marcelo Magnasco, Laboratory of Mathematical Physics<br>
+Faculty advisory committee: Dr. Cornelia I. Bargmann and Dr. Charles D. Gilbert<br>
 <i>Thesis: Normalization among heterogeneous population confers stimulus discriminability on the macaque face patch neurons</i>
 </p><br>
 

@@ -50,8 +50,8 @@ $type-size-8                : 0.625em;  // ~10px
 $gray                       : #7a8288;
 $dark-gray                  : mix(#000, $gray, 40%);
 $darker-gray                : mix(#000, $gray, 60%);
-$light-gray                 : mix(#fff, $gray, 50%);
-$lighter-gray               : mix(#fff, $gray, 90%);
+$light-gray                 : mix(rgb(220,220,220), $gray, 50%);
+$lighter-gray               : mix(rgb(220,220,220), $gray, 90%);
 
 $body-color                 : rgb(220,220,220);
 $background-color           : rgb(220,220,220);

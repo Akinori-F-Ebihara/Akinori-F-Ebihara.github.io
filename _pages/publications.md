@@ -104,7 +104,7 @@ Ebihara, A.F.
 Ph.D. advisor: Dr. Winrich A. Freiwald<br>
 Ph.D. co-advisor: Dr. Marcelo Magnasco<br>
 Faculty advisory committee: Dr. Cornelia I. Bargmann and Dr. Charles D. Gilbert<br>
-</p>
+<br></p>
 
 ## Patents  
 

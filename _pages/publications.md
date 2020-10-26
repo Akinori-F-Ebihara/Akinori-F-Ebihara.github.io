@@ -7,7 +7,7 @@ author_profile: true
 
 ## Peer-reviewed Journals / Conferences  
 <ol>
-    <li value="7"><span style="color:#145094">Ebihara, A.F.</span>, Miyagawa, T., Sakurai, K., and Imaoka, H. 
+    <li value="7"><span style="color:#145094"><b>Ebihara, A.F.<b></span>, Miyagawa, T., Sakurai, K., and Imaoka, H. 
       <br><b>Sequential Density Ratio Estimation for Simultaneous Optimization of Speed and Accuracy.</b>
       <br><i>Manuscript under review.</i>
     </li><br>

@@ -44,7 +44,7 @@ $mfp-controls-color:                  rgb(220,220,220) !default;
 $mfp-controls-border-color:           #3F3F3F !default;
 $mfp-inner-close-icon-color:          #333 !default;
 $mfp-controls-text-color:             #CCC !default; // Color of preloader and "1 of X" indicator
-$mfp-controls-text-color-hover:       #FFF !default;
+$mfp-controls-text-color-hover:       rgb(220,220,220) !default; //#FFF
 $mfp-IE7support:                      true !default; // Very basic IE7 support
 
 // Iframe-type options
@@ -62,7 +62,7 @@ $mfp-image-padding-bottom:            40px !default;
 $mfp-include-mobile-layout-for-image: true !default; // Removes paddings from top and bottom
 
 // Image caption options
-$mfp-caption-title-color:             #F3F3F3 !default;
+$mfp-caption-title-color:             rgb(220,220,220) !default; //F3F3F3
 $mfp-caption-subtitle-color:          #BDBDBD !default;
 
 // A11y

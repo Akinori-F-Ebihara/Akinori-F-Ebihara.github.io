@@ -12,29 +12,29 @@ author_profile: true
       <a href="https://arxiv.org/abs/2006.05587">[arXiv]</a>
       <br><i>Manuscript under review.</i>
     </li><br>
-    <li value="6">Imaoka, H., Hashimoto, H., Takahashi, K., Ebihara, A.F., Liu, J., Hayasaka, A., Morishita, Y., and Sakurai, K.
+    <li value="6">Imaoka, H., Hashimoto, H., Takahashi, K., <span style="color:#145094"><b>Ebihara, A.F.</b></span>, Liu, J., Hayasaka, A., Morishita, Y., and Sakurai, K.
       <br><b>The future of biometrics technology: from face recognition to related applications.</b>
       <br><i>Manuscript in preparation.</i>
     </li><br>
-    <li value="5">Ebihara, A.F., Sakurai, K., and Imaoka, H.  
+    <li value="5"><span style="color:#145094"><b>Ebihara, A.F.</b></span>, Sakurai, K., and Imaoka, H.  
       <br><b>Specular- and Diffuse-reflection-based Face Spoofing Detection for Mobile Devices.</b>
       <a href="https://arxiv.org/abs/1907.12400">[arXiv]</a>
       <br><i>International Joint Conference on Biometrics (IJCB) 2020, Virtual conference.</i>
       <br><b>*IJCB 2020 Google PC Chairs Choice Best Paper Award</b>
     </li><br>
-    <li value="4">Caruso, V.C., Mohl, J.T., Glynn, C., Jee, J., Willets, S.M., Azman, A., Ebihara, A.F., Estrada, R., Freiwald, W.A., Tokdar, S.T., and Groh, J.M. 
+    <li value="4">Caruso, V.C., Mohl, J.T., Glynn, C., Jee, J., Willets, S.M., Azman, A., <span style="color:#145094"><b>Ebihara, A.F.</b></span>, Estrada, R., Freiwald, W.A., Tokdar, S.T., and Groh, J.M. 
       <br><b>Single neurons may encode simultaneous stimuli by switching between activity patterns.</b>
       <br><i>Nature Communications 9, 2715 (2018).</i>
       </li><br>
-    <li value="3">Ebihara, A.F., Hocevar, A., Magnasco M.O., and Freiwald, W.A. 
+    <li value="3"><span style="color:#145094"><b>Ebihara, A.F.</b></span>, Hocevar, A., Magnasco M.O., and Freiwald, W.A. 
       <br><b>Multi-object scene encoding in face-selective cortex.</b>
       <br><i>Manuscript in preparation.</i>
     </li><br>
-    <li value="2">Leibo, J.Z., Anselmi, F., Mutch J., Ebihara, A.F., Freiwald, W.A., and Poggio, T. 
+    <li value="2">Leibo, J.Z., Anselmi, F., Mutch J., <span style="color:#145094"><b>Ebihara, A.F.</b></span>, Freiwald, W.A., and Poggio, T. 
       <br><b>View-invariance and mirror-symmetric tuning in a model of the macaque face-processing system. </b>
       <br><i>Cosyne 2013, Salt Lake City, UT,  USA.</i>
     </li><br>
-    <li value="1">Ebihara, A.F. and Freiwald, W.A. 
+    <li value="1"><span style="color:#145094"><b>Ebihara, A.F.</b></span> and Freiwald, W.A. 
       <br><b>Representation of multiple stimuli in the macaque middle face patch. </b>
       <br><i>Cosyne 2012, Salt Lake City, UT, USA.</i>
     </li><br>
@@ -42,55 +42,55 @@ author_profile: true
 
 ## Non-peer-reviewed Presentations  
 <ol>
-    <li value="13">Kawai, H., Watanabe, D., Ito, K., Aoki, T., Ebihara, A.F., Sakurai, K., and Imaoka, H. 
+    <li value="13">Kawai, H., Watanabe, D., Ito, K., Aoki, T., <span style="color:#145094"><b>Ebihara, A.F.</b></span>, Sakurai, K., and Imaoka, H. 
       <br><b>Spoofing Detection for the Face Authentication Using Deep Learning.</b>
       <br><i>2019 Symposium on Cryptography and Information Security. (IEICE SCIS) Otsu city, Shiga, Japan.</i>
     </li><br>
-    <li value="12">Ebihara, A.F., Sakurai, K., and Imaoka, H. 
+    <li value="12"><span style="color:#145094"><b>Ebihara, A.F.</b></span>, Sakurai, K., and Imaoka, H. 
       <br><b>Flash Reflection-based Face Liveness Detection for Mobile Devices.</b>
       <br><i>The Eighth Symposium on Biometrics, Recognition and Authentication (IEICE SBRA2018), Iidabashi, Tokyo, Japan.</i>
     </li><br>
-    <li value="11">Ebihara, A.F., Sakurai, K., and Imaoka, H. 
+    <li value="11"><span style="color:#145094"><b>Ebihara, A.F.</b></span>, Sakurai, K., and Imaoka, H. 
       <br><b>Spoofing Detection with a Monocular Camera using Flash Reflection.</b>
       <br><i>IEICE Bio-X Study Group 2018. Kanazawa city, Ishikawa, Japan.</i>
     </li><br>
-    <li value="10">Caruso, V.C., Ebihara, A.F., Milewski A., Tokdar, S., Freiwald W.A., and Groh J.M. 
+    <li value="10">Caruso, V.C., <span style="color:#145094"><b>Ebihara, A.F.</b></span>, Milewski A., Tokdar, S., Freiwald W.A., and Groh J.M. 
       <br><b>Is multiplexing a general strategy for encoding multiple items in the brain? Evidence from a visual cortical face area and a subcortical auditory area.</b>
       <br><i>Society for Neuroscience annual meeting 2015, Poster session on Oscillations and synchrony: Unit studies. Chicago, IL.</i>
       </li><br>
-    <li value="10">Ebihara, A.F.   
+    <li value="10"><span style="color:#145094"><b>Ebihara, A.F.</b></span>   
       <br><b>A circuit mechanism for explicit multi-stimulus coding.</b>
       <br><i>JMSA New York Life Science Forum 2015, New York, NY.</i>
     </li><br>
-    <li value="8">Ebihara, A.F., Hocevar, A., Magnasco M.O., and Freiwald, W.A.
+    <li value="8"><span style="color:#145094"><b>Ebihara, A.F.</b></span>, Hocevar, A., Magnasco M.O., and Freiwald, W.A.
       <br><b>Representation of multiple stimuli by face selective neurons in the macaque temporal lobe.</b>
       <br><i>JMSA New York Life Science Forum 2015, New York, NY.</i>
     </li><br>
-    <li value="7">Ebihara, A.F., Hocevar, A., Magnasco M.O., and Freiwald, W.A. 
+    <li value="7"><span style="color:#145094"><b>Ebihara, A.F.</b></span>, Hocevar, A., Magnasco M.O., and Freiwald, W.A. 
       <br><b>Representations of multiple stimuli by face-selective neurons in the macaque temporal lobe.</b>
       <br><i>Society for Neuroscience annual meeting 2014, Poster session on Neural Processing of Faces and Bodies, Washington, DC.</i>
     </li><br>
-    <li value="6">Ebihara, A.F., Hocevar, A., Magnasco M.O., and Freiwald, W.A. 
+    <li value="6"><span style="color:#145094"><b>Ebihara, A.F.</b></span>, Hocevar, A., Magnasco M.O., and Freiwald, W.A. 
       <br><b>Representations of multiple stimuli in the macaque temporal lobe.</b>
       <br><i>Cold Spring Harbor Symposium on Quantitative Biology 2014: Cognition, Cold Spring Harbor, NY.</i>
     </li><br>
-    <li value="5">Ebihara, A.F., Leibo, J.Z., Poggio, T., and Freiwald, W.A. 
+    <li value="5"><span style="color:#145094"><b>Ebihara, A.F.</b></span>, Leibo, J.Z., Poggio, T., and Freiwald, W.A. 
       <br><b>Max-pooling and clutter tolerance in the macaque face processing system.</b>
       <br><i>NSF-STC site visit at McGovern Institute for Brain Research (MIT), 2012, Cambridge, MA.</i>
     </li><br>
-    <li value="4">Ebihara, A.F. and Freiwald, W.A.   
+    <li value="4"><span style="color:#145094"><b>Ebihara, A.F.</b></span> and Freiwald, W.A.   
       <br><b>Representations of multiple stimuli in the macaque face patches.</b>
       <br><i>Society for Neuroscience annual meeting 2012, Poster session on Neural Processing of Faces and Bodies, Session 263.10/Y19, New Orleans, LA.</i>
     </li><br>
-    <li value="3">Ebihara, A.F., Tsao, D.Y., and Freiwald, W.A.
+    <li value="3"><span style="color:#145094"><b>Ebihara, A.F.</b></span>, Tsao, D.Y., and Freiwald, W.A.
       <br><b>Representation of multiple stimuli by face-selective neurons in the macaque temporal lobe.</b>
       <br><i>Society for Neuroscience annual meeting 2011, Poster session on Face Processing in Extrastriate Cortex,Session 487.06/OO36, Washington, DC.</i>
       </li><br>
-    <li value="2">Ebihara, A.F., Tsao, D.Y., and Freiwald, W.A.
+    <li value="2"><span style="color:#145094"><b>Ebihara, A.F.</b></span>, Tsao, D.Y., and Freiwald, W.A.
       <br><b>Representations of multiple objects in the macaque face processing system.</b>
       <br><i>Society for Neuroscience annual meeting 2010, Nanosymposium on Encoding of Visually Presented Faces II, Session 834.4, San Diego, CA.</i>
     </li><br>
-    <li value="1">Nishizumi, H., Nakayama, H, Ebihara, A.F., and Sakano, H.
+    <li value="1">Nishizumi, H., Nakayama, H, <span style="color:#145094"><b>Ebihara, A.F.</b></span>, and Sakano, H.
       <br><b>Odorant receptor gene choice in the mouse olfactory system.</b>
       <br><i>The 31st Annual Meeting of the Japan Neuroscience Society, 2008, Oral session O1-H04, Tokyo, Japan.</i>
     </li><br>
@@ -98,7 +98,7 @@ author_profile: true
 
 ## Ph.D. Thesis
 <p style='margin-left:30.0pt'>
-Ebihara, A.F.
+<span style="color:#145094"><b>Ebihara, A.F.</b></span>
 <br><b>Normalization Among Heterogeneous Population Confers Stimulus Discriminability on the Macaque Face Patch Neurons.</b>
 <br><i>2015 Student Theses and Dissertations. 278.</i> 
 <a href="https://digitalcommons.rockefeller.edu/student_theses_and_dissertations/278">[link]</a>

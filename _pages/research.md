@@ -61,6 +61,19 @@ Advisor: Dr. Hitoshi Imaoka and Mr. Kazuyuki Sakurai<br>
 <i>Undergraduate, Department of Biophysics and Biochemistry, School of Science</i><br>
 - Developed programs for shotgun sequencing (Java), extracting information from databases (Perl regular expression) and MAP kinase cascade simulation (GENESIS/kinetikit)  
 </p>
+
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+
 <!-- 
 ## [2018~present] Biometrics Research Laboratories, NEC, Kanagawa, Japan  
 Assistant Manager at the Face Recognition Research Group

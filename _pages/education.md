@@ -41,11 +41,6 @@ GPA: 3.88/4.00
 <br>
 <br>
 <br>
-<br>
-<br>
-<br>
-<br>
-<br>
 
 <!-- 
 ## [2008-2015] The Rockefeller University (RU), New York, NY  

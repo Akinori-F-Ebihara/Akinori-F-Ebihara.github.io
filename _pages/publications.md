@@ -101,6 +101,7 @@ Ebihara, A.F.
 <br><i>2015 Student Theses and Dissertations. 278.</i>
 <a>https://digitalcommons.rockefeller.edu/student_theses_and_dissertations/278</a>
 </p>
+<br>
 
 ## Patents  
 

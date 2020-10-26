@@ -9,6 +9,7 @@ author_profile: true
 <ol>
     <li value="7"><span style="color:#145094"><b>Ebihara, A.F.</b></span>, Miyagawa, T., Sakurai, K., and Imaoka, H. 
       <br><b>Sequential Density Ratio Estimation for Simultaneous Optimization of Speed and Accuracy.</b>
+      <a href="https://arxiv.org/abs/2006.05587">[arXiv]</a>
       <br><i>Manuscript under review.</i>
     </li><br>
     <li value="6">Imaoka, H., Hashimoto, H., Takahashi, K., Ebihara, A.F., Liu, J., Hayasaka, A., Morishita, Y., and Sakurai, K.
@@ -17,6 +18,7 @@ author_profile: true
     </li><br>
     <li value="5">Ebihara, A.F., Sakurai, K., and Imaoka, H.  
       <br><b>Specular- and Diffuse-reflection-based Face Spoofing Detection for Mobile Devices.</b>
+      <a href="https://arxiv.org/abs/1907.12400">[arXiv]</a>
       <br><i>International Joint Conference on Biometrics (IJCB) 2020, Virtual conference.</i>
       <br><b>*IJCB 2020 Google PC Chairs Choice Best Paper Award</b>
     </li><br>

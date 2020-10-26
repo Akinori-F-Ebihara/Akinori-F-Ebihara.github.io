@@ -11,8 +11,16 @@ redirect_from:
 Under construction.
 【試験】準備中  
   
-    
-
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>    
 
 # Research Interests  
 - Bio-inspired machine learning  
@@ -22,10 +30,20 @@ Under construction.
   - Face recognition (visual neuroscience)
   - Face presentation attack detection (PAD)
   
+<br>
+<br>
+<br>
 
 # Contact  
 jazzzcaster[at]gmail.com  
-  
-  
 
-  
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>

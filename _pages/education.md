@@ -23,7 +23,16 @@ B.A. mentor: Dr. Hirofumi Nishizumi<br>
 <i>Thesis: Expression mechanism of mouse odorant receptor gene</i><br>
 GPA: 3.88/4.00
 </p><br>
-
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
 <!-- 
 ## [2008-2015] The Rockefeller University (RU), New York, NY  
 **Doctor of Philosophy in Biological Sciences**  

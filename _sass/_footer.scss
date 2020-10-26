@@ -7,7 +7,7 @@
   float: left;
   margin-left: 0;
   margin-right: 0;
-  width: 100%;
+  width: 100%; 
   clear: both;
   /* sticky footer fix start */
   position: absolute;
@@ -21,7 +21,7 @@
   -webkit-animation-delay: 0.45s;
           animation-delay: 0.45s;
   background-color: rgb(220,220,220); //$lighter-gray;
-  border-top: 1px solid $light-gray;
+  border-top: 1px solid rgb(220,220,220); //$light-gray
 
   footer {
     @include clearfix;

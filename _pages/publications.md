@@ -233,7 +233,7 @@ Faculty advisory committee: Dr. Cornelia I. Bargmann and Dr. Charles D. Gilbert<
   <tr>
     <td>[12]</td>
     <td>US16/971460</td>
-    <td><span style="color:#145094"><b>Ebihara, A.F.</b></span>, 2020</td>
+    <td><span style="color:#145094"><b>Ebihara, A.F.</b></span>, 2020.</td>
     <td>Face spoofing detection with diffusion reflection</td>
     <td>pending</td>
   </tr>
@@ -254,14 +254,14 @@ Faculty advisory committee: Dr. Cornelia I. Bargmann and Dr. Charles D. Gilbert<
   <tr>
     <td>[9]</td>
     <td>EP18907036.0</td>
-    <td><span style="color:#145094"><b>Ebihara, A.F.</b></span>, 2020</td>
+    <td><span style="color:#145094"><b>Ebihara, A.F.</b></span>, 2020.</td>
     <td>Face spoofing detection with specular reflection</td>
     <td>pending</td>
   </tr>
   <tr>
     <td>[8]</td>
     <td>US16/964877</td>
-    <td><span style="color:#145094"><b>Ebihara, A.F.</b></span>, 2020</td>
+    <td><span style="color:#145094"><b>Ebihara, A.F.</b></span>, 2020.</td>
     <td>Face spoofing detection with specular reflection</td>
     <td>pending</td>
   </tr>
@@ -282,14 +282,14 @@ Faculty advisory committee: Dr. Cornelia I. Bargmann and Dr. Charles D. Gilbert<
   <tr>
     <td>[5]</td>
     <td>EP18869108.3</td>
-    <td><span style="color:#145094"><b>Ebihara, A.F.</b></span>, 2020</td>
+    <td><span style="color:#145094"><b>Ebihara, A.F.</b></span>, 2020.</td>
     <td>Face 3D-ness detection on a mobile device</td>
     <td>pending</td>
   </tr>
   <tr>
     <td>[4]</td>
     <td>US16/755983</td>
-    <td><span style="color:#145094"><b>Ebihara, A.F.</b></span>, 2020</td>
+    <td><span style="color:#145094"><b>Ebihara, A.F.</b></span>, 2020.</td>
     <td>Face 3D-ness detection on a mobile device</td>
     <td>pending</td>
   </tr>

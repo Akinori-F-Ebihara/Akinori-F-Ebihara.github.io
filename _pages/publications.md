@@ -7,6 +7,10 @@ author_profile: true
 
 ## Peer-reviewed Journals / Conferences  
 <ol>
+    <li value="8"><span style="color:#145094"><b>Ebihara, A.F.</b></span>, Sakurai, K., and Imaoka, H. 
+      <br><b>Efficient face spoofing detection with flash.</b>
+      <br><i>Manuscript in preparation.</i>
+    </li><br>
     <li value="7"><span style="color:#145094"><b>Ebihara, A.F.</b></span>, Miyagawa, T., Sakurai, K., and Imaoka, H. 
       <br><b>Sequential Density Ratio Estimation for Simultaneous Optimization of Speed and Accuracy.</b>
       <a href="https://arxiv.org/abs/2006.05587">[arXiv]</a>
@@ -14,7 +18,7 @@ author_profile: true
     </li><br>
     <li value="6">Imaoka, H., Hashimoto, H., Takahashi, K., <span style="color:#145094"><b>Ebihara, A.F.</b></span>, Liu, J., Hayasaka, A., Morishita, Y., and Sakurai, K.
       <br><b>The future of biometrics technology: from face recognition to related applications.</b>
-      <br><i>Manuscript in preparation.</i>
+      <br><i>Manuscript under review.</i>
     </li><br>
     <li value="5"><span style="color:#145094"><b>Ebihara, A.F.</b></span>, Sakurai, K., and Imaoka, H.  
       <br><b>Specular- and Diffuse-reflection-based Face Spoofing Detection for Mobile Devices.</b>

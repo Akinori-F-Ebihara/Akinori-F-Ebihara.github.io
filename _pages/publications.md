@@ -12,7 +12,7 @@ author_profile: true
       <br><i>Manuscript in preparation.</i>
     </li><br>
     <li value="7"><span style="color:#145094"><b>Ebihara, A.F.</b></span>, Miyagawa, T., Sakurai, K., and Imaoka, H. 
-      <br><b>Sequential Density Ratio Estimation for Simultaneous Optimization of Speed and Accuracy.</b>
+      <br><b>Sequential density ratio estimation for simultaneous optimization of speed and accuracy.</b>
       <a href="https://arxiv.org/abs/2006.05587">[arXiv]</a>
       <br><i>Manuscript under review.</i>
     </li><br>

@@ -16,6 +16,13 @@ Under construction.
 <br>
 <br>
 
+### References
+[1]  
+[2]  
+[3]  
+[4]  
+[5]  
+
 # Research Interests  
 - Bio-inspired machine learning  
 - Sequential Probability Ratio Test (SPRT)

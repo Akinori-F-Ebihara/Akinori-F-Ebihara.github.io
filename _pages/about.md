@@ -19,6 +19,8 @@ Under construction.
 # Research Interests  
 - Bio-inspired machine learning  
 - Sequential Probability Ratio Test (SPRT)
+- Density ratio estimation
+- Time-series analysis
 - Face
   - Face recognition (computer vision)
   - Face recognition (visual neuroscience)

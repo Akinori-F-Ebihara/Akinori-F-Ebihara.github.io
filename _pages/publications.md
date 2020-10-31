@@ -113,7 +113,6 @@ Faculty advisory committee: Dr. Cornelia I. Bargmann and Dr. Charles D. Gilbert<
 <br></p>
 
 ## Patents  
-
 <table>
   <tr>
     <td>   </td>

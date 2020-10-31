@@ -8,7 +8,7 @@ author_profile: true
 Oct. 1st, 2020&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>IJCB 2020 Google PC Chairs Choice Best Paper Award</b>
 </p>
 <p style='margin-left:155.0pt;margin-top:-18px'>
-Awarded for the paper "Specular- and Diffuse-reflection-based Face Spoofing Detection for Mobile Devices. "<br>
+Awarded for the paper "Specular- and Diffuse-reflection-based Face Spoofing Detection for Mobile Devices."<br>
 </p>
 <p style="font-size:20px;margin-top:20px">
 Mar. 31st, 2020&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>NEC Central Research Laboratories Best Invention Award 2020</b>

@@ -31,7 +31,7 @@ jazzzcaster[at]gmail.com
 <br>
 
 ## References
-<ol class="bracket">
+<ol>
     <li value="1">
     Hubel, D. H., Wiesel, T. N. RECEPTIVE FIELDS AND FUNCTIONAL ARCHITECTURE IN TWO NONSTRIATE VISUAL AREAS (18 AND 19) OF THE CAT. Journal of Neurophysiology 1965, 28 (2), 229–289.
     </li>

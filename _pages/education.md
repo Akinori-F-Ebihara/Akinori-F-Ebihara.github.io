@@ -6,7 +6,7 @@ author_profile: true
 ---
 
 <p style="font-size:22px">2008-2015&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<b>The Rockefeller University (RU), New York, NY</b></p>
+<b>The Rockefeller University, New York, NY</b></p>
 <p style='margin-left:145.0pt;margin-top:-15px'>
 <b>Doctor of Philosophy in Biological Sciences</b><br>
 Ph.D. advisor: Dr. Winrich A. Freiwald, Laboratory of Neural Systems<br>
@@ -24,6 +24,10 @@ B.A. mentor: Dr. Hirofumi Nishizumi<br>
 <i>Thesis: Expression mechanism of mouse odorant receptor gene</i><br>
 GPA: 3.88/4.00
 </p>
+<br>
+<br>
+<br>
+<br>
 <br>
 <br>
 <br>

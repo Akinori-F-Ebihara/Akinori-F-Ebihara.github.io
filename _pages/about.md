@@ -48,7 +48,7 @@ jazzzcaster[at]gmail.com
     Silver, D., Schrittwieser, J., Simonyan, K., Antonoglou, I., Huang, A., Guez, A., Hubert, T., Baker, L., Lai, M., Bolton, A., Chen, Y., Lillicrap, T., Hui, F., Sifre, L., van den Driessche, G., Graepel, T., Hassabis, D. Mastering the Game of Go without Human Knowledge. Nature 2017, 550 (7676), 354–359.
     </li>
     <li value="6">
-    Nonaka, S., Majima, K., Aoki, S. C., Kamitani, Y. Brain Hierarchy Score: Which Deep Neural Networks Are Hierarchically Brain-Like? 53.
+    Nonaka, S., Majima, K., Aoki, S. C., Kamitani, Y. Brain Hierarchy Score: Which Deep Neural Networks Are Hierarchically Brain-Like? bioRxiv 2020.
     </li>
     <li value="7">
     Wald, A. Sequential Analysis. Wiley, Hoboken, NJ, USA, 1947.

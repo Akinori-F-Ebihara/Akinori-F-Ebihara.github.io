@@ -23,6 +23,7 @@ Under construction.
   - Face recognition (computer vision)
   - Face recognition (visual neuroscience)
   - Face presentation attack detection (PAD)
+  - Face morphing attack detection (MAD)
 <br>  
 
 # Contact  

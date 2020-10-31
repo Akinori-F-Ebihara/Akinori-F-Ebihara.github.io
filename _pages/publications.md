@@ -8,16 +8,16 @@ author_profile: true
 ## Peer-reviewed Journals / Conferences  
 <ol>
     <li value="8"><span style="color:#145094"><b>Ebihara, A.F.</b></span>, Sakurai, K., and Imaoka, H. 
-      <br><b>Efficient face spoofing detection with flash.</b>
+      <br><b>Efficient Face Spoofing Detection with Flash.</b>
       <br><i>Manuscript in preparation.</i>
     </li><br>
     <li value="7"><span style="color:#145094"><b>Ebihara, A.F.</b></span>, Miyagawa, T., Sakurai, K., and Imaoka, H. 
-      <br><b>Sequential density ratio estimation for simultaneous optimization of speed and accuracy.</b>
+      <br><b>Sequential Density Ratio Estimation for Simultaneous Optimization of Speed and Accuracy.</b>
       <a href="https://arxiv.org/abs/2006.05587">[arXiv]</a>
       <br><i>Manuscript under review.</i>
     </li><br>
     <li value="6">Imaoka, H., Hashimoto, H., Takahashi, K., <span style="color:#145094"><b>Ebihara, A.F.</b></span>, Liu, J., Hayasaka, A., Morishita, Y., and Sakurai, K.
-      <br><b>The future of biometrics technology: from face recognition to related applications.</b>
+      <br><b>The Future of Biometrics Technology: from Face Recognition to Related Applications.</b>
       <br><i>Manuscript under review.</i>
     </li><br>
     <li value="5"><span style="color:#145094"><b>Ebihara, A.F.</b></span>, Sakurai, K., and Imaoka, H.  
@@ -27,19 +27,19 @@ author_profile: true
       <br><b>*IJCB 2020 Google PC Chairs Choice Best Paper Award</b>
     </li><br>
     <li value="4">Caruso, V.C., Mohl, J.T., Glynn, C., Jee, J., Willets, S.M., Azman, A., <span style="color:#145094"><b>Ebihara, A.F.</b></span>, Estrada, R., Freiwald, W.A., Tokdar, S.T., and Groh, J.M. 
-      <br><b>Single neurons may encode simultaneous stimuli by switching between activity patterns.</b>
+      <br><b>Single Neurons May Encode Simultaneous Stimuli by Switching Between Activity Patterns.</b>
       <br><i>Nature Communications 9, 2715 (2018).</i>
       </li><br>
     <li value="3"><span style="color:#145094"><b>Ebihara, A.F.</b></span>, Hocevar, A., Magnasco M.O., and Freiwald, W.A. 
-      <br><b>Multi-object scene encoding in face-selective cortex.</b>
+      <br><b>Multi-object Scene Encoding in Face-selective Cortex.</b>
       <br><i>Manuscript in preparation.</i>
     </li><br>
     <li value="2">Leibo, J.Z., Anselmi, F., Mutch J., <span style="color:#145094"><b>Ebihara, A.F.</b></span>, Freiwald, W.A., and Poggio, T. 
-      <br><b>View-invariance and mirror-symmetric tuning in a model of the macaque face-processing system. </b>
+      <br><b>View-invariance and Mirror-symmetric Tuning in a Model of the Macaque Face-processing System. </b>
       <br><i>Cosyne 2013, Salt Lake City, UT,  USA.</i>
     </li><br>
     <li value="1"><span style="color:#145094"><b>Ebihara, A.F.</b></span> and Freiwald, W.A. 
-      <br><b>Representation of multiple stimuli in the macaque middle face patch. </b>
+      <br><b>Representation of Multiple Stimuli in the Macaque Middle Face Patch. </b>
       <br><i>Cosyne 2012, Salt Lake City, UT, USA.</i>
     </li><br>
 </ol>
@@ -59,43 +59,43 @@ author_profile: true
       <br><i>IEICE Bio-X Study Group 2018. Kanazawa city, Ishikawa, Japan.</i>
     </li><br>
     <li value="10">Caruso, V.C., <span style="color:#145094"><b>Ebihara, A.F.</b></span>, Milewski A., Tokdar, S., Freiwald W.A., and Groh J.M. 
-      <br><b>Is multiplexing a general strategy for encoding multiple items in the brain? Evidence from a visual cortical face area and a subcortical auditory area.</b>
+      <br><b>Is Multiplexing a General Strategy for Encoding Multiple Items in the Brain? Evidence From a Visual Cortical Face Area and a Subcortical Auditory Area.</b>
       <br><i>Society for Neuroscience annual meeting 2015, Poster session on Oscillations and synchrony: Unit studies. Chicago, IL.</i>
       </li><br>
     <li value="10"><span style="color:#145094"><b>Ebihara, A.F.</b></span>   
-      <br><b>A circuit mechanism for explicit multi-stimulus coding.</b>
+      <br><b>A Circuit Mechanism for Explicit Multi-stimulus Coding.</b>
       <br><i>JMSA New York Life Science Forum 2015, New York, NY.</i>
     </li><br>
     <li value="8"><span style="color:#145094"><b>Ebihara, A.F.</b></span>, Hocevar, A., Magnasco M.O., and Freiwald, W.A.
-      <br><b>Representation of multiple stimuli by face selective neurons in the macaque temporal lobe.</b>
+      <br><b>Representation of Multiple Stimuli by Face Selective Neurons in the Macaque Temporal Lobe.</b>
       <br><i>JMSA New York Life Science Forum 2015, New York, NY.</i>
     </li><br>
     <li value="7"><span style="color:#145094"><b>Ebihara, A.F.</b></span>, Hocevar, A., Magnasco M.O., and Freiwald, W.A. 
-      <br><b>Representations of multiple stimuli by face-selective neurons in the macaque temporal lobe.</b>
+      <br><b>Representations of Multiple Stimuli by Face-selective Neurons in the Macaque Temporal Lobe.</b>
       <br><i>Society for Neuroscience annual meeting 2014, Poster session on Neural Processing of Faces and Bodies, Washington, DC.</i>
     </li><br>
     <li value="6"><span style="color:#145094"><b>Ebihara, A.F.</b></span>, Hocevar, A., Magnasco M.O., and Freiwald, W.A. 
-      <br><b>Representations of multiple stimuli in the macaque temporal lobe.</b>
+      <br><b>Representations of Multiple Stimuli in the Macaque Temporal Lobe.</b>
       <br><i>Cold Spring Harbor Symposium on Quantitative Biology 2014: Cognition, Cold Spring Harbor, NY.</i>
     </li><br>
     <li value="5"><span style="color:#145094"><b>Ebihara, A.F.</b></span>, Leibo, J.Z., Poggio, T., and Freiwald, W.A. 
-      <br><b>Max-pooling and clutter tolerance in the macaque face processing system.</b>
+      <br><b>Max-pooling and Clutter Tolerance in the Macaque Face Processing System.</b>
       <br><i>NSF-STC site visit at McGovern Institute for Brain Research (MIT), 2012, Cambridge, MA.</i>
     </li><br>
     <li value="4"><span style="color:#145094"><b>Ebihara, A.F.</b></span> and Freiwald, W.A.   
-      <br><b>Representations of multiple stimuli in the macaque face patches.</b>
+      <br><b>Representations of Multiple Stimuli in the Macaque Face Patches.</b>
       <br><i>Society for Neuroscience annual meeting 2012, Poster session on Neural Processing of Faces and Bodies, Session 263.10/Y19, New Orleans, LA.</i>
     </li><br>
     <li value="3"><span style="color:#145094"><b>Ebihara, A.F.</b></span>, Tsao, D.Y., and Freiwald, W.A.
-      <br><b>Representation of multiple stimuli by face-selective neurons in the macaque temporal lobe.</b>
+      <br><b>Representation of Multiple Stimuli by Face-selective Neurons in the Macaque Temporal Lobe.</b>
       <br><i>Society for Neuroscience annual meeting 2011, Poster session on Face Processing in Extrastriate Cortex,Session 487.06/OO36, Washington, DC.</i>
       </li><br>
     <li value="2"><span style="color:#145094"><b>Ebihara, A.F.</b></span>, Tsao, D.Y., and Freiwald, W.A.
-      <br><b>Representations of multiple objects in the macaque face processing system.</b>
+      <br><b>Representations of Multiple Objects in the Macaque Face Processing System.</b>
       <br><i>Society for Neuroscience annual meeting 2010, Nanosymposium on Encoding of Visually Presented Faces II, Session 834.4, San Diego, CA.</i>
     </li><br>
     <li value="1">Nishizumi, H., Nakayama, H, <span style="color:#145094"><b>Ebihara, A.F.</b></span>, and Sakano, H.
-      <br><b>Odorant receptor gene choice in the mouse olfactory system.</b>
+      <br><b>Odorant Receptor Gene Choice in the Mouse Olfactory System.</b>
       <br><i>The 31st Annual Meeting of the Japan Neuroscience Society, 2008, Oral session O1-H04, Tokyo, Japan.</i>
     </li><br>
 </ol>

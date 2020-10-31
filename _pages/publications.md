@@ -62,7 +62,7 @@ author_profile: true
       <br><b>Is Multiplexing a General Strategy for Encoding Multiple Items in the Brain? Evidence From a Visual Cortical Face Area and a Subcortical Auditory Area.</b>
       <br><i>Society for Neuroscience annual meeting 2015, Poster session on Oscillations and synchrony: Unit studies. Chicago, IL.</i>
       </li><br>
-    <li value="10"><span style="color:#145094"><b>Ebihara, A.F.</b></span>   
+    <li value="9"><span style="color:#145094"><b>Ebihara, A.F.</b></span>   
       <br><b>A Circuit Mechanism for Explicit Multi-stimulus Coding.</b>
       <br><i>JMSA New York Life Science Forum 2015, New York, NY.</i>
     </li><br>

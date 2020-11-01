@@ -24,6 +24,7 @@ One example of our bio-inspired machine learning is the study of the Sequential 
   - Face recognition (visual neuroscience)
   - Face presentation attack detection (PAD)
   - Face morphing attack detection (MAD)
+- Integrated Information Theory
 <br>  
 
 # Contact  

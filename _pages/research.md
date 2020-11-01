@@ -17,7 +17,7 @@ author_profile: true
 <i>Assistant Manager at the Face Recognition Research Group</i><br>
 Advisor: Dr. Hitoshi Imaoka and Mr. Kazuyuki Sakurai<br>
 - Invented a face presentation attack (spoofing) detection algorithm for resource-constrained devices. This algorithm is used in the NEC Corporation's face recognition suite, <span style="color:#145094"><b>NeoFace-G Lite&reg;</b></span>*.<br><br>
-*NeoFace/NeoFace-G Lite are members of NEC's multimodal authentication solutions, <span style="color:#145094"><b>Bio-IDiom</b></span>.
+*NeoFace/NeoFace-G Lite are a part of NEC's multimodal authentication solutions, <span style="color:#145094"><b>Bio-IDiom</b></span>.
 </p>
 <p style="font-size:18px">2015~2016&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <b>Laboratory of Dr. Winrich Freiwald, Laboratory of Neural Systems, The Rockefeller University</b></p>

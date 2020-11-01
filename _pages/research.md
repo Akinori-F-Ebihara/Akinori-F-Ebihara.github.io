@@ -44,21 +44,21 @@ Advisor: Dr. Hitoshi Imaoka and Mr. Kazuyuki Sakurai<br>
 </p>
 
 <p style="font-size:18px">2006~2008&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<b>Laboratory of Dr. Hitoshi Sakano, The University of Tokyo (UT)</b></p>
+<b>Laboratory of Dr. Hitoshi Sakano, The University of Tokyo</b></p>
 <p style='margin-left:120.0pt;margin-top:-18px;'>
 <i>Undergraduate, Department of Biophysics and Biochemistry, School of Science</i><br>
 - Studied how mouse olfactory sensory neurons utilize enhancer element and transcription factors to ensure specific gene expression pattern  
 </p>
 
 <p style="font-size:18px">2006~2007&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<b>Molecular Biology Laboratory Course, UT</b></p>
+<b>Molecular Biology Laboratory Course, The University of Tokyo</b></p>
 <p style='margin-left:120.0pt;margin-top:-18px;'>
 <i>Undergraduate, Department of Biophysics and Biochemistry, School of Science</i><br>
 - Learned general molecular biology research skills   
 </p>
 
 <p style="font-size:18px">2006~2007&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<b>Summer Program for Bioinformatics and Systems Biology, UT</b></p>
+<b>Summer Program for Bioinformatics and Systems Biology, The University of Tokyo</b></p>
 <p style='margin-left:120.0pt;margin-top:-18px;'>
 <i>Undergraduate, Department of Biophysics and Biochemistry, School of Science</i><br>
 - Developed programs for shotgun sequencing (Java), extracting information from databases (Perl regular expression) and MAP kinase cascade simulation (GENESIS/kinetikit)  

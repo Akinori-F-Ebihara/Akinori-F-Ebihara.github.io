@@ -20,14 +20,14 @@ Advisor: Dr. Hitoshi Imaoka and Mr. Kazuyuki Sakurai<br>
 *NeoFace/NeoFace-G Lite are members of NEC's multimodal authentication solutions, <span style="color:#145094"><b>Bio-IDiom</b></span>.
 </p>
 <p style="font-size:18px">2015~2016&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<b>Laboratory of Dr. Winrich Freiwald, Laboratory of Neural Systems, Rockefeller University (RU)</b></p>
+<b>Laboratory of Dr. Winrich Freiwald, Laboratory of Neural Systems, The Rockefeller University</b></p>
 <p style='margin-left:120.0pt;margin-top:-18px;'>
 <i>Postdoctoral Fellow</i><br>
 - Provided an explanation to the encoding scheme of the temporal lobe face-selective neurons by using computational and statistical models
 </p>
 
 <p style="font-size:18px">2008~2015&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<b>Laboratory of Dr. Winrich Freiwald, Laboratory of Neural Systems, RU<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Laboratory of Dr. Marcelo Magnasco, Laboratory of Mathematical Physics, RU</b></p>
+<b>Laboratory of Dr. Winrich Freiwald, Laboratory of Neural Systems,<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Laboratory of Dr. Marcelo Magnasco, Laboratory of Mathematical Physics,<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;The Rockefeller University</b></p>
 <p style='margin-left:120.0pt;margin-top:-18px;'>
 <i>Graduate fellow, Biology</i><br>
 - Studied the representation of multiple objects in the temporal lobe face-selective neurons<br> 

@@ -37,8 +37,10 @@ Advisor: Dr. Hitoshi Imaoka and Mr. Kazuyuki Sakurai<br>
 <p style="font-size:18px">2009~2010&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <b>Laboratory of Dr. Doris Tsao, California Institute of Technology</b></p>
 <p style='margin-left:120.0pt;margin-top:-18px;'>
-<i>Postdoctoral Fellow</i><br>
-- Provided an explanation to the encoding scheme of the temporal lobe face-selective neurons by using computational and statistical models
+<i>Visiting student, Department of Biology</i><br>
+- Conducted electrophysiological recording to study multiple object representation in temporal lobe<br>  
+- Piloted optogenetic methods for controlling and recording neural activity<br>  
+- Analyzed electrophysiological data of visual attention experiment<br>  
 </p>
 
 <p style="font-size:18px">2006~2008&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;

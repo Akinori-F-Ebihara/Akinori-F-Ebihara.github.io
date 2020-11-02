@@ -27,9 +27,6 @@ One example of our bio-inspired machine learning is the study of the Sequential 
 - Integrated Information Theory
 <br>  
 
-# Contact  
-jazzzcaster[at]gmail.com  
-<br>
 
 ## References
 <ol>

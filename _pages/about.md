@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-<span style="color:#145094"><b>Learn from the brain, but shall not be limited to.</b></span> The research of artificial intelligence has been inferenced dramatically by neuroscience, such as the representation of visual neurons [1, 2] and visual attention [3, 4]. On the other hand, given that one of the ultimate goals of artificial intelligence is to exceed the human ability [5], modern computer algorithms do not necessarily have to mimic the brain [6]. Thus, our research philosophy is to incorporate biological knowledge into a computer algorithm whenever suitable, but not be bound to it.
+<span style="color:#145094"><b>Learn from the brain, but shall not be limited to.</b></span> The research of artificial intelligence has been inferenced dramatically by neuroscience, such as the representation of visual stimuli [1, 2] and visual attention [3, 4]. On the other hand, given that one of the ultimate goals of artificial intelligence is to exceed the human ability [5], modern computer algorithms do not necessarily have to mimic the brain [6]. Thus, our research philosophy is to incorporate biological knowledge into a computer algorithm whenever suitable, but not be bound to it.
 <br>
 
 # Latest Research

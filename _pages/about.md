@@ -12,7 +12,7 @@ redirect_from:
 <br>
 
 # Latest Research
-One example of our bio-inspired machine learning is the study of the Sequential Probability Ratio Test, or SPRT [7]. SPRT is originally invented by Abraham Wald, later re-discovered as the algorithm that best explains the primate parietal lobe neurons' activity [8]. The parietal neurons are thought to be engaged in evidence-accumulating processes in complex decision-making. We extended Wald's algorithm to a more general case, using deep neural networks aided by density ratio estimation algorithms [9]. Interested readers are invited to read the [introductory article on GitHub](https://github.com/Akinori-F-Ebihara/SPRT-TANDEM_what_is_it) and/or the [original paper [10]](https://arxiv.org/abs/2006.05587).
+One example of our bio-inspired machine learning is the study of the Sequential Probability Ratio Test, or SPRT [7]. SPRT is originally invented by Abraham Wald, later re-discovered as the algorithm that best explains the primate parietal lobe neurons' activity [8]. The parietal neurons are thought to be engaged in evidence-accumulating processes in complex decision-making. We extended Wald's algorithm to a more general case, using deep neural networks aided by density ratio estimation algorithms [9]. Coined as SPRT-TANDEM, our algorithm showed a competitive speed and accuracy under various real-world scenarios. Interested readers are invited to read the [introductory article on GitHub](https://github.com/Akinori-F-Ebihara/SPRT-TANDEM_what_is_it) and/or the [original paper [10]](https://arxiv.org/abs/2006.05587).
 <br>
 
 # Research Interests  

@@ -122,6 +122,13 @@ Faculty advisory committee: Dr. Cornelia I. Bargmann and Dr. Charles D. Gilbert<
     <td><b>Status</b></td>
   </tr>
   <tr>
+    <td>[29]</td>
+    <td>N.A.</td>
+    <td>Watanabe, K., Miyagawa, T., <span style="color:#145094"><b>Ebihara, A.F.</b></span>. in prep.</td>
+    <td>Undisclosed (SPRT-related)</td>
+    <td>in prep.</td>
+  </tr>
+  <tr>
     <td>[28]</td>
     <td>N.A.</td>
     <td>Miyagawa, T., <span style="color:#145094"><b>Ebihara, A.F.</b></span>. in prep.</td>

@@ -122,9 +122,16 @@ Faculty advisory committee: Dr. Cornelia I. Bargmann and Dr. Charles D. Gilbert<
     <td><b>Status</b></td>
   </tr>
   <tr>
-    <td>[29]</td>
+    <td>[30]</td>
     <td>N.A.</td>
     <td>Watanabe, K., Miyagawa, T., <span style="color:#145094"><b>Ebihara, A.F.</b></span>. in prep.</td>
+    <td>Undisclosed (SPRT-related)</td>
+    <td>in prep.</td>
+  </tr>
+  <tr>
+    <td>[29]</td>
+    <td>N.A.</td>
+    <td>Miyagawa, T., <span style="color:#145094"><b>Ebihara, A.F.</b></span>. in prep.</td>
     <td>Undisclosed (SPRT-related)</td>
     <td>in prep.</td>
   </tr>
@@ -138,7 +145,7 @@ Faculty advisory committee: Dr. Cornelia I. Bargmann and Dr. Charles D. Gilbert<
   <tr>
     <td>[27]</td>
     <td>N.A.</td>
-    <td>Miyagawa, T., <span style="color:#145094"><b>Ebihara, A.F.</b></span>. in prep.</td>
+    <td><span style="color:#145094"><b>Ebihara, A.F.</b></span>, Miyagawa, T., 2020.</td>
     <td>Undisclosed (SPRT-related)</td>
     <td>in prep.</td>
   </tr>
@@ -165,57 +172,57 @@ Faculty advisory committee: Dr. Cornelia I. Bargmann and Dr. Charles D. Gilbert<
   </tr>
   <tr>
     <td>[23]</td>
-    <td>N.A.</td>
-    <td><span style="color:#145094"><b>Ebihara, A.F.</b></span>, Miyagawa, T., 2020.</td>
-    <td>Undisclosed (SPRT-related)</td>
-    <td>in prep.</td>
-  </tr>
-  <tr>
-    <td>[22]</td>
     <td>JP2020/034545</td>
     <td><span style="color:#145094"><b>Ebihara, A.F.</b></span>, Miyagawa, T., 2020.</td>
     <td>Undisclosed (SPRT-related)</td>
     <td>pending</td>
   </tr>
   <tr>
-    <td>[21]</td>
+    <td>[22]</td>
     <td>JP2020/033474</td>
     <td>Miyagawa, T., <span style="color:#145094"><b>Ebihara, A.F.</b></span>, 2020.</td>
     <td>Undisclosed (SPRT-related)</td>
     <td>pending</td>
   </tr>
   <tr>
-    <td>[20]</td>
+    <td>[21]</td>
     <td>JP2020/018236</td>
     <td>Miyagawa, T., <span style="color:#145094"><b>Ebihara, A.F.</b></span>, 2020.</td>
     <td>Undisclosed (SPRT-related)</td>
     <td>pending</td>
   </tr>
   <tr>
-    <td>[19]</td>
+    <td>[20]</td>
     <td>JP2020/018889</td>
     <td>Miyagawa, T., <span style="color:#145094"><b>Ebihara, A.F.</b></span>, 2020.</td>
     <td>Undisclosed (SPRT-related)</td>
     <td>pending</td>
   </tr>
   <tr>
-    <td>[18]</td>
+    <td>[19]</td>
     <td>JP2020/018888</td>
     <td><span style="color:#145094"><b>Ebihara, A.F.</b></span>, 2020.</td>
     <td>Undisclosed (SPRT-related)</td>
     <td>pending</td>
   </tr>
   <tr>
-    <td>[17]</td>
+    <td>[18]</td>
     <td>JP2020/018887</td>
     <td><span style="color:#145094"><b>Ebihara, A.F.</b></span>, 2020.</td>
     <td>Undisclosed (SPRT-related)</td>
     <td>pending</td>
   </tr>
   <tr>
-    <td>[16]</td>
+    <td>[17]</td>
     <td>JP2020/018886</td>
     <td><span style="color:#145094"><b>Ebihara, A.F.</b></span>, 2020.</td>
+    <td>Undisclosed (SPRT-related)</td>
+    <td>pending</td>
+  </tr>
+  <tr>
+    <td>[16]</td>
+    <td>JP2020/018883</td>
+    <td><span style="color:#145094"><b>Ka Pik, L. M., Ebihara, A.F.</b></span>, 2020.</td>
     <td>Undisclosed (SPRT-related)</td>
     <td>pending</td>
   </tr>

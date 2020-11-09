@@ -222,7 +222,7 @@ Faculty advisory committee: Dr. Cornelia I. Bargmann and Dr. Charles D. Gilbert<
   <tr>
     <td>[16]</td>
     <td>JP2020/018883</td>
-    <td><span style="color:#145094"><b>Ka Pik, L. M., Ebihara, A.F.</b></span>, 2020.</td>
+    <td>Ka Pik, L. M.,<span style="color:#145094"><b>Ebihara, A.F.</b></span>, 2020.</td>
     <td>Undisclosed (SPRT-related)</td>
     <td>pending</td>
   </tr>

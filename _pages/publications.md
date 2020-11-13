@@ -28,6 +28,7 @@ author_profile: true
     </li><br>
     <li value="4">Caruso, V.C., Mohl, J.T., Glynn, C., Jee, J., Willets, S.M., Azman, A., <span style="color:#145094"><b>Ebihara, A.F.</b></span>, Estrada, R., Freiwald, W.A., Tokdar, S.T., and Groh, J.M. 
       <br><b>Single Neurons May Encode Simultaneous Stimuli by Switching Between Activity Patterns.</b>
+      <a href="https://www.nature.com/articles/s41467-018-05121-8">[NatComm]</a>
       <br><i>Nature Communications 9, 2715 (2018).</i>
       </li><br>
     <li value="3"><span style="color:#145094"><b>Ebihara, A.F.</b></span>, Hocevar, A., Magnasco M.O., and Freiwald, W.A. 

@@ -23,6 +23,7 @@ author_profile: true
     <li value="5"><span style="color:#145094"><b>Ebihara, A.F.</b></span>, Sakurai, K., and Imaoka, H.  
       <br><b>Specular- and Diffuse-reflection-based Face Spoofing Detection for Mobile Devices.</b>
       <a href="https://arxiv.org/abs/1907.12400">[arXiv]</a>
+      <a href="https://ieee-biometrics.org/ijcb2020/Program.html#apaper">[IJCB2020]</a>
       <br><i>International Joint Conference on Biometrics (IJCB) 2020, Virtual conference.</i>
       <br><b>*IJCB 2020 Google PC Chairs Choice Best Paper Award</b>
     </li><br>

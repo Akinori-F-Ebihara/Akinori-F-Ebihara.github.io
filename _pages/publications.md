@@ -126,35 +126,35 @@ Faculty advisory committee: Dr. Cornelia I. Bargmann and Dr. Charles D. Gilbert<
   <tr>
     <td>[31]</td>
     <td>N.A.</td>
-    <td>Watanabe, K., Miyagawa, T., <span style="color:#145094"><b>Ebihara, A.F.</b></span>. </td>
+    <td>Watanabe, K., Miyagawa, T., <span style="color:#145094"><b>Ebihara, A.F.</b></span>, 2021. </td>
     <td>Undisclosed (SPRT-related)</td>
     <td>in prep.</td>
   </tr>
   <tr>
     <td>[30]</td>
     <td>N.A.</td>
-    <td>Watanabe, K., Miyagawa, T., <span style="color:#145094"><b>Ebihara, A.F.</b></span>. </td>
+    <td>Watanabe, K., Miyagawa, T., <span style="color:#145094"><b>Ebihara, A.F.</b></span>, 2021. </td>
     <td>Undisclosed (SPRT-related)</td>
     <td>in prep.</td>
   </tr>
   <tr>
     <td>[29]</td>
     <td>N.A.</td>
-    <td>Miyagawa, T., <span style="color:#145094"><b>Ebihara, A.F.</b></span>. </td>
+    <td>Miyagawa, T., <span style="color:#145094"><b>Ebihara, A.F.</b></span>, 2021. </td>
     <td>Undisclosed (SPRT-related)</td>
     <td>in prep.</td>
   </tr>
   <tr>
     <td>[28]</td>
     <td>N.A.</td>
-    <td>Miyagawa, T., <span style="color:#145094"><b>Ebihara, A.F.</b></span>. </td>
+    <td>Miyagawa, T., <span style="color:#145094"><b>Ebihara, A.F.</b></span>, 2021. </td>
     <td>Undisclosed (SPRT-related)</td>
     <td>in prep.</td>
   </tr>
   <tr>
     <td>[27]</td>
     <td>N.A.</td>
-    <td><span style="color:#145094"><b>Ebihara, A.F.</b></span>, Miyagawa, T., 2020.</td>
+    <td><span style="color:#145094"><b>Ebihara, A.F.</b></span>, Miyagawa, T., 2021.</td>
     <td>Undisclosed (SPRT-related)</td>
     <td>in prep.</td>
   </tr>

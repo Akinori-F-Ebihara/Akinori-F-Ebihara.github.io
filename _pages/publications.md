@@ -14,7 +14,8 @@ author_profile: true
     <li value="7"><span style="color:#145094"><b>Ebihara, A.F.</b></span>, Miyagawa, T., Sakurai, K., and Imaoka, H. 
       <br><b>Sequential Density Ratio Estimation for Simultaneous Optimization of Speed and Accuracy.</b>
       <a href="https://arxiv.org/abs/2006.05587">[arXiv]</a>
-      <br><i>Manuscript under review.</i>
+      <br><i>International Conference on Learning Representations (ICLR) 2021, Virtual conference.</i>
+      <br><b>*Spotlight presentation (top 5.57%)</b>
     </li><br>
     <li value="6">Imaoka, H., Hashimoto, H., Takahashi, K., <span style="color:#145094"><b>Ebihara, A.F.</b></span>, Liu, J., Hayasaka, A., Morishita, Y., and Sakurai, K.
       <br><b>The Future of Biometrics Technology: from Face Recognition to Related Applications.</b>

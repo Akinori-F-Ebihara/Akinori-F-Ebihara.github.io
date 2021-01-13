@@ -28,10 +28,10 @@ One example of our bio-inspired machine learning is the study of the Sequential 
 
 # News
 __[Jan. 13th, 2021]__
-- Our paper, "Sequential Density Estimation for Simultaneous Optimization of Speed and Accuracy" was accepted as a Spotlight presentation (top 5.57%) at ICLR 2021.
+- Our paper, "Sequential Density Estimation for Simultaneous Optimization of Speed and Accuracy" was accepted as a <b>Spotlight presentation (top 5.57%) at ICLR 2021.</b>
 
 __[Oct. 1st, 2020]__
-- Our paper, "Specular- and Diffuse-reflection-based Face Spoofing Detection for Mobile Devices" won IJCB 2020 Google PC Chairs Choice Best Paper Award.
+- Our paper, "Specular- and Diffuse-reflection-based Face Spoofing Detection for Mobile Devices" won <b>IJCB 2020 Google PC Chairs Choice Best Paper Award</b>.
 
 <br>   
 ## References

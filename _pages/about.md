@@ -10,9 +10,11 @@ redirect_from:
 
 <span style="color:#145094"><b>Learn from the brain, but shall not be limited to.</b></span> The research of artificial intelligence has been inferenced dramatically by neuroscience, such as the representation of visual stimuli [1, 2] and visual attention [3, 4]. On the other hand, given that one of the ultimate goals of artificial intelligence is to exceed the human ability [5], modern computer algorithms do not necessarily have to mimic the brain [6]. Thus, our research philosophy is to incorporate biological knowledge into a computer algorithm whenever suitable, but not be bound to it.
 <br>
+<br>
 
 # Latest Research
 One example of our bio-inspired machine learning is the study of the Sequential Probability Ratio Test, or SPRT [7]. SPRT is originally invented by Abraham Wald, later re-discovered as the algorithm that best explains the primate parietal lobe neurons' activity [8]. The parietal neurons are thought to be engaged in evidence-accumulating processes in complex decision-making. We extended Wald's algorithm to a more general case, using deep neural networks aided by density ratio estimation algorithms [9]. Coined as SPRT-TANDEM, our algorithm showed a competitive speed and accuracy under various real-world scenarios. Interested readers are invited to read the [introductory article on GitHub](https://github.com/Akinori-F-Ebihara/SPRT-TANDEM_what_is_it) and/or the [original paper [10]](https://arxiv.org/abs/2006.05587).
+<br>
 <br>
 
 # Research Interests  
@@ -24,6 +26,7 @@ One example of our bio-inspired machine learning is the study of the Sequential 
   - Face recognition (visual neuroscience)
   - Face presentation attack detection (PAD)
   - Face morphing attack detection (MAD)
+<br>
 <br>  
 
 # News

@@ -26,7 +26,7 @@ author_profile: true
       <a href="https://arxiv.org/abs/1907.12400">[arXiv]</a>
       <a href="https://ieee-biometrics.org/ijcb2020/Program.html#apaper">[IJCB2020]</a>
       <br><i>International Joint Conference on Biometrics (IJCB) 2020, Virtual conference.</i>
-      <br><b>*IJCB 2020 Google Best Paper Award</b>
+      <br><b><a href="https://ieee-biometrics.org/ijcb2020/Program.html#awards">*IJCB 2020 Google Best Paper Award</a></b>
     </li><br>
     <li value="4">Caruso, V.C., Mohl, J.T., Glynn, C., Jee, J., Willets, S.M., Azman, A., <span style="color:#145094"><b>Ebihara, A.F.</b></span>, Estrada, R., Freiwald, W.A., Tokdar, S.T., and Groh, J.M. 
       <br><b>Single Neurons May Encode Simultaneous Stimuli by Switching Between Activity Patterns.</b>

@@ -19,7 +19,7 @@ author_profile: true
       <br><b>Sequential Density Ratio Estimation for Simultaneous Optimization of Speed and Accuracy.</b>
       <a href="https://arxiv.org/abs/2006.05587">[arXiv]</a>
       <br><i>International Conference on Learning Representations (ICLR) 2021, Virtual conference.</i>
-      <br><b>*Spotlight presentation (top 5.57%)</b>
+      <br><b><a href="https://openreview.net/forum?id=Rhsu5qD36cL&referrer=%5BAuthor%20Console%5D(%2Fgroup%3Fid%3DICLR.cc%2F2021%2FConference%2FAuthors%23your-submissions)">*Spotlight presentation (top 5.57%).</a></b>
     </li><br>
     <li value="5"><span style="color:#145094"><b>Ebihara, A.F.</b></span>, Sakurai, K., and Imaoka, H.  
       <br><b>Specular- and Diffuse-reflection-based Face Spoofing Detection for Mobile Devices.</b>

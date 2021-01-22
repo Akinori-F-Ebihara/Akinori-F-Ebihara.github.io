@@ -11,15 +11,15 @@ author_profile: true
       <br><b>Efficient Face Spoofing Detection with Flash.</b>
       <br><i>Manuscript under review.</i>
     </li><br>
-    <li value="7"><span style="color:#145094"><b>Ebihara, A.F.</b></span>, Miyagawa, T., Sakurai, K., and Imaoka, H. 
+    <li value="7">Imaoka, H., Hashimoto, H., Takahashi, K., <span style="color:#145094"><b>Ebihara, A.F.</b></span>, Liu, J., Hayasaka, A., Morishita, Y., and Sakurai, K.
+      <br><b>The Future of Biometrics Technology: from Face Recognition to Related Applications.</b>
+      <br><i>Manuscript under review.</i>
+    </li><br>
+    <li value="6"><span style="color:#145094"><b>Ebihara, A.F.</b></span>, Miyagawa, T., Sakurai, K., and Imaoka, H. 
       <br><b>Sequential Density Ratio Estimation for Simultaneous Optimization of Speed and Accuracy.</b>
       <a href="https://arxiv.org/abs/2006.05587">[arXiv]</a>
       <br><i>International Conference on Learning Representations (ICLR) 2021, Virtual conference.</i>
       <br><b>*Spotlight presentation (top 5.57%)</b>
-    </li><br>
-    <li value="6">Imaoka, H., Hashimoto, H., Takahashi, K., <span style="color:#145094"><b>Ebihara, A.F.</b></span>, Liu, J., Hayasaka, A., Morishita, Y., and Sakurai, K.
-      <br><b>The Future of Biometrics Technology: from Face Recognition to Related Applications.</b>
-      <br><i>Manuscript under review.</i>
     </li><br>
     <li value="5"><span style="color:#145094"><b>Ebihara, A.F.</b></span>, Sakurai, K., and Imaoka, H.  
       <br><b>Specular- and Diffuse-reflection-based Face Spoofing Detection for Mobile Devices.</b>

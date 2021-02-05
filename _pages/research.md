@@ -8,7 +8,7 @@ author_profile: true
 <b>Biometrics Research Laboratories, NEC Corporation</b></p>
 <p style='margin-left:120.0pt;margin-top:-18px;'>
 <i>Assistant Manager at the Face Recognition Research Group</i><br>
-- Invented a deep neural network-based sequential decision making algorithm. This algorithm will be used in the NEC Corporation's face recognition suite, <span style="color:#145094"><b>NeoFace&reg;</b></span>*.
+- Invented a deep neural network-based sequential decision making algorithm. This algorithm is used in the NEC Corporation's face recognition suite, <span style="color:#145094"><b>NeoFace&reg;</b></span>*.
 </p>
 
 <p style="font-size:18px">2016~2018&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;

@@ -30,6 +30,9 @@ One example of our bio-inspired machine learning is the study of the Sequential 
 <br>  
 
 # News
+__[Apr. 1st, 2021]__
+- Akinori F. Ebihara was promoted to Assistant Manager (Special Researcher, Biometrics Laboratory) of NEC corporation.
+
 __[Jan. 13th, 2021]__
 - Our paper, "Sequential Density Ratio Estimation for Simultaneous Optimization of Speed and Accuracy" was accepted as a <b><a href="https://openreview.net/forum?id=Rhsu5qD36cL&referrer=%5BAuthor%20Console%5D(%2Fgroup%3Fid%3DICLR.cc%2F2021%2FConference%2FAuthors%23your-submissions)">Spotlight presentation (top 5.57%) at ICLR 2021.</a></b>
 

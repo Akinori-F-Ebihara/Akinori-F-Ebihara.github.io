@@ -13,7 +13,7 @@ author_profile: true
     </li><br>
     <li value="7">Imaoka, H., Hashimoto, H., Takahashi, K., <span style="color:#145094"><b>Ebihara, A.F.</b></span>, Liu, J., Hayasaka, A., Morishita, Y., and Sakurai, K.
       <br><b>The Future of Biometrics Technology: from Face Recognition to Related Applications.</b>
-      <br><i>Manuscript under review.</i>
+      <br><i>APSIPA Transactions on Signal and Information Processing, 2021.</i>
     </li><br>
     <li value="6"><span style="color:#145094"><b>Ebihara, A.F.</b></span>, Miyagawa, T., Sakurai, K., and Imaoka, H. 
       <br><b>Sequential Density Ratio Estimation for Simultaneous Optimization of Speed and Accuracy.</b>

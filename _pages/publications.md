@@ -7,7 +7,7 @@ author_profile: true
 
 ## Peer-reviewed Journals / Conferences
 <ol>
-    <li value="9"><span style="color:#145094">Miyagawa, T., and <b>Ebihara, A.F.</b></span>
+    <li value="9">Miyagawa, T., and <span style="color:#145094"><b>Ebihara, A.F.</b></span>
       <br><b>TBA</b>
       <br><i>Manuscript under review.</i>
     </li><br>

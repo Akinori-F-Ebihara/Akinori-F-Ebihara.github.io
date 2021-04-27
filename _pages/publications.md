@@ -7,6 +7,9 @@ author_profile: true
 
 ## Peer-reviewed Journals / Conferences
 <ol>
+    <li value="9"><span style="color:#145094">Miyagawa, T., and <b>Ebihara, A.F.</b></span>
+      <br><b>TBA</b>
+      <br><i>Manuscript in preparation.</i>
     <li value="8"><span style="color:#145094"><b>Ebihara, A.F.</b></span>, Sakurai, K., and Imaoka, H. 
       <br><b>Efficient Face Spoofing Detection with Flash.</b>
       <br><i>IEEE Transactions on Biometrics, Behavior, and Identity Science (T-BIOM) 2021.</i>

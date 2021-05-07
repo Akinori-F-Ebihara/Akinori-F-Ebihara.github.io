@@ -30,6 +30,10 @@ One example of our bio-inspired machine learning is the study of the Sequential 
 <br>  
 
 # News
+__[May 7th, 2021]__
+- Nikkei (日本経済新聞) featured <a href="https://www.nikkei.com/article/DGXZQOUC211IQ0R20C21A4000000/">an article</a> about our algorithm, SPRT-TANDEM.
+- NEC released an official <a href="https://jpn.nec.com/press/202105/20210506_03.html">press release</a> about the SPRT-TANDEM.
+
 __[Apr. 1st, 2021]__
 - Akinori F. Ebihara was promoted to Assistant Manager (Special Researcher, Biometrics Laboratory) of NEC corporation.
 

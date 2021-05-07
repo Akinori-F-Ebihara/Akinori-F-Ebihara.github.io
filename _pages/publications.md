@@ -353,37 +353,36 @@ Faculty advisory committee: Dr. Cornelia I. Bargmann and Dr. Charles D. Gilbert<
 ～「早押しクイズ」にヒントを得て、顔認証やサイバー攻撃の分析を最大20倍高速化～
 https://jpn.nec.com/press/202105/20210506_03.html  
 
-5/6　日経電子版
+May. 6th, 2021. Nikkei Online (日経電子版)  
 NEC、顔認証の判定時間短縮　最大で20分の1に
 https://www.nikkei.com/article/DGXZQOUC211IQ0R20C21A4000000/  
 
 5/7　日経新聞
-NEC「一瞬」で顔認証、最短0.1秒未満、従来の20分の1、精度保ち、利便性向上。
-2021/05/07, 日本経済新聞, 朝刊, 10面, 530文字
-https://netlibrary1.nepas.nec.co.jp/contents/nreq/nr0.asp?ai=NIRKDB20210507NKM0139%5cNKM%5c44c1872&pd=20210507
+May. 7th, 2021. Nikkei (日本経済新聞, 朝刊, 10面, 530文字)
+NEC「一瞬」で顔認証、最短0.1秒未満、従来の20分の1、精度保ち、利便性向上。  
 
 5/6
-クラウドwatch
+May. 7th, 2021. Cloud Watch (クラウドwatch)
 NEC、時系列データのリアルタイム分析向け新技術を開発　高い精度を維持しながら高速な判断を可能に
 https://cloud.watch.impress.co.jp/docs/news/1322762.html
 
-EnterpriseZine
+May. 7th, 2021. EnterpriseZine
 NEC、「早押しクイズ」をヒントにAI技術を開発
 https://enterprisezine.jp/news/detail/14351
 
-ロボスタ
+May. 7th, 2021. Robotstart (ロボスタ)  
 簡単な問題は素早く回答、難問はじっくり考えてから答えを出すAIをNECが開発　顔認証の処理を最大20倍高速化　脳科学にヒント
 https://robotstart.info/2021/05/06/nec-ai-technology-sprt-tandem.html
 
-ASCII×AI
+May. 7th, 2021. ASCII×AI  
 NEC、高い精度を維持しながら高速で判断するAI技術を開発
 https://ascii.jp/elem/000/004/053/4053836/
 
-Yahooニュース（ASCII転載）
+May. 7th, 2021. Yahoo News  
 NEC、高い精度を維持しながら高速で判断するAI技術を開発
 https://news.yahoo.co.jp/articles/8485361becd0ec9df6d751993606860e8125b4ba
 
-プレジデントオンライン
+Feb. 17th, 2017.　President Online  
 高学歴ワーキングプア「ポスドク問題」は解決できたか？
 https://president.jp/articles/-/21367?page=2
 

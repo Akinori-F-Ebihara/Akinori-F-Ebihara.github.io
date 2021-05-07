@@ -364,7 +364,7 @@ May. 7th, 2021. <b>EnterpriseZine</b>
 <a href="https://enterprisezine.jp/news/detail/14351">NEC、「早押しクイズ」をヒントにAI技術を開発</a>  
 
 May. 7th, 2021. <b>Robotstart (ロボスタ)</b>  
-<a href="https://robotstart.info/2021/05/06/nec-ai-technology-sprt-tandem.html">簡単な問題は素早く回答、難問はじっくり考えてから答えを出すAIをNECが開発<br>顔認証の処理を最大20倍高速化　脳科学にヒント</a>  
+<a href="https://robotstart.info/2021/05/06/nec-ai-technology-sprt-tandem.html">簡単な問題は素早く回答、難問はじっくり考えてから答えを出すAIをNECが開発　顔認証の処理を最大20倍高速化　脳科学にヒント</a>  
 
 May. 7th, 2021. <b>ASCII×AI</b>  
 <a href="https://ascii.jp/elem/000/004/053/4053836/">NEC、高い精度を維持しながら高速で判断するAI技術を開発</a>  

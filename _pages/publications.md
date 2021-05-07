@@ -369,20 +369,17 @@ May. 7th, 2021. Robotstart (ロボスタ)
 簡単な問題は素早く回答、難問はじっくり考えてから答えを出すAIをNECが開発　顔認証の処理を最大20倍高速化　脳科学にヒント
 https://robotstart.info/2021/05/06/nec-ai-technology-sprt-tandem.html
 
-May. 7th, 2021. ASCII×AI  
-NEC、高い精度を維持しながら高速で判断するAI技術を開発
-https://ascii.jp/elem/000/004/053/4053836/
+May. 7th, 2021. <b>ASCII×AI</b>  
+<a href="https://ascii.jp/elem/000/004/053/4053836/">NEC、高い精度を維持しながら高速で判断するAI技術を開発<a/>  
 
-May. 7th, 2021. Yahoo News  
-NEC、高い精度を維持しながら高速で判断するAI技術を開発
-https://news.yahoo.co.jp/articles/8485361becd0ec9df6d751993606860e8125b4ba
+May. 7th, 2021. <b>Yahoo News</b>  
+<a href="https://news.yahoo.co.jp/articles/8485361becd0ec9df6d751993606860e8125b4ba">NEC、高い精度を維持しながら高速で判断するAI技術を開発</a>  
 
-May. 6th, 2021. Nikkei Online (日経電子版)  
-NEC、顔認証の判定時間短縮　最大で20分の1に
-https://www.nikkei.com/article/DGXZQOUC211IQ0R20C21A4000000/  
+May. 6th, 2021. <b>Nikkei Online (日経電子版)</b>  
+<a href="https://www.nikkei.com/article/DGXZQOUC211IQ0R20C21A4000000/  ">NEC、顔認証の判定時間短縮　最大で20分の1に</a>  
 
 Feb. 17th, 2017.　<b>President Online</b>  
-<a href="https://president.jp/articles/-/21367?page=2">高学歴ワーキングプア「ポスドク問題」は解決できたか？</a>
+<a href="https://president.jp/articles/-/21367?page=2">高学歴ワーキングプア「ポスドク問題」は解決できたか？</a>  
 
 
 

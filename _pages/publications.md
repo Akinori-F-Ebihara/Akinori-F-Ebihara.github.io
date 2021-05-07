@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Publications"
+title: "Publications and other works"
 permalink: /publications/
 author_profile: true
 ---
@@ -349,19 +349,14 @@ Faculty advisory committee: Dr. Cornelia I. Bargmann and Dr. Charles D. Gilbert<
 
 
 ## Media
-5/7 NEC、複雑な意思決定を行う際の脳活動の知見を応用したAI技術を開発
-～「早押しクイズ」にヒントを得て、顔認証やサイバー攻撃の分析を最大20倍高速化～
+May 7th, 2021. NEC official press release  
+NEC、複雑な意思決定を行う際の脳活動の知見を応用したAI技術を開発  
+～「早押しクイズ」にヒントを得て、顔認証やサイバー攻撃の分析を最大20倍高速化～  
 https://jpn.nec.com/press/202105/20210506_03.html  
 
-May. 6th, 2021. Nikkei Online (日経電子版)  
-NEC、顔認証の判定時間短縮　最大で20分の1に
-https://www.nikkei.com/article/DGXZQOUC211IQ0R20C21A4000000/  
-
-5/7　日経新聞
 May. 7th, 2021. Nikkei (日本経済新聞, 朝刊, 10面, 530文字)
 NEC「一瞬」で顔認証、最短0.1秒未満、従来の20分の1、精度保ち、利便性向上。  
 
-5/6
 May. 7th, 2021. Cloud Watch (クラウドwatch)
 NEC、時系列データのリアルタイム分析向け新技術を開発　高い精度を維持しながら高速な判断を可能に
 https://cloud.watch.impress.co.jp/docs/news/1322762.html
@@ -382,9 +377,13 @@ May. 7th, 2021. Yahoo News
 NEC、高い精度を維持しながら高速で判断するAI技術を開発
 https://news.yahoo.co.jp/articles/8485361becd0ec9df6d751993606860e8125b4ba
 
-Feb. 17th, 2017.　President Online  
-高学歴ワーキングプア「ポスドク問題」は解決できたか？
-https://president.jp/articles/-/21367?page=2
+May. 6th, 2021. Nikkei Online (日経電子版)  
+NEC、顔認証の判定時間短縮　最大で20分の1に
+https://www.nikkei.com/article/DGXZQOUC211IQ0R20C21A4000000/  
+
+Feb. 17th, 2017.　<b>President Online</b>  
+<a href="https://president.jp/articles/-/21367?page=2">高学歴ワーキングプア「ポスドク問題」は解決できたか？</a>
+
 
 
 <!-- {% if author.googlescholar %}

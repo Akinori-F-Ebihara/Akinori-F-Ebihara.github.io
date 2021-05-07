@@ -13,6 +13,7 @@ author_profile: true
     </li><br>
     <li value="8"><span style="color:#145094"><b>Ebihara, A.F.</b></span>, Sakurai, K., and Imaoka, H. 
       <br><b>Efficient Face Spoofing Detection with Flash.</b>
+      <a href="https://ieeexplore.ieee.org/abstract/document/9419913">[IEEE]</a>
       <br><i>IEEE Transactions on Biometrics, Behavior, and Identity Science (T-BIOM) 2021.</i>
     </li><br>
     <li value="7">Imaoka, H., Hashimoto, H., Takahashi, K., <span style="color:#145094"><b>Ebihara, A.F.</b></span>, Liu, J., Hayasaka, A., Morishita, Y., and Sakurai, K.

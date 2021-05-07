@@ -354,13 +354,13 @@ May 7th, 2021. <b>NEC official press release</b>
 <a href="https://jpn.nec.com/press/202105/20210506_03.html">NEC、複雑な意思決定を行う際の脳活動の知見を応用したAI技術を開発  
 ～「早押しクイズ」にヒントを得て、顔認証やサイバー攻撃の分析を最大20倍高速化～</a>  
 
-May. 7th, 2021. <b>Nikkei (日本経済新聞, 朝刊, 10面, 530文字)</b>
+May. 7th, 2021. <b>Nikkei (日本経済新聞, 朝刊, 10面, 530文字)</b>  
 NEC「一瞬」で顔認証、最短0.1秒未満、従来の20分の1、精度保ち、利便性向上  
 
-May. 7th, 2021. <b>Cloud Watch (クラウドwatch)</b>
+May. 7th, 2021. <b>Cloud Watch (クラウドwatch)</b>  
 <a href="https://cloud.watch.impress.co.jp/docs/news/1322762.html">NEC、時系列データのリアルタイム分析向け新技術を開発　高い精度を維持しながら高速な判断を可能に</a>  
 
-May. 7th, 2021. <b>EnterpriseZine</b>
+May. 7th, 2021. <b>EnterpriseZine</b>  
 <a href="https://enterprisezine.jp/news/detail/14351">NEC、「早押しクイズ」をヒントにAI技術を開発</a>  
 
 May. 7th, 2021. <b>Robotstart (ロボスタ)</b>  

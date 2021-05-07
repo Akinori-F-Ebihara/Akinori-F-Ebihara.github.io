@@ -350,28 +350,24 @@ Faculty advisory committee: Dr. Cornelia I. Bargmann and Dr. Charles D. Gilbert<
 
 
 ## Media
-May 7th, 2021. NEC official press release  
-NEC、複雑な意思決定を行う際の脳活動の知見を応用したAI技術を開発  
-～「早押しクイズ」にヒントを得て、顔認証やサイバー攻撃の分析を最大20倍高速化～  
-https://jpn.nec.com/press/202105/20210506_03.html  
+May 7th, 2021. <b>NEC official press release</b>  
+<a href="https://jpn.nec.com/press/202105/20210506_03.html">NEC、複雑な意思決定を行う際の脳活動の知見を応用したAI技術を開発  
+～「早押しクイズ」にヒントを得て、顔認証やサイバー攻撃の分析を最大20倍高速化～</a>  
 
-May. 7th, 2021. Nikkei (日本経済新聞, 朝刊, 10面, 530文字)
-NEC「一瞬」で顔認証、最短0.1秒未満、従来の20分の1、精度保ち、利便性向上。  
+May. 7th, 2021. <b>Nikkei (日本経済新聞, 朝刊, 10面, 530文字)</b>
+NEC「一瞬」で顔認証、最短0.1秒未満、従来の20分の1、精度保ち、利便性向上  
 
-May. 7th, 2021. Cloud Watch (クラウドwatch)
-NEC、時系列データのリアルタイム分析向け新技術を開発　高い精度を維持しながら高速な判断を可能に
-https://cloud.watch.impress.co.jp/docs/news/1322762.html
+May. 7th, 2021. <b>Cloud Watch (クラウドwatch)</b>
+<a href="https://cloud.watch.impress.co.jp/docs/news/1322762.html">NEC、時系列データのリアルタイム分析向け新技術を開発　高い精度を維持しながら高速な判断を可能に</a>  
 
-May. 7th, 2021. EnterpriseZine
-NEC、「早押しクイズ」をヒントにAI技術を開発
-https://enterprisezine.jp/news/detail/14351
+May. 7th, 2021. <b>EnterpriseZine</b>
+<a href="https://enterprisezine.jp/news/detail/14351">NEC、「早押しクイズ」をヒントにAI技術を開発</a>  
 
-May. 7th, 2021. Robotstart (ロボスタ)  
-簡単な問題は素早く回答、難問はじっくり考えてから答えを出すAIをNECが開発　顔認証の処理を最大20倍高速化　脳科学にヒント
-https://robotstart.info/2021/05/06/nec-ai-technology-sprt-tandem.html
+May. 7th, 2021. <b>Robotstart (ロボスタ)</b>  
+<a href="https://robotstart.info/2021/05/06/nec-ai-technology-sprt-tandem.html">簡単な問題は素早く回答、難問はじっくり考えてから答えを出すAIをNECが開発　顔認証の処理を最大20倍高速化　脳科学にヒント</a>  
 
 May. 7th, 2021. <b>ASCII×AI</b>  
-<a href="https://ascii.jp/elem/000/004/053/4053836/">NEC、高い精度を維持しながら高速で判断するAI技術を開発<a/>  
+<a href="https://ascii.jp/elem/000/004/053/4053836/">NEC、高い精度を維持しながら高速で判断するAI技術を開発</a>  
 
 May. 7th, 2021. <b>Yahoo News</b>  
 <a href="https://news.yahoo.co.jp/articles/8485361becd0ec9df6d751993606860e8125b4ba">NEC、高い精度を維持しながら高速で判断するAI技術を開発</a>  

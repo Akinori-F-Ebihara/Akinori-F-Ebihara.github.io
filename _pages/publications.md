@@ -8,8 +8,8 @@ author_profile: true
 ## Peer-reviewed Journals / Conferences
 <ol>
     <li value="9">Miyagawa, T., and <span style="color:#145094"><b>Ebihara, A.F.</b></span>
-      <br><b>TBA</b>
-      <br><i>Manuscript under review.</i>
+      <br><b>Sequential Density Ratio Matrix Estimation for Speed-Accuracy Optimization.</b>
+      <br><i>International Conference on Machine Learning (ICML) 2021.</i>
     </li><br>
     <li value="8"><span style="color:#145094"><b>Ebihara, A.F.</b></span>, Sakurai, K., and Imaoka, H. 
       <br><b>Efficient Face Spoofing Detection with Flash.</b>

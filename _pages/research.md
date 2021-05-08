@@ -8,7 +8,7 @@ author_profile: true
 <b>Biometrics Research Laboratories, NEC Corporation</b></p>
 <p style='margin-left:120.0pt;margin-top:-18px;'>
 <i>Assistant Manager (Special Researcher, Biometrics Laboratory) at the Face Recognition Research Group</i><br>
-<p style="font-size:18px">2018~present</p><p style='margin-left:120.0pt;margin-top:-18px;'>
+<p style="font-size:18px">2018~present</p><b>Biometrics Research Laboratories, NEC Corporation</b></p><p style='margin-left:120.0pt;margin-top:-18px;'>
 <i>Assistant Manager at the Face Recognition Research Group</i><br>
 - Invented a sequential decision making algorithm SPRT-TANDEM that is used in NEC Corporation's face recognition suite, <span style="color:#145094"><b>NeoFace&reg;</b></span>*.
 </p>

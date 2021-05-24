@@ -8,7 +8,7 @@ author_profile: true
 ## Peer-reviewed Journals / Conferences
 <ol>
     <li value="9">Miyagawa, T., and <span style="color:#145094"><b>Ebihara, A.F.</b></span>
-      <br><b>Sequential Density Ratio Matrix Estimation for Speed-Accuracy Optimization.</b>
+      <br><b>The Power of Log-Sum-Exp: Sequential Density Ratio Matrix Estimation for Speed-Accuracy Optimization.</b>
       <br><i>International Conference on Machine Learning (ICML) 2021.</i>
     </li><br>
     <li value="8"><span style="color:#145094"><b>Ebihara, A.F.</b></span>, Sakurai, K., and Imaoka, H. 

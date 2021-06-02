@@ -57,7 +57,7 @@ author_profile: true
     </li><br>
 </ol>
 
-## Non-peer-reviewed Presentations  
+## Non-peer-reviewed Works  
 <ol>
     <li value="13">Kawai, H., Watanabe, D., Ito, K., Aoki, T., <span style="color:#145094"><b>Ebihara, A.F.</b></span>, Sakurai, K., and Imaoka, H. 
       <br><b>Spoofing Detection for the Face Authentication Using Deep Learning.</b>

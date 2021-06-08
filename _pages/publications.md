@@ -125,7 +125,7 @@ Ph.D. co-advisor: Dr. Marcelo Magnasco<br>
 Faculty advisory committee: Dr. Cornelia I. Bargmann and Dr. Charles D. Gilbert<br>
 <br></p>
 
-## Patents  
+<!-- ## Patents  
 <table>
   <tr>
     <td>   </td>
@@ -351,7 +351,7 @@ Faculty advisory committee: Dr. Cornelia I. Bargmann and Dr. Charles D. Gilbert<
     <td>Face 3D-ness detection on a mobile device</td>
     <td>expired</td>
   </tr>
-</table>  
+</table>   -->
 
 
 ## Media

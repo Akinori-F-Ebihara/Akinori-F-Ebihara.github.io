@@ -9,12 +9,12 @@ author_profile: true
 <ol>
     <li value="10">Miyamoto, T., Hashimoto, H., Hayasaka, A., <span style="color:#145094"><b>Ebihara, A.F.</b></span>, and Imaoka, H.
       <br><b>Joint Feature Distribution Alignment Learning for NIR-VIS and VIS-VIS Face Recognition.</b>
-      <br><i>International Joint Conference on Biometrics (IJCB) 2021.</i>
+      <br><i>International Joint Conference on Biometrics (IJCB) 2021, Virtual conference.</i>
     </li><br>
     <li value="9">Miyagawa, T., and <span style="color:#145094"><b>Ebihara, A.F.</b></span>
       <br><b>The Power of Log-Sum-Exp: Sequential Density Ratio Matrix Estimation for Speed-Accuracy Optimization.</b>
       <a href="https://arxiv.org/abs/2105.13636">[arXiv]</a>
-      <br><i>International Conference on Machine Learning (ICML) 2021.</i>
+      <br><i>International Conference on Machine Learning (ICML) 2021, Virtual conference.</i>
     </li><br>
     <li value="8"><span style="color:#145094"><b>Ebihara, A.F.</b></span>, Sakurai, K., and Imaoka, H. 
       <br><b>Efficient Face Spoofing Detection with Flash.</b>

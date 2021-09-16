@@ -131,30 +131,31 @@ Faculty advisory committee: Dr. Cornelia I. Bargmann and Dr. Charles D. Gilbert<
 
 ## Patents  
 <ol>
-    <li value="10"><span style="color:#145094"><b>Ebihara, A.</b></span>
+    <li value="8"><span style="color:#145094"><b>Ebihara, A.</b></span>
       <br><b>Weight estimation device, weight estimation method, and weight estimation program.</b>
       <br><i>JP2021021973A, published on Feb. 18th, 2021.</i>
     </li><br>
-    <li value="10"><span style="color:#145094"><b>Ebihara, A.</b></span>
+    <li value="7"><span style="color:#145094"><b>Ebihara, A.</b></span>
       <br><b>Spoofing detection device, spoofing detection method, and program.</b>
       <br><i>JPWO2019163066A1, published on Feb. 18th, 2021.</i>
     </li><br>
-    <li value="10"><span style="color:#145094"><b>Ebihara, A.</b></span>
+    <li value="6"><span style="color:#145094"><b>Ebihara, A.</b></span>
       <br><b>Spoofing detection device, spoofing detection method, and program.</b>
       <br><i>JPWO2019163065A1, published on Jan. 7th, 2021.</i>
     </li><br>
-    <li value="10"><span style="color:#145094"><b>Ebihara, A.</b></span>
+    <li value="5"><span style="color:#145094"><b>Ebihara, A.</b></span>
       <br><b>Spoofing detection apparatus, spoofing detection method, and computer-readable recording medium.</b>
       <br><i>US20210034894A1, published on Feb. 4th, 2021.</i>
     </li><br>
-    <li value="10"><span style="color:#145094"><b>Ebihara, A.</b></span>
+    <li value="4"><span style="color:#145094"><b>Ebihara, A.</b></span>
       <br><b>Spoofing detector, spoofing detection method, and computer-readable recording medium.</b>
       <br><i>EP3757936A1, published on Dec. 30th, 2020.</i>
     </li><br>
-    <li value="10"><span style="color:#145094"><b>Ebihara, A.</b></span>
+    <li value="3"><span style="color:#145094"><b>Ebihara, A.</b></span>
       <br><b>Three-dimensional facial shape estimating device, three-dimensional facial shape estimating method, and non-transitory computer-readable medium.</b>
       <br><i>US20200257888A1, published on Oct. 13th, 2020.</i>
-    </li><br>    <li value="10"><span style="color:#145094"><b>Ebihara, A.</b></span>
+    </li><br>   
+    <li value="2"><span style="color:#145094"><b>Ebihara, A.</b></span>
       <br><b>Information processing device, personal identification device, information processing method, and storage medium.</b>
       <br><i>WO2020194497A1, published on Oct. 1st, 2020.</i>
       <br><i><b>*Covers the idea of the SPRT-TANDEM.</b></i>

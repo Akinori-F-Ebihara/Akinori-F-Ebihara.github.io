@@ -59,17 +59,21 @@ author_profile: true
 
 ## Non-peer-reviewed Works  
 <ol>
-    <li value="13">Kawai, H., Watanabe, D., Ito, K., Aoki, T., <span style="color:#145094"><b>Ebihara, A.F.</b></span>, Sakurai, K., and Imaoka, H. 
+    <li value="14">Kawai, H., Watanabe, D., Ito, K., Aoki, T., <span style="color:#145094"><b>Ebihara, A.F.</b></span>, Sakurai, K., and Imaoka, H. 
       <br><b>Spoofing Detection for the Face Authentication Using Deep Learning.</b>
       <br><i>2019 Symposium on Cryptography and Information Security. (IEICE SCIS) Otsu city, Shiga, Japan.</i>
     </li><br>
-    <li value="12"><span style="color:#145094"><b>Ebihara, A.F.</b></span>, Sakurai, K., and Imaoka, H. 
+    <li value="13"><span style="color:#145094"><b>Ebihara, A.F.</b></span>, Sakurai, K., and Imaoka, H. 
       <br><b>Flash Reflection-based Face Liveness Detection for Mobile Devices.</b>
       <br><i>The Eighth Symposium on Biometrics, Recognition and Authentication (IEICE SBRA2018), Iidabashi, Tokyo, Japan.</i>
     </li><br>
-    <li value="11"><span style="color:#145094"><b>Ebihara, A.F.</b></span>, Sakurai, K., and Imaoka, H. 
+    <li value="12"><span style="color:#145094"><b>Ebihara, A.F.</b></span>, Sakurai, K., and Imaoka, H. 
       <br><b>Spoofing Detection with a Monocular Camera using Flash Reflection.</b>
       <br><i>IEICE Bio-X Study Group 2018. Kanazawa city, Ishikawa, Japan.</i>
+    </li><br>
+    <li value="11">Caruso, V.C., <span style="color:#145094"><b>Ebihara, A.F.</b></span>, Tokdar, S., Freiwald, W.A., and Groh, J.M. 
+      <br><b>Multiplexing in Face Selective Cortex: Evidence of Flexible Trial-by-Trial and Sub-Trial Representations of Multiple Stimuli</b>
+      <br><i>Conference on Cognitive Computational Neuroscience (CCN)	2017. Columbia University, NY.</i>
     </li><br>
     <li value="10">Caruso, V.C., <span style="color:#145094"><b>Ebihara, A.F.</b></span>, Milewski A., Tokdar, S., Freiwald W.A., and Groh J.M. 
       <br><b>Is Multiplexing a General Strategy for Encoding Multiple Items in the Brain? Evidence From a Visual Cortical Face Area and a Subcortical Auditory Area.</b>

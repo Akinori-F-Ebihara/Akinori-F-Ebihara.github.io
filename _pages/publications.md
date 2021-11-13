@@ -9,6 +9,7 @@ author_profile: true
 <ol>
     <li value="10">Miyamoto, T., Hashimoto, H., Hayasaka, A., <span style="color:#145094"><b>Ebihara, A.F.</b></span>, and Imaoka, H.
       <br><b>Joint Feature Distribution Alignment Learning for NIR-VIS and VIS-VIS Face Recognition.</b>
+      <a href="https://ieeexplore.ieee.org/document/9484385">[IEEE]</a>
       <br><i>International Joint Conference on Biometrics (IJCB) 2021, Virtual conference.</i>
     </li><br>
     <li value="9">Miyagawa, T., and <span style="color:#145094"><b>Ebihara, A.F.</b></span>

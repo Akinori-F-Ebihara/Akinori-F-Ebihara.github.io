@@ -132,6 +132,10 @@ Faculty advisory committee: Dr. Cornelia I. Bargmann and Dr. Charles D. Gilbert<
 
 ## Patents  
 <ol>
+    <li value="9"><span style="color:#145094"><b>Ebihara, A.</b></span>
+      <br><b>Identification device, identification method, and recording medium.</b>
+      <br><i>WO2021220450A1, published on Nov. 4th, 2021.</i>
+    </li><br>
     <li value="8"><span style="color:#145094"><b>Ebihara, A.</b></span>
       <br><b>Weight estimation device, weight estimation method, and weight estimation program.</b>
       <br><i>JP2021021973A, published on Feb. 18th, 2021.</i>
@@ -398,6 +402,9 @@ Faculty advisory committee: Dr. Cornelia I. Bargmann and Dr. Charles D. Gilbert<
 
 
 ## Media
+Nov 11th, 2021. <b>LabBase.jp</b>  
+<a href="https://compass.labbase.jp/articles/799">異分野キャリアって有り？　研究力重視のNEC（日本電気株式会社）で、神経科学者が「顔認証」で活躍する理由</a>  
+
 May 7th, 2021. <b>NEC official press release</b>  
 <a href="https://jpn.nec.com/press/202105/20210506_03.html">NEC、複雑な意思決定を行う際の脳活動の知見を応用したAI技術を開発  
 ～「早押しクイズ」にヒントを得て、顔認証やサイバー攻撃の分析を最大20倍高速化～</a>  

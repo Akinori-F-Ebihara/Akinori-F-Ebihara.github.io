@@ -60,13 +60,17 @@ author_profile: true
 
 ## Non-peer-reviewed Works  
 <ol>
+    <li value="15">Miyamoto, T., Hashimoto, H., Hayasaka, A., <span style="color:#145094"><b>Ebihara, A.F.</b></span>, and Imaoka, H. 
+      <br><b>Joint Feature Distribution Alignment Learning for NIR-VIS and VIS-VIS Face Recognition.</b>
+      <br><i>The 11th Symposium on Biometrics, Recognition and Authentication (IEICE SBRA2021), Virtual Conference.</i>
+    </li><br>
     <li value="14">Kawai, H., Watanabe, D., Ito, K., Aoki, T., <span style="color:#145094"><b>Ebihara, A.F.</b></span>, Sakurai, K., and Imaoka, H. 
       <br><b>Spoofing Detection for the Face Authentication Using Deep Learning.</b>
       <br><i>2019 Symposium on Cryptography and Information Security. (IEICE SCIS) Otsu city, Shiga, Japan.</i>
     </li><br>
     <li value="13"><span style="color:#145094"><b>Ebihara, A.F.</b></span>, Sakurai, K., and Imaoka, H. 
       <br><b>Flash Reflection-based Face Liveness Detection for Mobile Devices.</b>
-      <br><i>The Eighth Symposium on Biometrics, Recognition and Authentication (IEICE SBRA2018), Iidabashi, Tokyo, Japan.</i>
+      <br><i>The 8th Symposium on Biometrics, Recognition and Authentication (IEICE SBRA2018), Iidabashi, Tokyo, Japan.</i>
     </li><br>
     <li value="12"><span style="color:#145094"><b>Ebihara, A.F.</b></span>, Sakurai, K., and Imaoka, H. 
       <br><b>Spoofing Detection with a Monocular Camera using Flash Reflection.</b>

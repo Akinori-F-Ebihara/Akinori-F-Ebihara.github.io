@@ -136,46 +136,71 @@ Faculty advisory committee: Dr. Cornelia I. Bargmann and Dr. Charles D. Gilbert<
 
 ## Patents  
 <ol>
+    <li value="13"><span style="color:#145094"><b>Ebihara, A.</b>, and Miyagawa, T.</span>
+      <br><b>Learning device, learning method, and recording medium.</b>
+      <br>WO2021229663A1
+      <!-- <br><i>published on Nov. 18th, 2021.</i> -->
+    </li><br>
+    <li value="12"><span style="color:#145094"><b>Ebihara, A.</b></span>
+      <br><b>Determination device, determination method, and recording medium.</b>
+      <br>WO2021229662A1
+      <!-- <br><i>published on Nov. 18th, 2021.</i> -->
+    </li><br>
+    <li value="11"><span style="color:#145094"><b>Ebihara, A.</b></span>
+      <br><b>Determination device, determination method, and recording medium.</b>
+      <br>WO2021229661A1
+      <!-- <br><i>published on Nov. 18th, 2021.</i> -->
+    </li><br>
+    <li value="10"><span style="color:#145094"><b>Ebihara, A.</b></span>
+      <br><b>Determination device, learning method, and recording medium.</b>
+      <br>WO2021229660A1
+      <!-- <br><i>published on Nov. 18th, 2021.</i> -->
+    </li><br>
     <li value="9"><span style="color:#145094"><b>Ebihara, A.</b></span>
+      <br><b>Determination device, determination method, and recording medium.</b>
+      <br>WO2021229654A1
+      <!-- <br><i>published on Nov. 18th, 2021.</i> -->
+    </li><br>
+    <li value="8">Miyagawa, T., and <span style="color:#145094"><b>Ebihara, A.</b></span>
       <br><b>Identification device, identification method, and recording medium.</b>
       <br>WO2021220450A1
-      <br><i>published on Nov. 4th, 2021.</i>
-    </li><br>
-    <li value="8"><span style="color:#145094"><b>Ebihara, A.</b></span>
-      <br><b>Weight estimation device, weight estimation method, and weight estimation program.</b>
-      <br><i>JP2021021973A, published on Feb. 18th, 2021.</i>
+      <!-- <br><i>published on Nov. 4th, 2021.</i> -->
     </li><br>
     <li value="7"><span style="color:#145094"><b>Ebihara, A.</b></span>
-      <br><b>Spoofing detection device, spoofing detection method, and program.</b>
-      <br><i>JPWO2019163066A1, published on Feb. 18th, 2021.</i>
+      <br><b>Weight estimation device, weight estimation method, and weight estimation program.</b>
+      <br>JP2021021973A
+      <!-- <br><i>published on Feb. 18th, 2021.</i> -->
     </li><br>
     <li value="6"><span style="color:#145094"><b>Ebihara, A.</b></span>
       <br><b>Spoofing detection device, spoofing detection method, and program.</b>
-      <br><i>JPWO2019163065A1, published on Jan. 7th, 2021.</i>
+      <br>JPWO2019163066A1
+      <!-- <br><i>published on Feb. 18th, 2021.</i> -->
     </li><br>
     <li value="5"><span style="color:#145094"><b>Ebihara, A.</b></span>
-      <br><b>Spoofing detection apparatus, spoofing detection method, and computer-readable recording medium.</b>
-      <br>JPWO2019163066A1, US20210034894A1, WO2019163066A1
-      <br><i>published on Feb. 4th, 2021.</i>
+      <br><b>Spoofing detection device, spoofing detection method, and program.</b>
+      <br>JPWO2019163065A1
+      <!-- <br><i>published on Jan. 7th, 2021.</i> -->
     </li><br>
     <li value="4"><span style="color:#145094"><b>Ebihara, A.</b></span>
-      <br><b>Spoofing detector, spoofing detection method, and computer-readable recording medium.</b>
-      <br>JPWO2019163065A1, EP3757936A4, US20210034893A1, WO2019163065A1
-      <br><i>EP3757936A1, published on Dec. 30th, 2020.</i>
+      <br><b>Spoofing detection apparatus, spoofing detection method, and computer-readable recording medium.</b>
+      <br>JPWO2019163066A1, US20210034894A1, WO2019163066A1
+      <!-- <br><i>published on Feb. 4th, 2021.</i> -->
     </li><br>
     <li value="3"><span style="color:#145094"><b>Ebihara, A.</b></span>
-      <br><b>Three-dimensional facial shape estimating device, three-dimensional facial shape estimating method, and non-transitory computer-readable medium.</b>
-      <br><i>US20200257888A1, published on Oct. 13th, 2020.</i>
-    </li><br>   
+      <br><b>Spoofing detector, spoofing detection method, and computer-readable recording medium.</b>
+      <br>JPWO2019163065A1, EP3757936A1, US20210034893A1, WO2019163065A1
+      <!-- <br><i>published on Dec. 30th, 2020.</i> -->
+    </li><br>
     <li value="2"><span style="color:#145094"><b>Ebihara, A.</b></span>
       <br><b>Information processing device, personal identification device, information processing method, and storage medium.</b>
-      <br><i>WO2020194497A1, published on Oct. 1st, 2020.</i>
+      <br>WO2020194497A1
+      <!-- <br><i>published on Oct. 1st, 2020.</i> -->
       <br><i><b>*Covers the idea of the SPRT-TANDEM.</b></i>
     </li><br>
     <li value="1"><span style="color:#145094"><b>Ebihara, A.</b></span>
       <br><b>Face three-dimensional shape estimation device, face three-dimensional shape estimation method, and face three-dimensional shape estimation program.</b>
       <br>JPWO2019078310A1,EP3699865A4, US20200257888A1, WO2019078310A1
-      <br><i>published on Oct. 1st, 2020.</i>
+      <!-- <br><i>published on Oct. 1st, 2020.</i> -->
     </li><br>
 
 </ol>

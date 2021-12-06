@@ -136,7 +136,7 @@ Faculty advisory committee: Dr. Cornelia I. Bargmann and Dr. Charles D. Gilbert<
 
 ## Patents  
 <ol>
-    <li value="13"><span style="color:#145094"><b>Ebihara, A.</b>, and Miyagawa, T.</span>
+    <li value="13"><span style="color:#145094"><b>Ebihara, A.</b></span>, and Miyagawa, T.
       <br><b>Learning device, learning method, and recording medium.</b>
       <br>WO2021229663A1
       <!-- <br><i>published on Nov. 18th, 2021.</i> -->

@@ -138,7 +138,8 @@ Faculty advisory committee: Dr. Cornelia I. Bargmann and Dr. Charles D. Gilbert<
 <ol>
     <li value="9"><span style="color:#145094"><b>Ebihara, A.</b></span>
       <br><b>Identification device, identification method, and recording medium.</b>
-      <br><i>WO2021220450A1, published on Nov. 4th, 2021.</i>
+      <br>WO2021220450A1
+      <br><i>published on Nov. 4th, 2021.</i>
     </li><br>
     <li value="8"><span style="color:#145094"><b>Ebihara, A.</b></span>
       <br><b>Weight estimation device, weight estimation method, and weight estimation program.</b>
@@ -154,10 +155,12 @@ Faculty advisory committee: Dr. Cornelia I. Bargmann and Dr. Charles D. Gilbert<
     </li><br>
     <li value="5"><span style="color:#145094"><b>Ebihara, A.</b></span>
       <br><b>Spoofing detection apparatus, spoofing detection method, and computer-readable recording medium.</b>
-      <br><i>US20210034894A1, published on Feb. 4th, 2021.</i>
+      <br>JPWO2019163066A1, US20210034894A1, WO2019163066A1
+      <br><i>published on Feb. 4th, 2021.</i>
     </li><br>
     <li value="4"><span style="color:#145094"><b>Ebihara, A.</b></span>
       <br><b>Spoofing detector, spoofing detection method, and computer-readable recording medium.</b>
+      <br>JPWO2019163065A1, EP3757936A4, US20210034893A1, WO2019163065A1
       <br><i>EP3757936A1, published on Dec. 30th, 2020.</i>
     </li><br>
     <li value="3"><span style="color:#145094"><b>Ebihara, A.</b></span>
@@ -171,7 +174,8 @@ Faculty advisory committee: Dr. Cornelia I. Bargmann and Dr. Charles D. Gilbert<
     </li><br>
     <li value="1"><span style="color:#145094"><b>Ebihara, A.</b></span>
       <br><b>Face three-dimensional shape estimation device, face three-dimensional shape estimation method, and face three-dimensional shape estimation program.</b>
-      <br><i>JPWO2019078310A1, published on Oct. 1st, 2020.</i>
+      <br>JPWO2019078310A1,EP3699865A4, US20200257888A1, WO2019078310A1
+      <br><i>published on Oct. 1st, 2020.</i>
     </li><br>
 
 </ol>

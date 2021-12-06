@@ -136,50 +136,40 @@ Faculty advisory committee: Dr. Cornelia I. Bargmann and Dr. Charles D. Gilbert<
 
 ## Patents  
 <ol>
-    <li value="13"><span style="color:#145094"><b>Ebihara, A.</b></span>, and Miyagawa, T.
+    <li value="11"><span style="color:#145094"><b>Ebihara, A.</b></span>, and Miyagawa, T.
       <br><b>Learning device, learning method, and recording medium.</b>
       <br>WO2021229663A1
       <!-- <br><i>published on Nov. 18th, 2021.</i> -->
     </li><br>
-    <li value="12"><span style="color:#145094"><b>Ebihara, A.</b></span>
+    <li value="10"><span style="color:#145094"><b>Ebihara, A.</b></span>
       <br><b>Determination device, determination method, and recording medium.</b>
       <br>WO2021229662A1
       <!-- <br><i>published on Nov. 18th, 2021.</i> -->
     </li><br>
-    <li value="11"><span style="color:#145094"><b>Ebihara, A.</b></span>
+    <li value="9"><span style="color:#145094"><b>Ebihara, A.</b></span>
       <br><b>Determination device, determination method, and recording medium.</b>
       <br>WO2021229661A1
       <!-- <br><i>published on Nov. 18th, 2021.</i> -->
     </li><br>
-    <li value="10"><span style="color:#145094"><b>Ebihara, A.</b></span>
+    <li value="8"><span style="color:#145094"><b>Ebihara, A.</b></span>
       <br><b>Determination device, learning method, and recording medium.</b>
       <br>WO2021229660A1
       <!-- <br><i>published on Nov. 18th, 2021.</i> -->
     </li><br>
-    <li value="9"><span style="color:#145094"><b>Ebihara, A.</b></span>
+    <li value="7"><span style="color:#145094"><b>Ebihara, A.</b></span>
       <br><b>Determination device, determination method, and recording medium.</b>
       <br>WO2021229654A1
       <!-- <br><i>published on Nov. 18th, 2021.</i> -->
     </li><br>
-    <li value="8">Miyagawa, T., and <span style="color:#145094"><b>Ebihara, A.</b></span>
+    <li value="6">Miyagawa, T., and <span style="color:#145094"><b>Ebihara, A.</b></span>
       <br><b>Identification device, identification method, and recording medium.</b>
       <br>WO2021220450A1
       <!-- <br><i>published on Nov. 4th, 2021.</i> -->
     </li><br>
-    <li value="7"><span style="color:#145094"><b>Ebihara, A.</b></span>
+    <li value="5"><span style="color:#145094"><b>Ebihara, A.</b></span>
       <br><b>Weight estimation device, weight estimation method, and weight estimation program.</b>
       <br>JP2021021973A
       <!-- <br><i>published on Feb. 18th, 2021.</i> -->
-    </li><br>
-    <li value="6"><span style="color:#145094"><b>Ebihara, A.</b></span>
-      <br><b>Spoofing detection device, spoofing detection method, and program.</b>
-      <br>JPWO2019163066A1
-      <!-- <br><i>published on Feb. 18th, 2021.</i> -->
-    </li><br>
-    <li value="5"><span style="color:#145094"><b>Ebihara, A.</b></span>
-      <br><b>Spoofing detection device, spoofing detection method, and program.</b>
-      <br>JPWO2019163065A1
-      <!-- <br><i>published on Jan. 7th, 2021.</i> -->
     </li><br>
     <li value="4"><span style="color:#145094"><b>Ebihara, A.</b></span>
       <br><b>Spoofing detection apparatus, spoofing detection method, and computer-readable recording medium.</b>

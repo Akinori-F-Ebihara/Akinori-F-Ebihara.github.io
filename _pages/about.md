@@ -77,7 +77,7 @@ __[Oct. 1st, 2020]__
     Sugiyama, M., Suzuki, T., Kanamori, T. Density ratio estimation in machine learning. Cambridge University Press, 2012.
     </li>
     <li value="10">
-    Ebihara, A.F., Miyagawa, T., Sakurai, K., Imaoka, H. Sequential Density Ratio Estimation for Simultaneous Optimization of Speed and Accuracy. arXiv 2020.
+    Ebihara, A.F., Miyagawa, T., Sakurai, K., Imaoka, H. Sequential Density Ratio Estimation for Simultaneous Optimization of Speed and Accuracy. ICLR 2021.
     </li>
 </ol>
 <br>

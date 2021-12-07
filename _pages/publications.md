@@ -140,31 +140,37 @@ Faculty advisory committee: Dr. Cornelia I. Bargmann and Dr. Charles D. Gilbert<
       <br><b>Learning device, learning method, and recording medium.</b>
       <br>WO2021229663A1
       <!-- <br><i>published on Nov. 18th, 2021.</i> -->
+      <br><b>*Covers the idea of the LLLR (ICLR2021)</b>
     </li><br>
     <li value="10"><span style="color:#145094"><b>Ebihara, A.</b></span>
       <br><b>Determination device, determination method, and recording medium.</b>
       <br>WO2021229662A1
       <!-- <br><i>published on Nov. 18th, 2021.</i> -->
+      <!-- *”Confident”SPRT-TANDEM -->
     </li><br>
     <li value="9"><span style="color:#145094"><b>Ebihara, A.</b></span>
       <br><b>Determination device, determination method, and recording medium.</b>
       <br>WO2021229661A1
       <!-- <br><i>published on Nov. 18th, 2021.</i> -->
+      <!-- *UI for SPRT-TANDEM -->
     </li><br>
     <li value="8"><span style="color:#145094"><b>Ebihara, A.</b></span>
       <br><b>Determination device, learning method, and recording medium.</b>
       <br>WO2021229660A1
       <!-- <br><i>published on Nov. 18th, 2021.</i> -->
+      <!-- *”Patient”SPRT-TANDEM -->
     </li><br>
     <li value="7"><span style="color:#145094"><b>Ebihara, A.</b></span>
       <br><b>Determination device, determination method, and recording medium.</b>
       <br>WO2021229654A1
       <!-- <br><i>published on Nov. 18th, 2021.</i> -->
+      <!-- *SPRT-TANDEM with collapsing bounary -->
     </li><br>
     <li value="6">Miyagawa, T., and <span style="color:#145094"><b>Ebihara, A.</b></span>
       <br><b>Identification device, identification method, and recording medium.</b>
       <br>WO2021220450A1
       <!-- <br><i>published on Nov. 4th, 2021.</i> -->
+      <!-- *Covers the idea of AUC-SAT loss -->
     </li><br>
     <li value="5"><span style="color:#145094"><b>Ebihara, A.</b></span>
       <br><b>Weight estimation device, weight estimation method, and weight estimation program.</b>
@@ -175,11 +181,13 @@ Faculty advisory committee: Dr. Cornelia I. Bargmann and Dr. Charles D. Gilbert<
       <br><b>Spoofing detection apparatus, spoofing detection method, and computer-readable recording medium.</b>
       <br>JPWO2019163066A1, US20210034894A1, WO2019163066A1
       <!-- <br><i>published on Feb. 4th, 2021.</i> -->
+      <br><b>*Covers the idea of the diffusion refrection descriptor (IJCB2020)</b>
     </li><br>
     <li value="3"><span style="color:#145094"><b>Ebihara, A.</b></span>
       <br><b>Spoofing detector, spoofing detection method, and computer-readable recording medium.</b>
       <br>JPWO2019163065A1, EP3757936A1, US20210034893A1, WO2019163065A1
       <!-- <br><i>published on Dec. 30th, 2020.</i> -->
+      <br><b>*Covers the idea of the specular refrection descriptor (IJCB2020)</b>
     </li><br>
     <li value="2"><span style="color:#145094"><b>Ebihara, A.</b></span>
       <br><b>Information processing device, personal identification device, information processing method, and storage medium.</b>

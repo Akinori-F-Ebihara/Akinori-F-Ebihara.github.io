@@ -9,39 +9,39 @@ author_profile: true
 <ol>
     <li value="10">Miyamoto, T., Hashimoto, H., Hayasaka, A., <span style="color:#145094"><b>Ebihara, A.F.</b></span>, and Imaoka, H.
       <br><b>Joint Feature Distribution Alignment Learning for NIR-VIS and VIS-VIS Face Recognition.</b>
-      <a href="https://ieeexplore.ieee.org/document/9484385">[IEEE]</a>
+      <a href="https://ieeexplore.ieee.org/document/9484385">[pdf]</a>
       <br><i>International Joint Conference on Biometrics (IJCB) 2021, Virtual conference.</i>
     </li><br>
     <li value="9">Miyagawa, T., and <span style="color:#145094"><b>Ebihara, A.F.</b></span>
       <br><b>The Power of Log-Sum-Exp: Sequential Density Ratio Matrix Estimation for Speed-Accuracy Optimization.</b>
-      <a href="https://arxiv.org/abs/2105.13636">[arXiv]</a>
+      <a href="https://arxiv.org/abs/2105.13636">[pdf]</a>
       <br><i>International Conference on Machine Learning (ICML) 2021, Virtual conference.</i>
     </li><br>
     <li value="8"><span style="color:#145094"><b>Ebihara, A.F.</b></span>, Sakurai, K., and Imaoka, H. 
       <br><b>Efficient Face Spoofing Detection with Flash.</b>
-      <a href="https://ieeexplore.ieee.org/abstract/document/9419913">[IEEE]</a>
+      <a href="https://ieeexplore.ieee.org/abstract/document/9419913">[pdf]</a>
       <br><i>IEEE Transactions on Biometrics, Behavior, and Identity Science (T-BIOM) 2021.</i>
     </li><br>
     <li value="7">Imaoka, H., Hashimoto, H., Takahashi, K., <span style="color:#145094"><b>Ebihara, A.F.</b></span>, Liu, J., Hayasaka, A., Morishita, Y., and Sakurai, K.
       <br><b>The Future of Biometrics Technology: from Face Recognition to Related Applications.</b>
+      <a href="https://www.cambridge.org/core/journals/apsipa-transactions-on-signal-and-information-processing/article/future-of-biometrics-technology-from-face-recognition-to-related-applications/98B13157669DFC22D36F284228A0CE42">[pdf]</a>
       <br><i>APSIPA Transactions on Signal and Information Processing, 2021.</i>
     </li><br>
     <li value="6"><span style="color:#145094"><b>Ebihara, A.F.</b></span>, Miyagawa, T., Sakurai, K., and Imaoka, H. 
       <br><b>Sequential Density Ratio Estimation for Simultaneous Optimization of Speed and Accuracy.</b>
-      <a href="https://arxiv.org/abs/2006.05587">[arXiv]</a>
+      <a href="https://arxiv.org/abs/2006.05587">[pdf]</a>
       <br><i>International Conference on Learning Representations (ICLR) 2021, Virtual conference.</i>
       <br><b><a href="https://openreview.net/forum?id=Rhsu5qD36cL&referrer=%5BAuthor%20Console%5D(%2Fgroup%3Fid%3DICLR.cc%2F2021%2FConference%2FAuthors%23your-submissions)">*Spotlight presentation (top 5.57%).</a></b>
     </li><br>
     <li value="5"><span style="color:#145094"><b>Ebihara, A.F.</b></span>, Sakurai, K., and Imaoka, H.  
       <br><b>Specular- and Diffuse-reflection-based Face Spoofing Detection for Mobile Devices.</b>
-      <a href="https://arxiv.org/abs/1907.12400">[arXiv]</a>
-      <a href="https://ieee-biometrics.org/ijcb2020/Program.html#apaper">[IJCB2020]</a>
+      <a href="https://arxiv.org/abs/1907.12400">[pdf]</a>
       <br><i>International Joint Conference on Biometrics (IJCB) 2020, Virtual conference.</i>
       <br><b><a href="https://ieee-biometrics.org/ijcb2020/Program.html#awards">*IJCB 2020 Google Best Paper Award</a></b>
     </li><br>
     <li value="4">Caruso, V.C., Mohl, J.T., Glynn, C., Jee, J., Willets, S.M., Azman, A., <span style="color:#145094"><b>Ebihara, A.F.</b></span>, Estrada, R., Freiwald, W.A., Tokdar, S.T., and Groh, J.M. 
       <br><b>Single Neurons May Encode Simultaneous Stimuli by Switching Between Activity Patterns.</b>
-      <a href="https://www.nature.com/articles/s41467-018-05121-8">[NatComm]</a>
+      <a href="https://www.nature.com/articles/s41467-018-05121-8">[pdf]</a>
       <br><i>Nature Communications 9, 2715 (2018).</i>
       </li><br>
     <li value="3"><span style="color:#145094"><b>Ebihara, A.F.</b></span>, Hocevar, A., Magnasco M.O., and Freiwald, W.A. 
@@ -127,7 +127,7 @@ author_profile: true
 <span style="color:#145094"><b>Ebihara, A.F.</b></span>
 <br><b>Normalization Among Heterogeneous Population Confers Stimulus Discriminability on the Macaque Face Patch Neurons.</b>
 <br><i>2015 Student Theses and Dissertations. 278.</i> 
-<a href="https://digitalcommons.rockefeller.edu/student_theses_and_dissertations/278">[link]</a>
+<a href="https://digitalcommons.rockefeller.edu/student_theses_and_dissertations/278">[pdf]</a>
 <br><br>
 Ph.D. advisor: Dr. Winrich A. Freiwald<br>
 Ph.D. co-advisor: Dr. Marcelo Magnasco<br>

@@ -139,8 +139,8 @@ Faculty advisory committee: Dr. Cornelia I. Bargmann and Dr. Charles D. Gilbert<
     <li value="11"><span style="color:#145094"><b>Ebihara, A.</b></span>, and Miyagawa, T.
       <br><b>Learning device, learning method, and recording medium.</b>
       <br>WO2021229663A1
-      <!-- <br><i>published on Nov. 18th, 2021.</i> -->
       <br><i><b>*Covers the idea of the LLLR (ICLR2021)</i></b>
+      <!-- <br><i>published on Nov. 18th, 2021.</i> -->
     </li><br>
     <li value="10"><span style="color:#145094"><b>Ebihara, A.</b></span>
       <br><b>Determination device, determination method, and recording medium.</b>

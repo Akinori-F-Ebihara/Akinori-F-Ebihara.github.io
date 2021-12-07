@@ -119,9 +119,8 @@ author_profile: true
 ## Ph.D. Thesis
 <p style='margin-left:30.0pt'>
 <span style="color:#145094"><b>Ebihara, A.F.</b></span>
-<br><b>Normalization Among Heterogeneous Population Confers Stimulus Discriminability on the Macaque Face Patch Neurons.</b>
+<br><b><a href="https://digitalcommons.rockefeller.edu/student_theses_and_dissertations/278">Normalization Among Heterogeneous Population Confers Stimulus Discriminability on the Macaque Face Patch Neurons.</a></b>
 <br><i>2015 Student Theses and Dissertations. 278.</i> 
-<a href="https://digitalcommons.rockefeller.edu/student_theses_and_dissertations/278">[link]</a>
 <br><br>
 Ph.D. advisor: Dr. Winrich A. Freiwald<br>
 Ph.D. co-advisor: Dr. Marcelo Magnasco<br>

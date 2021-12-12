@@ -200,7 +200,6 @@ Faculty advisory committee: Dr. Cornelia I. Bargmann and Dr. Charles D. Gilbert<
       <br>JPWO2019078310A1,EP3699865A4, US20200257888A1, WO2019078310A1
       <!-- <br><i>published on Oct. 1st, 2020.</i> -->
     </li><br>
-
 </ol>
 
 <!-- ## Patents  
@@ -433,47 +432,45 @@ Faculty advisory committee: Dr. Cornelia I. Bargmann and Dr. Charles D. Gilbert<
 
 
 ## Media
-<ol>
-  Nov 11th, 2021. <b>LabBase.jp</b>  
-  <a href="https://compass.labbase.jp/articles/799">異分野キャリアって有り？　研究力重視のNEC（日本電気株式会社）で、神経科学者が「顔認証」で活躍する理由</a>  
+Nov 11th, 2021. <b>LabBase.jp</b>  
+<a href="https://compass.labbase.jp/articles/799">異分野キャリアって有り？　研究力重視のNEC（日本電気株式会社）で、神経科学者が「顔認証」で活躍する理由</a>  
 
-  May 7th, 2021. <b>NEC official press release</b>  
-  <a href="https://jpn.nec.com/press/202105/20210506_03.html">NEC、複雑な意思決定を行う際の脳活動の知見を応用したAI技術を開発  
-  ～「早押しクイズ」にヒントを得て、顔認証やサイバー攻撃の分析を最大20倍高速化～</a>  
+May 7th, 2021. <b>NEC official press release</b>  
+<a href="https://jpn.nec.com/press/202105/20210506_03.html">NEC、複雑な意思決定を行う際の脳活動の知見を応用したAI技術を開発  
+～「早押しクイズ」にヒントを得て、顔認証やサイバー攻撃の分析を最大20倍高速化～</a>  
 
-  May. 7th, 2021. <b>Nikkei (日本経済新聞, 朝刊, 10面, 530文字)</b>  
-  NEC「一瞬」で顔認証、最短0.1秒未満、従来の20分の1、精度保ち、利便性向上  
+May. 7th, 2021. <b>Nikkei (日本経済新聞, 朝刊, 10面, 530文字)</b>  
+NEC「一瞬」で顔認証、最短0.1秒未満、従来の20分の1、精度保ち、利便性向上  
 
-  May. 7th, 2021. <b>Cloud Watch (クラウドwatch)</b>  
-  <a href="https://cloud.watch.impress.co.jp/docs/news/1322762.html">NEC、時系列データのリアルタイム分析向け新技術を開発　高い精度を維持しながら高速な判断を可能に</a>  
+May. 7th, 2021. <b>Cloud Watch (クラウドwatch)</b>  
+<a href="https://cloud.watch.impress.co.jp/docs/news/1322762.html">NEC、時系列データのリアルタイム分析向け新技術を開発　高い精度を維持しながら高速な判断を可能に</a>  
 
-  May. 7th, 2021. <b>EnterpriseZine</b>  
-  <a href="https://enterprisezine.jp/news/detail/14351">NEC、「早押しクイズ」をヒントにAI技術を開発</a>  
+May. 7th, 2021. <b>EnterpriseZine</b>  
+<a href="https://enterprisezine.jp/news/detail/14351">NEC、「早押しクイズ」をヒントにAI技術を開発</a>  
 
-  May. 7th, 2021. <b>Robotstart (ロボスタ)</b>  
-  <a href="https://robotstart.info/2021/05/06/nec-ai-technology-sprt-tandem.html">簡単な問題は素早く回答、難問はじっくり考えてから答えを出すAIをNECが開発　顔認証の処理を最大20倍高速化　脳科学にヒント</a>  
+May. 7th, 2021. <b>Robotstart (ロボスタ)</b>  
+<a href="https://robotstart.info/2021/05/06/nec-ai-technology-sprt-tandem.html">簡単な問題は素早く回答、難問はじっくり考えてから答えを出すAIをNECが開発　顔認証の処理を最大20倍高速化　脳科学にヒント</a>  
 
-  May. 7th, 2021. <b>ASCII×AI</b>  
-  <a href="https://ascii.jp/elem/000/004/053/4053836/">NEC、高い精度を維持しながら高速で判断するAI技術を開発</a>  
+May. 7th, 2021. <b>ASCII×AI</b>  
+<a href="https://ascii.jp/elem/000/004/053/4053836/">NEC、高い精度を維持しながら高速で判断するAI技術を開発</a>  
 
-  May. 7th, 2021. <b>Yahoo News</b>  
-  <a href="https://news.yahoo.co.jp/articles/8485361becd0ec9df6d751993606860e8125b4ba">NEC、高い精度を維持しながら高速で判断するAI技術を開発</a>  
+May. 7th, 2021. <b>Yahoo News</b>  
+<a href="https://news.yahoo.co.jp/articles/8485361becd0ec9df6d751993606860e8125b4ba">NEC、高い精度を維持しながら高速で判断するAI技術を開発</a>  
 
-  May. 6th, 2021. <b>Nikkei Online (日経電子版)</b>  
-  <a href="https://www.nikkei.com/article/DGXZQOUC211IQ0R20C21A4000000/  ">NEC、顔認証の判定時間短縮　最大で20分の1に</a>  
+May. 6th, 2021. <b>Nikkei Online (日経電子版)</b>  
+<a href="https://www.nikkei.com/article/DGXZQOUC211IQ0R20C21A4000000/  ">NEC、顔認証の判定時間短縮　最大で20分の1に</a>  
 
-  Feb. 17th, 2017.　<b>President Online</b>  
-  <a href="https://president.jp/articles/-/21367?page=2">高学歴ワーキングプア「ポスドク問題」は解決できたか？</a><br>  
-</ol>  
+Feb. 17th, 2017.　<b>President Online</b>  
+<a href="https://president.jp/articles/-/21367?page=2">高学歴ワーキングプア「ポスドク問題」は解決できたか？</a><br>  
+
   
   
 ## Books
-<ol>
-  <a href="https://www.amazon.co.jp/%E9%A1%94%E8%AA%8D%E8%A8%BC%E3%81%AE%E6%95%99%E7%A7%91%E6%9B%B8-%E6%98%8E%E6%97%A5%E3%81%AE%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E3%82%92%E5%89%B5%E3%82%8B%E6%9C%80%E5%85%88%E7%AB%AFAI%E3%81%AE%E4%B8%96%E7%95%8C-%E4%BB%8A%E5%B2%A1-%E4%BB%81/dp/483342438X/ref=sr_1_1?__mk_ja_JP=%E3%82%AB%E3%82%BF%E3%82%AB%E3%83%8A&keywords=%E9%A1%94%E8%AA%8D%E8%A8%BC%E3%81%AE%E6%95%99%E7%A7%91%E6%9B%B8&qid=1639299963&sr=8-1">顔認証の教科書 明日のビジネスを創る最先端AIの世界</a>  
-  今岡仁（著）  
-  ※第１章-４　顔認証システムとは何か？後半、およびコラム②　脳神経科学との融合で顔認証を高速化する画期的AIの開発　の文章を監修
-  <br>
-</ol>
+<a href="https://www.amazon.co.jp/%E9%A1%94%E8%AA%8D%E8%A8%BC%E3%81%AE%E6%95%99%E7%A7%91%E6%9B%B8-%E6%98%8E%E6%97%A5%E3%81%AE%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E3%82%92%E5%89%B5%E3%82%8B%E6%9C%80%E5%85%88%E7%AB%AFAI%E3%81%AE%E4%B8%96%E7%95%8C-%E4%BB%8A%E5%B2%A1-%E4%BB%81/dp/483342438X/ref=sr_1_1?__mk_ja_JP=%E3%82%AB%E3%82%BF%E3%82%AB%E3%83%8A&keywords=%E9%A1%94%E8%AA%8D%E8%A8%BC%E3%81%AE%E6%95%99%E7%A7%91%E6%9B%B8&qid=1639299963&sr=8-1">顔認証の教科書 明日のビジネスを創る最先端AIの世界</a>  
+今岡仁（著）  
+※第１章-４　顔認証システムとは何か？後半、およびコラム②　脳神経科学との融合で顔認証を高速化する画期的AIの開発　の文章を監修
+<br>
+
 
 <!-- {% if author.googlescholar %}
   You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>

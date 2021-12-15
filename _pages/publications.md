@@ -71,6 +71,7 @@ author_profile: true
     <li value="13"><span style="color:#145094"><b>Ebihara, A.F.</b></span>, Sakurai, K., and Imaoka, H. 
       <br><b>Flash Reflection-based Face Liveness Detection for Mobile Devices.</b>
       <br><i>The 8th Symposium on Biometrics, Recognition and Authentication (IEICE SBRA2018), Iidabashi, Tokyo, Japan.</i>
+      <br><b><a href="https://www.ieice.org/~biox/sbra2018/?cmd=program">*Bio-X incentive award</a></b>
     </li><br>
     <li value="12"><span style="color:#145094"><b>Ebihara, A.F.</b></span>, Sakurai, K., and Imaoka, H. 
       <br><b>Spoofing Detection with a Monocular Camera using Flash Reflection.</b>

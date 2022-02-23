@@ -31,7 +31,7 @@ One example of our bio-inspired machine learning is the study of the Sequential 
 
 # News
 __[May 8th, 2021]__　　
-- Out paper, "Sequential Density Ratio Matrix Estimation for Speed-Accuracy Optimization" was accepted to ICML 2021.　　
+- Our paper, "Sequential Density Ratio Matrix Estimation for Speed-Accuracy Optimization" was accepted to ICML 2021.　　
 
 __[May 7th, 2021]__
 - Nikkei (日本経済新聞) featured <a href="https://www.nikkei.com/article/DGXZQOUC211IQ0R20C21A4000000/">an article</a> about our algorithm, SPRT-TANDEM.

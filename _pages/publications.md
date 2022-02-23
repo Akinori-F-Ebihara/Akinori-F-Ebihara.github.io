@@ -436,6 +436,12 @@ Faculty advisory committee: Dr. Cornelia I. Bargmann and Dr. Charles D. Gilbert<
 Nov 11th, 2021. <b>LabBase.jp</b>  
 <a href="https://compass.labbase.jp/articles/799">異分野キャリアって有り？　研究力重視のNEC（日本電気株式会社）で、神経科学者が「顔認証」で活躍する理由</a>  
 
+May 14th, 2021. <b>Nikkei xTech（日経クロステック追加取材）</b>  
+<a href="https://xtech.nikkei.com/atcl/nxt/column/18/00001/05582/">「ひらめき」と「慎重さ」が同居するNECの新AI、分析速度最大20倍の裏側</a>  
+
+May 10th, 2021. <b>Nikkei xTech</b>  
+<a href="https://xtech.nikkei.com/atcl/nxt/news/18/10282/">NECが「早押しクイズ」型の顔認証AI、照合データの信頼性に応じ最大20倍速で判別</a>  
+
 May 7th, 2021. <b>NEC official press release</b>  
 <a href="https://jpn.nec.com/press/202105/20210506_03.html">NEC、複雑な意思決定を行う際の脳活動の知見を応用したAI技術を開発  
 ～「早押しクイズ」にヒントを得て、顔認証やサイバー攻撃の分析を最大20倍高速化～</a>  

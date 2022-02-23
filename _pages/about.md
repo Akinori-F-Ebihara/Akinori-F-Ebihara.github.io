@@ -30,7 +30,7 @@ One example of our bio-inspired machine learning is the study of the Sequential 
 <br>  
 
 # News
-__[June 2nd, 2021]__　　
+__[Jun. 2nd, 2021]__　　
 - Our paper, "Joint Feature Distribution Alignment Learning for NIR-VIS and VIS-VIS Face Recognition" was accepted to IJCB 2021.　　
 
 __[May 8th, 2021]__　　

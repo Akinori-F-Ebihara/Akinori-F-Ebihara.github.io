@@ -439,6 +439,9 @@ Nov 11th, 2021. <b>LabBase.jp</b>
 May 14th, 2021. <b>Nikkei xTech（日経クロステック追加取材）</b>  
 <a href="https://xtech.nikkei.com/atcl/nxt/column/18/00001/05582/">「ひらめき」と「慎重さ」が同居するNECの新AI、分析速度最大20倍の裏側</a>  
 
+May 10th, 2021. <b>電波新聞</b>  
+<a href="https://dempa-digital.com/article/189194">早押しクイズをヒントにAI開発　NECが顔認証やサイバー攻撃の検知に、処理時間20倍</a>  
+
 May 10th, 2021. <b>Nikkei xTech</b>  
 <a href="https://xtech.nikkei.com/atcl/nxt/news/18/10282/">NECが「早押しクイズ」型の顔認証AI、照合データの信頼性に応じ最大20倍速で判別</a>  
 

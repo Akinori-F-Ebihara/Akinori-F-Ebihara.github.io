@@ -30,11 +30,14 @@ One example of our bio-inspired machine learning is the study of the Sequential 
 <br>  
 
 # News
+__[June 2nd, 2021]__　　
+- Our paper, "Joint Feature Distribution Alignment Learning for NIR-VIS and VIS-VIS Face Recognition" was accepted to IJCB 2021.　　
+
 __[May 8th, 2021]__　　
 - Our paper, "Sequential Density Ratio Matrix Estimation for Speed-Accuracy Optimization" was accepted to ICML 2021.　　
 
 __[May 7th, 2021]__
-- Nikkei (日本経済新聞) featured <a href="https://www.nikkei.com/article/DGXZQOUC211IQ0R20C21A4000000/">an article</a> about our algorithm, SPRT-TANDEM.
+- <a href="https://www.nikkei.com/article/DGXZQOUC211IQ0R20C21A4000000/">Nikkei (日本経済新聞)</a> and Nikkei XTech featured articles about our algorithm, SPRT-TANDEM.
 - NEC released an official <a href="https://jpn.nec.com/press/202105/20210506_03.html">press release</a> about the SPRT-TANDEM.
 
 __[Apr. 1st, 2021]__

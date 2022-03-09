@@ -8,7 +8,7 @@ author_profile: true
 <b>Biometrics Research Laboratories, NEC Corporation</b></p>
 <p style='margin-left:120.0pt;margin-top:-18px;'>
 <i><b>"Special Researcher"*</b> at the Face Recognition Research Group</i><br>
-*A few distinguished researchers that are selected to enter a performance-based reward system instead of the traditional seniority wage system.<br>
+*One of a few distinguished researchers that are selected to enter a performance-based reward system instead of the traditional seniority wage system.<br>
 
 <p style="font-size:18px">2018~2021&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <b>Biometrics Research Laboratories, NEC Corporation</b></p>

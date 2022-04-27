@@ -7,11 +7,18 @@ author_profile: true
 
 ## Peer-reviewed Journals / Conferences
 <ol>
+    <li value="12">Ka Pik, L., <span style="color:#145094"><b>Ebihara, A.F.</b></span>, Miyagawa, T., Sakurai, K., and Imaoka, H.
+      <i>In preparation.</i>
+    </li><br>    
+    <li value="11">Sawada, A., Miyagawa, T., <span style="color:#145094"><b>Ebihara, A.F.</b></span>, Yachida, S., and  Hosoi, T.
+      <br><b>Convolutional Neural Networks for Time-dependent Classification of Variable-length Time Series.</b>
+      <br><i>IEEE World Congress on Computational Intelligence (WCCI) 2022, IJCNN track, Padua, Italy.</i>
+    </li><br>
     <li value="10">Miyamoto, T., Hashimoto, H., Hayasaka, A., <span style="color:#145094"><b>Ebihara, A.F.</b></span>, and Imaoka, H.
       <br><b>Joint Feature Distribution Alignment Learning for NIR-VIS and VIS-VIS Face Recognition.</b>
       <a href="https://ieeexplore.ieee.org/document/9484385">[pdf]</a>
       <br><i>International Joint Conference on Biometrics (IJCB) 2021, Virtual conference.</i>
-    </li><br>
+    </li><br>    
     <li value="9">Miyagawa, T., and <span style="color:#145094"><b>Ebihara, A.F.</b></span>
       <br><b>The Power of Log-Sum-Exp: Sequential Density Ratio Matrix Estimation for Speed-Accuracy Optimization.</b>
       <a href="https://arxiv.org/abs/2105.13636">[pdf]</a>

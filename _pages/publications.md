@@ -7,7 +7,7 @@ author_profile: true
 
 ## Peer-reviewed Journals / Conferences
 <ol>
-    <li value="12">Ka Pik, L., <span style="color:#145094"><b>Ebihara, A.F.</b></span>, Miyagawa, T., Sakurai, K., and Imaoka, H.
+    <li value="12">Ka Pik, L., <span style="color:#145094"><b>Ebihara, A.F.</b></span>, Miyagawa, T., Sakurai, K., and Imaoka, H.<br>
       <i>In preparation.</i>
     </li><br>    
     <li value="11">Sawada, A., Miyagawa, T., <span style="color:#145094"><b>Ebihara, A.F.</b></span>, Yachida, S., and  Hosoi, T.

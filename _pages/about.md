@@ -30,6 +30,9 @@ One example of our bio-inspired machine learning is the study of the Sequential 
 <br>  
 
 # News
+__[Apr. 27th, 2022]__　　
+- Our paper, "Convolutional Neural Networks for Time-dependent Classification of Variable-length Time Series" was accepted to WCC 2021 (IJCNN track).　　
+
 __[Jun. 2nd, 2021]__　　
 - Our paper, "Joint Feature Distribution Alignment Learning for NIR-VIS and VIS-VIS Face Recognition" was accepted to IJCB 2021.　　
 

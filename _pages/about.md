@@ -45,7 +45,7 @@ __[May 7th, 2021]__
 
 __[Apr. 1st, 2021]__
 - Akinori F. Ebihara was promoted to "Special Researcher"* of NEC corporation.
-<br>*A few distinguished researchers that are selected to enter a performance-based reward system instead of the traditional seniority wage system
+<br>*A few distinguished researchers that are selected to enter a performance-based reward system instead of the traditional seniority wage system.
 
 __[Jan. 13th, 2021]__
 - Our paper, "Sequential Density Ratio Estimation for Simultaneous Optimization of Speed and Accuracy" was accepted as a <b><a href="https://openreview.net/forum?id=Rhsu5qD36cL&referrer=%5BAuthor%20Console%5D(%2Fgroup%3Fid%3DICLR.cc%2F2021%2FConference%2FAuthors%23your-submissions)">Spotlight presentation (top 5.57%) at ICLR 2021.</a></b>

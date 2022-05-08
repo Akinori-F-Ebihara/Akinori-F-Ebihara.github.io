@@ -13,6 +13,7 @@ author_profile: true
     <li value="11">Sawada, A., Miyagawa, T., <span style="color:#145094"><b>Ebihara, A.F.</b></span>, Yachida, S., and  Hosoi, T.
       <br><b>Convolutional Neural Networks for Time-dependent Classification of Variable-length Time Series.</b>
       <br><i>IEEE World Congress on Computational Intelligence (WCCI) 2022, IJCNN track, Padua, Italy.</i>
+      <br><b>*Oral presentation.</b>
     </li><br>
     <li value="10">Miyamoto, T., Hashimoto, H., Hayasaka, A., <span style="color:#145094"><b>Ebihara, A.F.</b></span>, and Imaoka, H.
       <br><b>Joint Feature Distribution Alignment Learning for NIR-VIS and VIS-VIS Face Recognition.</b>

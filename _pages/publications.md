@@ -7,6 +7,7 @@ author_profile: true
 
 ## Peer-reviewed Journals / Conferences
 <ol>
+    <li value="13"><span style="color:#145094"><b>Ebihara, A.F.</b></span>, Miyagawa, T., Sakurai, K., and Imaoka, H.<br><i>in preparation.</i></li><br>    
     <li value="12">Ka Pik, L., <span style="color:#145094"><b>Ebihara, A.F.</b></span>, Miyagawa, T., Sakurai, K., and Imaoka, H.<br><i>in preparation.</i></li><br>    
     <!-- <li value="12">Ka Pik, L., <span style="color:#145094"><b>Ebihara, A.F.</b></span>, Miyagawa, T., Sakurai, K., and Imaoka, H.<br>
       <b>Patch-based Morphing Attack Detection Using Sequential Probability Ratio Test.</b>

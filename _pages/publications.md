@@ -149,54 +149,61 @@ Faculty advisory committee: Dr. Cornelia I. Bargmann and Dr. Charles D. Gilbert<
 
 ## Patents  
 <ol>
-    <li value="19">Watanabe, K., Saiko, M., <span style="color:#145094"><b>Ebihara, A.</b></span>, and Miyagawa, T.
+    <li value="20">Watanabe, K., Saiko, M., <span style="color:#145094"><b>Ebihara, A.</b></span>, and Miyagawa, T.
       <br><b>Image processing device, image processing method, and storage medium.</b>
       <br>WO2022224446A1
       <!-- published on Oct. 27th, 2022. 
       Endoscope x SPRT-TANDEM. -->
     </li><br>
-    <li value="18">Miyagawa, T., and <span style="color:#145094"><b>Ebihara, A.</b></span>
+    <li value="19">Miyagawa, T., and <span style="color:#145094"><b>Ebihara, A.</b></span>
       <br><b>Information processing system, information processing method, and computer program.</b>
       <br>WO2022157973A1
+      <br><i><b>*Covers the idea of the Log-Sum Exponential Loss (LSEL, ICML2021)</b></i>
       <!-- published on Jul. 28th, 2022.-->
     </li><br>
-    <li value="17"><span style="color:#145094"><b>Ebihara, A.</b></span>, and Miyagawa, T.
+    <li value="18"><span style="color:#145094"><b>Ebihara, A.</b></span>, and Miyagawa, T.
       <br><b>Information processing device, information processing method, and computer program.</b>
       <br>WO2022144992A1
-      <!-- published on July. 7th, 2022.-->
+      <!-- published on July. 7th, 2022. SPRT for face recognition-->
+    </li><br>
+    <li value="17"><span style="color:#145094"><b>Ebihara, A.</b></span>, and Miyagawa, T.
+      <br><b>Information processing system, information processing method, and computer program.</b>
+      <br>WO2022144991A1
+      <!-- published on July. 7th, 2022. Hard sample mining with SPRT-->
     </li><br>
     <li value="16"><span style="color:#145094"><b>Ebihara, A.</b></span>, and Miyagawa, T.
       <br><b>Information processing system, information processing method, and computer program.</b>
-      <br>WO2022144991A1
-      <!-- published on July. 7th, 2022.-->
+      <br>WO2022137439A1
+      <!-- published on Jun. 30th, 2022. Multiclass LLLR with or without margin -->
     </li><br>
     <li value="15"><span style="color:#145094"><b>Ebihara, A.</b></span>, and Miyagawa, T.
-      <br><b>Information processing system, information processing method, and computer program.</b>
-      <br>WO2022137439A1
-      <!-- published on Jun. 30th, 2022.-->
-    </li><br>
-    <li value="14"><span style="color:#145094"><b>Ebihara, A.</b></span>, and Miyagawa, T.
       <br><b>Information processing device, information processing method, and computer program.</b>
       <br>WO2022113163A1
-      <!-- published on Jun. 2nd, 2022.-->
+      <!-- published on Jun. 2nd, 2022. SPRT for ranking/top-k problems-->
     </li><br>
-    <li value="13"><span style="color:#145094"><b>Ebihara, A.</b></span>, and Miyagawa, T.
+    <li value="14"><span style="color:#145094"><b>Ebihara, A.</b></span>, and Miyagawa, T.
       <br><b> Information processing device, information processing method, and computer program.</b>
       <br>WO2022054246A1, US20220269909A1
-      <!-- published on Mar. 17th, 2022.-->
+      <!-- published on Mar. 17th, 2022. SPRT-TANDEM for changepoint detection-->
     </li><br>
-    <li value="12">Miyagawa, T., and <span style="color:#145094"><b>Ebihara, A.</b></span>
+    <li value="13">Miyagawa, T., and <span style="color:#145094"><b>Ebihara, A.</b></span>
       <br><b>Information processing system, information processing method, and computer program.</b>
       <br>WO2022049704A1
-      <!-- published on Mar. 10th, 2022.-->
+      <br><i><b>*Covers the idea of the SPRT-TANDEM with Oblivion (ICML2021)</b></i>
+      <!-- published on Mar. 10th, 2022. SPRT-TANDEM with Oblivion-->
     </li><br>
-    <li value="11"><span style="color:#145094"><b>Ebihara, A.</b></span>, and Miyagawa, T.
+    <li value="12"><span style="color:#145094"><b>Ebihara, A.</b></span>, and Miyagawa, T.
       <br><b>Learning device, learning method, and recording medium.</b>
       <br>WO2021229663A1
       <!-- published on Nov. 18th, 2021. 
       Loss for Log Likelihood Ratio estimation (LLLR)-->
-      <br><i><b>*Covers the idea of the LLLR (ICLR2021)</b></i>
+      <br><i><b>*Covers the idea of the Loss for Log-Likelihood Ratio estimation (LLLR, ICLR2021)</b></i>
     </li><br>
+    <li value="11">Lee, K.P., and <span style="color:#145094"><b>Ebihara, A.</b></span> 
+      <br><b> Determination device, determination method, and recording medium.</b>
+      <br>WO2021229659A1
+      <!-- published on Nov. 18th, 2021. 
+      SPRT for morphing attack detection (MAD)-->
     <li value="10"><span style="color:#145094"><b>Ebihara, A.</b></span>
       <br><b>Determination device, determination method, and recording medium.</b>
       <br>WO2021229662A1, US20220245916A1
@@ -249,7 +256,7 @@ Faculty advisory committee: Dr. Cornelia I. Bargmann and Dr. Charles D. Gilbert<
       <br><b>Information processing device, personal identification device, information processing method, and storage medium.</b>
       <br>WO2020194497A1, CN113646758A, EP3951620A4, JPWO2020194497A1, US20220147778A1
       <!-- published on Oct. 1st, 2020.-->
-      <br><i><b>*Covers the idea of the SPRT-TANDEM.</b></i>
+      <br><i><b>*Covers the idea of the SPRT-TANDEM (ICLR2021).</b></i>
     </li><br>
     <li value="1"><span style="color:#145094"><b>Ebihara, A.</b></span>
       <br><b>Face three-dimensional shape estimation device, face three-dimensional shape estimation method, and face three-dimensional shape estimation program.</b>

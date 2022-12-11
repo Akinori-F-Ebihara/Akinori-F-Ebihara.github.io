@@ -204,6 +204,7 @@ Faculty advisory committee: Dr. Cornelia I. Bargmann and Dr. Charles D. Gilbert<
       <br>WO2021229659A1
       <!-- published on Nov. 18th, 2021. 
       SPRT for morphing attack detection (MAD)-->
+    </li><br>
     <li value="10"><span style="color:#145094"><b>Ebihara, A.</b></span>
       <br><b>Determination device, determination method, and recording medium.</b>
       <br>WO2021229662A1, US20220245916A1

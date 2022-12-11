@@ -149,69 +149,112 @@ Faculty advisory committee: Dr. Cornelia I. Bargmann and Dr. Charles D. Gilbert<
 
 ## Patents  
 <ol>
+    <li value="19">Watanabe, K., Saiko, M., <span style="color:#145094"><b>Ebihara, A.</b></span>, and Miyagawa, T.
+      <br><b>Image processing device, image processing method, and storage medium.</b>
+      <br>WO2022224446A1
+      <!-- published on Oct. 27th, 2022. 
+      Endoscope x SPRT-TANDEM. -->
+    </li><br>
+    <li value="18">Miyagawa, T., and <span style="color:#145094"><b>Ebihara, A.</b></span>
+      <br><b>Information processing system, information processing method, and computer program.</b>
+      <br>WO2022157973A1
+      <!-- published on Jul. 28th, 2022.-->
+    </li><br>
+    <li value="17"><span style="color:#145094"><b>Ebihara, A.</b></span>, and Miyagawa, T.
+      <br><b>Information processing device, information processing method, and computer program.</b>
+      <br>WO2022144992A1
+      <!-- published on July. 7th, 2022.-->
+    </li><br>
+    <li value="16"><span style="color:#145094"><b>Ebihara, A.</b></span>, and Miyagawa, T.
+      <br><b>Information processing system, information processing method, and computer program.</b>
+      <br>WO2022144991A1
+      <!-- published on July. 7th, 2022.-->
+    </li><br>
+    <li value="15"><span style="color:#145094"><b>Ebihara, A.</b></span>, and Miyagawa, T.
+      <br><b>Information processing system, information processing method, and computer program.</b>
+      <br>WO2022137439A1
+      <!-- published on Jun. 30th, 2022.-->
+    </li><br>
+    <li value="14"><span style="color:#145094"><b>Ebihara, A.</b></span>, and Miyagawa, T.
+      <br><b>Information processing device, information processing method, and computer program.</b>
+      <br>WO2022113163A1
+      <!-- published on Jun. 2nd, 2022.-->
+    </li><br>
+    <li value="13"><span style="color:#145094"><b>Ebihara, A.</b></span>, and Miyagawa, T.
+      <br><b> Information processing device, information processing method, and computer program.</b>
+      <br>WO2022054246A1, US20220269909A1
+      <!-- published on Mar. 17th, 2022.-->
+    </li><br>
+    <li value="12">Miyagawa, T., and <span style="color:#145094"><b>Ebihara, A.</b></span>
+      <br><b>Information processing system, information processing method, and computer program.</b>
+      <br>WO2022049704A1
+      <!-- published on Mar. 10th, 2022.-->
+    </li><br>
     <li value="11"><span style="color:#145094"><b>Ebihara, A.</b></span>, and Miyagawa, T.
       <br><b>Learning device, learning method, and recording medium.</b>
       <br>WO2021229663A1
-      <!-- <br><i>published on Nov. 18th, 2021.</i> -->
+      <!-- published on Nov. 18th, 2021. 
+      Loss for Log Likelihood Ratio estimation (LLLR)-->
       <br><i><b>*Covers the idea of the LLLR (ICLR2021)</b></i>
     </li><br>
     <li value="10"><span style="color:#145094"><b>Ebihara, A.</b></span>
       <br><b>Determination device, determination method, and recording medium.</b>
-      <br>WO2021229662A1
-      <!-- <br><i>published on Nov. 18th, 2021.</i> -->
+      <br>WO2021229662A1, US20220245916A1
+      <!-- published on Nov. 18th, 2021.-->
       <!-- *”Confident”SPRT-TANDEM -->
     </li><br>
     <li value="9"><span style="color:#145094"><b>Ebihara, A.</b></span>
       <br><b>Determination device, determination method, and recording medium.</b>
-      <br>WO2021229661A1
-      <!-- <br><i>published on Nov. 18th, 2021.</i> -->
+      <br>WO2021229661A1, US20220245934A1
+      <br><i>*Covers the idea of a user-interface of the SPRT-TANDEM.</i>
+      <!-- published on Nov. 18th, 2021.-->
       <!-- *UI for SPRT-TANDEM -->
     </li><br>
     <li value="8"><span style="color:#145094"><b>Ebihara, A.</b></span>
       <br><b>Determination device, learning method, and recording medium.</b>
-      <br>WO2021229660A1
-      <!-- <br><i>published on Nov. 18th, 2021.</i> -->
+      <br>WO2021229660A1, US20220245473A1
+      <!-- published on Nov. 18th, 2021.-->
       <!-- *”Patient”SPRT-TANDEM -->
     </li><br>
     <li value="7"><span style="color:#145094"><b>Ebihara, A.</b></span>
       <br><b>Determination device, determination method, and recording medium.</b>
-      <br>WO2021229654A1
-      <!-- <br><i>published on Nov. 18th, 2021.</i> -->
+      <br>WO2021229654A1, US20220254153A1
+      <!-- published on Nov. 18th, 2021.-->
       <!-- *SPRT-TANDEM with collapsing bounary -->
     </li><br>
     <li value="6">Miyagawa, T., and <span style="color:#145094"><b>Ebihara, A.</b></span>
       <br><b>Identification device, identification method, and recording medium.</b>
-      <br>WO2021220450A1
-      <!-- <br><i>published on Nov. 4th, 2021.</i> -->
+      <br>WO2021220450A1, US20220245519A1
+      <!-- published on Nov. 4th, 2021.-->
       <!-- *Covers the idea of AUC-SAT loss -->
     </li><br>
     <li value="5"><span style="color:#145094"><b>Ebihara, A.</b></span>
       <br><b>Weight estimation device, weight estimation method, and weight estimation program.</b>
       <br>JP2021021973A
-      <!-- <br><i>published on Feb. 18th, 2021.</i> -->
+      <!-- published on Feb. 18th, 2021.-->
     </li><br>
     <li value="4"><span style="color:#145094"><b>Ebihara, A.</b></span>
       <br><b>Spoofing detection apparatus, spoofing detection method, and computer-readable recording medium.</b>
-      <br>JPWO2019163066A1, US20210034894A1, WO2019163066A1
-      <!-- <br><i>published on Feb. 4th, 2021.</i> -->
+      <br>JP6984724B2, JP2022028850A, US11222221B2, US20220092323A1, WO2019163066A1
+      <!-- published on Feb. 4th, 2021.</i> (?)same? JP2022028850A  Spoofing detection device, spoofing detection method, and program -->
       <br><i><b>*Covers the idea of the diffusion refrection descriptor (IJCB2020)</b></i>
     </li><br>
     <li value="3"><span style="color:#145094"><b>Ebihara, A.</b></span>
       <br><b>Spoofing detector, spoofing detection method, and computer-readable recording medium.</b>
-      <br>JPWO2019163065A1, EP3757936A1, US20210034893A1, WO2019163065A1
-     <!-- <br><i>published on Dec. 30th, 2020.</i> -->
+      <br>JP7004059B2, JP2022031456A, EP3757936A4, US11200436B2, US20220237951A1, WO2019163065A1
+     <!-- published on Dec. 30th, 2020. (?)same?JP2022031456A Impersonation detection device, impersonation detection method, and program -->
       <br><i><b>*Covers the idea of the specular refrection descriptor (IJCB2020)</b></i>     
     </li><br>
     <li value="2"><span style="color:#145094"><b>Ebihara, A.</b></span>
       <br><b>Information processing device, personal identification device, information processing method, and storage medium.</b>
-      <br>WO2020194497A1
-      <!-- <br><i>published on Oct. 1st, 2020.</i> -->
+      <br>WO2020194497A1, CN113646758A, EP3951620A4, JPWO2020194497A1, US20220147778A1
+      <!-- published on Oct. 1st, 2020.-->
       <br><i><b>*Covers the idea of the SPRT-TANDEM.</b></i>
     </li><br>
     <li value="1"><span style="color:#145094"><b>Ebihara, A.</b></span>
       <br><b>Face three-dimensional shape estimation device, face three-dimensional shape estimation method, and face three-dimensional shape estimation program.</b>
-      <br>JPWO2019078310A1,EP3699865A4, US20200257888A1, WO2019078310A1
-      <!-- <br><i>published on Oct. 1st, 2020.</i> -->
+      <br>WO2019078310A1, JP7047848B2, EP3699865A4, US20200257888A1
+      <!-- published on Oct. 1st, 2020.</i> US20200257888A1(deleted?)-->
     </li><br>
 </ol>
 
@@ -493,13 +536,3 @@ Feb. 17th, 2017.　<b>President Online</b>
 ※第１章-４　顔認証システムとは何か？後半、およびコラム②　脳神経科学との融合で顔認証を高速化する画期的AIの開発　の文章を監修
 <br>
 
-
-<!-- {% if author.googlescholar %}
-  You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
-{% endif %}
-
-{% include base_path %}
-
-{% for post in site.publications reversed %}
-  {% include archive-single.html %}
-{% endfor %} -->

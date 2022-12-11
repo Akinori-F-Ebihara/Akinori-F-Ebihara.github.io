@@ -263,9 +263,9 @@ Faculty advisory committee: Dr. Cornelia I. Bargmann and Dr. Charles D. Gilbert<
       <br>WO2019078310A1, JP7047848B2, EP3699865A4, US20200257888A1
       <!-- published on Oct. 1st, 2020.</i> US20200257888A1(deleted?)-->
     </li><br>
-</ol>
+</ol>  
 
-## Media
+## Media  
 Nov 11th, 2021. <b>LabBase.jp</b>  
 <a href="https://compass.labbase.jp/articles/799">異分野キャリアって有り？　研究力重視のNEC（日本電気株式会社）で、神経科学者が「顔認証」で活躍する理由</a>  
 

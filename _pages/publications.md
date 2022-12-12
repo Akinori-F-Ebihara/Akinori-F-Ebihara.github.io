@@ -32,12 +32,12 @@ author_profile: true
     <li value="8"><span style="color:#145094"><b>Ebihara, A.F.</b></span>, Sakurai, K., and Imaoka, H. 
       <br><b>Efficient Face Spoofing Detection with Flash.</b>
       <a href="https://ieeexplore.ieee.org/abstract/document/9419913">[pdf]</a>
-      <br><i>IEEE Transactions on Biometrics, Behavior, and Identity Science (T-BIOM) 2021.</i>
+      <br><i>IEEE Transactions on Biometrics, Behavior, and Identity Science (T-BIOM), vol. 3, no. 4, pp. 535-549, Oct. 2021, doi: 10.1109/TBIOM.2021.3076816.</i>
     </li><br>
     <li value="7">Imaoka, H., Hashimoto, H., Takahashi, K., <span style="color:#145094"><b>Ebihara, A.F.</b></span>, Liu, J., Hayasaka, A., Morishita, Y., and Sakurai, K.
       <br><b>The Future of Biometrics Technology: from Face Recognition to Related Applications.</b>
       <a href="https://www.cambridge.org/core/journals/apsipa-transactions-on-signal-and-information-processing/article/future-of-biometrics-technology-from-face-recognition-to-related-applications/98B13157669DFC22D36F284228A0CE42">[pdf]</a>
-      <br><i>APSIPA Transactions on Signal and Information Processing, 2021.</i>
+      <br><i>APSIPA Transactions on Signal and Information Processing, 2021, 10, E9. doi:10.1017/ATSIP.2021.8.</i>
     </li><br>
     <li value="6"><span style="color:#145094"><b>Ebihara, A.F.</b></span>, Miyagawa, T., Sakurai, K., and Imaoka, H. 
       <br><b>Sequential Density Ratio Estimation for Simultaneous Optimization of Speed and Accuracy.</b>

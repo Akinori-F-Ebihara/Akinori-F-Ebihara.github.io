@@ -149,6 +149,12 @@ Faculty advisory committee: Dr. Cornelia I. Bargmann and Dr. Charles D. Gilbert<
 
 ## Patents  
 <ol>
+    <li value="21">Watanabe, K., <span style="color:#145094"><b>Ebihara, A.</b></span>, and Miyagawa, T.
+      <br><b>Information processing device, information processing method, medical image identification device, and non-transitory computer-readable medium in which program is stored.</b>
+      <br>WO2022259429A1
+      <!-- published on Oct. 27th, 2022. 
+      SPRT-TANDEM's weighted average across different order N's (unrelated to the endoscope project, although one example covers an application to endoscope) -->
+    </li><br>
     <li value="20">Watanabe, K., Saiko, M., <span style="color:#145094"><b>Ebihara, A.</b></span>, and Miyagawa, T.
       <br><b>Image processing device, image processing method, and storage medium.</b>
       <br>WO2022224446A1

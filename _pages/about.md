@@ -29,6 +29,9 @@ One example of our bio-inspired machine learning is the study of the Sequential 
 <br>  
 
 # News
+__[Feb. 16th, 2023]__　　
+- Our paper, "Toward Asymptotic Optimality: Sequential Unsupervised Regression of Density Ratio for Early Classification" was accepted to ICASSP 2023.  
+  
 __[Apr. 27th, 2022]__　　
 - Our paper, "Convolutional Neural Networks for Time-dependent Classification of Variable-length Time Series" was accepted to WCCI 2021 (IJCNN track) as an oral presentation.　　
 

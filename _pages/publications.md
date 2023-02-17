@@ -13,7 +13,7 @@ author_profile: true
       <br><i>International Conference of the Biometrics Special Interest Group (BIOSIG) 2022, Darmstadt, Germany.</i>
     </li><br>     -->
     <li value="12"><span style="color:#145094"><b>Ebihara, A.F.</b></span>, Miyagawa, T., Sakurai, K., and Imaoka, H.
-      <br><b>Toward Asymptotic Optimality: Sequential Unsupervised Regression of Density Ratio for Early Classification.</b>
+      <br><b>Toward Asymptotic Optimality: Overcoming Likelihood Ratio Saturation Problem for Early Classification.</b>
       <a href="https://arxiv.org/abs/xxxx.xxxxx">[pdf]</a>
       <br><i>IEEE International Conference on Acoustics, Speech, and Signal Processing (ICASSP) 2023, Rhodes Island, Greece.</i>
     </li><br>    

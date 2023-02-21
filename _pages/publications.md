@@ -14,7 +14,7 @@ author_profile: true
     </li><br>     -->
     <li value="12"><span style="color:#145094"><b>Ebihara, A.F.</b></span>, Miyagawa, T., Sakurai, K., and Imaoka, H.
       <br><b>Toward Asymptotic Optimality: Sequential Unsupervised Regression of Density Ratio for Early Classification.</b>
-      <a href="https://arxiv.org/abs/xxxx.xxxxx">[pdf]</a>
+      <a href="https://arxiv.org/abs/2302.09810">[pdf]</a>
       <br><i>IEEE International Conference on Acoustics, Speech, and Signal Processing (ICASSP) 2023, Rhodes Island, Greece.</i>
     </li><br>    
     <li value="11">Sawada, A., Miyagawa, T., <span style="color:#145094"><b>Ebihara, A.F.</b></span>, Yachida, S., and  Hosoi, T.

@@ -7,11 +7,15 @@ author_profile: true
 
 ## Peer-reviewed Journals / Conferences
 <ol>
-    <li value="13">Ka Pik, L., <span style="color:#145094"><b>Ebihara, A.F.</b></span>, Miyagawa, T., Sakurai, K., and Imaoka, H.<br><i>in preparation.</i></li><br>    
+    <li value="15">Watanabe, K., Miyagawa, T., <span style="color:#145094"><b>Ebihara, A.F.</b></span>, Saiko, M., Bhandari, P., Htet, H., Imaoka, H., and Iwadate, Y.<br><i>in preparation.</i></li><br>    
+    <li value="14">Ka Pik, L., <span style="color:#145094"><b>Ebihara, A.F.</b></span>, Miyagawa, T., Sakurai, K., and Imaoka, H.<br><i>in preparation.</i></li><br>    
     <!-- <li value="12">Ka Pik, L., <span style="color:#145094"><b>Ebihara, A.F.</b></span>, Miyagawa, T., Sakurai, K., and Imaoka, H.<br>
       <b>Patch-based Morphing Attack Detection Using Sequential Probability Ratio Test.</b>
       <br><i>International Conference of the Biometrics Special Interest Group (BIOSIG) 2022, Darmstadt, Germany.</i>
     </li><br>     -->
+    <li value="13">Schmehl, M., Caruso, V., Willett, S., Chen, Y., Jun, N.Y., Mohl, J., Ruff, D., Cohen, M., <span style="color:#145094"><b>Ebihara, A.F.</b></span>, Freiwald, W.A., Tokdar, S., and Groh, J. 
+      <br><b>Fluctuating responses evoked by multiple objects: a general feature of visual representations.</b>
+      <br><i>Conference on Cognitive Computational Neuroscience 2023, Oxford, UK.</i></li><br>    
     <li value="12"><span style="color:#145094"><b>Ebihara, A.F.</b></span>, Miyagawa, T., Sakurai, K., and Imaoka, H.
       <br><b>Toward Asymptotic Optimality: Sequential Unsupervised Regression of Density Ratio for Early Classification.</b>
       <a href="https://arxiv.org/abs/2302.09810">[pdf]</a>

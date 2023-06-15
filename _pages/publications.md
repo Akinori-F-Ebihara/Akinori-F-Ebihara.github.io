@@ -80,6 +80,10 @@ author_profile: true
 
 ## Non-peer-reviewed Works  
 <ol>
+    <li value="16">Schmehl, M., Caruso, V., Willett, S., Chen, Y., Jun, N.Y., Mohl, J., Ruff, D., Cohen, M., <span style="color:#145094"><b>Ebihara, A.F.</b></span>, Freiwald, W.A., Tokdar, S., and Groh, J. 
+      <br><b>Fluctuating responses evoked by multiple objects: a general phenomenon.</b>
+      <br><i>Simian Collective 2023, Chicago.</i>
+      </li><br>
     <li value="15">Miyamoto, T., Hashimoto, H., Hayasaka, A., <span style="color:#145094"><b>Ebihara, A.F.</b></span>, and Imaoka, H. 
       <br><b>Joint Feature Distribution Alignment Learning for NIR-VIS and VIS-VIS Face Recognition.</b>
       <br><i>The 11th Symposium on Biometrics, Recognition and Authentication (IEICE SBRA2021), Virtual Conference.</i>

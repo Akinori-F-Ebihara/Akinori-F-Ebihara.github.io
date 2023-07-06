@@ -15,7 +15,8 @@ author_profile: true
     </li><br>     -->
     <li value="13">Schmehl, M., Caruso, V., Willett, S., Chen, Y., Jun, N.Y., Mohl, J., Ruff, D., Cohen, M., <span style="color:#145094"><b>Ebihara, A.F.</b></span>, Freiwald, W.A., Tokdar, S., and Groh, J. 
       <br><b>Fluctuating responses evoked by multiple objects: a general feature of visual representations.</b>
-      <br><i>Conference on Cognitive Computational Neuroscience (CCN) 2023, Oxford, UK.</i></li><br>    
+      <br><i>Conference on Cognitive Computational Neuroscience (CCN) 2023, Oxford, UK.</i></li>
+      <br><b>*Oral presentation (top 4.5%)</b>
     <li value="12"><span style="color:#145094"><b>Ebihara, A.F.</b></span>, Miyagawa, T., Sakurai, K., and Imaoka, H.
       <br><b>Toward Asymptotic Optimality: Sequential Unsupervised Regression of Density Ratio for Early Classification.</b>
       <a href="https://arxiv.org/abs/2302.09810">[pdf]</a>

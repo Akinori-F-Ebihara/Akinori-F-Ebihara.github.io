@@ -161,6 +161,13 @@ Ph.D. co-advisor: Dr. Marcelo Magnasco<br>
 Faculty advisory committee: Dr. Cornelia I. Bargmann and Dr. Charles D. Gilbert<br>
 <br></p>
 
+## Invited talks
+<ol>
+    <span style="color:#145094"><b>Ebihara, A.F.</b></span>
+    <br><b>SPRT-TANDEM: Sequential Density Ratio Estimation for Early Classification.</b>
+    <br><i>Symposium on Biometrics, Recognition and Authentication (SBRA) 2023, Seiki University, Tokyo, Japan.</i>
+</ol>
+
 ## Patents  
 <ol>
     <li value="21">Watanabe, K., <span style="color:#145094"><b>Ebihara, A.</b></span>, and Miyagawa, T.

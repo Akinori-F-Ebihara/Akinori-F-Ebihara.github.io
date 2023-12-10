@@ -165,7 +165,7 @@ Faculty advisory committee: Dr. Cornelia I. Bargmann and Dr. Charles D. Gilbert<
 <ol>
     <span style="color:#145094"><b>Ebihara, A.F.</b></span>
     <br><b>SPRT-TANDEM: Sequential Density Ratio Estimation for Early Classification.</b>
-    <br><i>Symposium on Biometrics, Recognition and Authentication (SBRA) 2023, Seiki University, Tokyo, Japan.</i>
+    <br><i>Symposium on Biometrics, Recognition and Authentication (SBRA) 2023, Seikei University, Tokyo, Japan.</i>
 </ol>
 
 ## Patents  

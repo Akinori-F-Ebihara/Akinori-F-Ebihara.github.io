@@ -3,7 +3,7 @@ permalink: /
 title: "Vision"
 excerpt: "Vision"
 author_profile: true
-redirect_from: 
+redirect_from:
   - /about/
   - /about.html
 ---
@@ -17,8 +17,8 @@ One example of our bio-inspired machine learning is the study of the Sequential 
 <br>
 <br>
 
-# Research Interests  
-- Bio-inspired machine learning  
+# Research Interests
+- Bio-inspired machine learning
 - Sequential Probability Ratio Test (SPRT)
 - Density ratio estimation
 - Face
@@ -26,12 +26,15 @@ One example of our bio-inspired machine learning is the study of the Sequential 
   - Face recognition (visual neuroscience)
   - Face presentation attack detection (PAD)
 <br>
-<br>  
+<br>
 
 # News
+<!-- __[Apr. 1st, 2024]__　　
+- Akinori F. Ebihara has been promoted to Principal Researcher. -->
+
 __[Feb. 16th, 2023]__　　
-- Our paper, "Toward Asymptotic Optimality: Sequential Unsupervised Regression of Density Ratio for Early Classification" was accepted to ICASSP 2023.  
-  
+- Our paper, "Toward Asymptotic Optimality: Sequential Unsupervised Regression of Density Ratio for Early Classification" was accepted to ICASSP 2023.
+
 __[Apr. 27th, 2022]__　　
 - Our paper, "Convolutional Neural Networks for Time-dependent Classification of Variable-length Time Series" was accepted to WCCI 2021 (IJCNN track) as an oral presentation.　　
 
@@ -46,7 +49,7 @@ __[May 7th, 2021]__
 - NEC released an official <a href="https://jpn.nec.com/press/202105/20210506_03.html">press release</a> about the SPRT-TANDEM.
 
 __[Apr. 1st, 2021]__
-- Akinori F. Ebihara was promoted to "Special Researcher"* of NEC corporation.
+- Akinori F. Ebihara has been promoted to "Special Researcher."
 <br>*A few distinguished researchers that are selected to enter a performance-based reward system instead of the traditional seniority wage system.
 
 __[Jan. 13th, 2021]__
@@ -55,7 +58,7 @@ __[Jan. 13th, 2021]__
 __[Oct. 1st, 2020]__
 - Our paper, "Specular- and Diffuse-reflection-based Face Spoofing Detection for Mobile Devices" won <b><a href="https://ieee-biometrics.org/ijcb2020/Program.html#awards">IJCB 2020 Google Best Paper Award</a></b>.
 
-<br>   
+<br>
 ## References
 <ol>
     <li value="1">

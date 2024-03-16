@@ -15,6 +15,7 @@ author_profile: true
     </li><br>     -->
     <li value="14">Schmehl, M., Caruso, V.C., Chen, Y., Jun, N.Y., Willett, S.M., Mohl, J.T., Ruff, D.A., Cohen, M., <span style="color:#145094"><b>Ebihara, A.F.</b></span>, Freiwald, W.A., Tokdar, S., and Groh, J.M.
       <br><b>Multiple objects evoke fluctuating responses in several regions of the visual pathway.</b>
+      <a href="https://elifesciences.org/articles/91129">[pdf]</a>
       <br><i>eLife 2024.</i>
     </li><br>
     <li value="13">Schmehl, M., Caruso, V.C., Willett, S.M., Chen, Y., Jun, N.Y., Mohl, J.T., Ruff, D.A., Cohen, M., <span style="color:#145094"><b>Ebihara, A.F.</b></span>, Freiwald, W.A., Tokdar, S., and Groh, J.M.

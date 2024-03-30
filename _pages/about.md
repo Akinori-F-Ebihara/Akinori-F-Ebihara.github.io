@@ -29,8 +29,8 @@ One example of our bio-inspired machine learning is the study of the Sequential 
 <br>
 
 # News
-<!-- __[Apr. 1st, 2024]__　　
-- Akinori F. Ebihara has been promoted to Principal Researcher. -->
+__[Apr. 1st, 2024]__　　
+- Akinori F. Ebihara has been promoted to Principal Researcher.
 
 __[Feb. 16th, 2023]__　　
 - Our paper, "Toward Asymptotic Optimality: Sequential Unsupervised Regression of Density Ratio for Early Classification" was accepted to ICASSP 2023.

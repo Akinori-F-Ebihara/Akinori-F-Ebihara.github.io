@@ -4,9 +4,12 @@ title: "Honors and Awards"
 permalink: /awards/
 author_profile: true
 ---
-<p style='margin-left:155.0pt;margin-top:-18px'>
-<b>Jul. 19th, 2024&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;NEC GIBU Award for Multiple Patent Registrations.</b>
+<p style="font-size:20px">
+Jul. 19th, 2024&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>NEC GIBU Award for Multiple Patent Registrations.</b>
 <!-- 2024年度　グローバルイノベーションビジネスユニット　多数件登録表彰 -->
+</p>
+<p style='margin-left:155.0pt;margin-top:-18px'>
+NEC's internal award for registering 10 patents during the 2024 fiscal year.<br>
 </p>
 <p style="font-size:20px">
 Oct. 1st, 2020&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>IJCB 2020 Google Best Paper Award</b>

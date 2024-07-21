@@ -4,7 +4,12 @@ title: "Research Experience"
 permalink: /research/
 author_profile: true
 ---
-<p style="font-size:18px">2021~present&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<p style="font-size:18px">2024~present&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<b>Biometrics Research Laboratories, NEC Corporation</b></p>
+<p style='margin-left:120.0pt;margin-top:-18px;'>
+<i><b>Principal Researcher</b> at the Research Group for Biometirc Recognition Systems</i>
+
+<p style="font-size:18px">2021~2023&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <b>Biometrics Research Laboratories, NEC Corporation</b></p>
 <p style='margin-left:120.0pt;margin-top:-18px;'>
 <i><b>"Special Researcher"*</b> at the Face Recognition Research Group</i><br>

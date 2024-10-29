@@ -13,7 +13,7 @@ author_profile: true
       <b>Patch-based Morphing Attack Detection Using Sequential Probability Ratio Test.</b>
       <br><i>International Conference of the Biometrics Special Interest Group (BIOSIG) 2022, Darmstadt, Germany.</i>
     </li><br>     -->
-    <li value="15">Mori, J., Miyagawa, T., Kihara, K., <span style="color:#145094"><b>Ebihara, A.F.</b></span>, and Araki, T.
+    <li value="15">Mori, J., Kihara, K., Miyagawa, T., <span style="color:#145094"><b>Ebihara, A.F.</b></span>, and Araki, T.
       <br><b>Federated Source-free Domain Adaptation for Classification: Weighted Cluster Aggregation for Unlabaled Data</b>
       <br><i>IEEE/CVF Winter Conference on Applications of Computer Vision (WACV) 2024.</i>
     </li><br> 

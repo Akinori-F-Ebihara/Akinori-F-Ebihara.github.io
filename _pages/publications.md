@@ -7,12 +7,16 @@ author_profile: true
 
 ## Peer-reviewed Journals / Conferences
 <ol>
-    <li value="16">Watanabe, K., Miyagawa, T., <span style="color:#145094"><b>Ebihara, A.F.</b></span>, Saiko, M., Bhandari, P., Htet, H., Imaoka, H., and Iwadate, Y.<br><i>in preparation.</i></li><br>
-    <li value="15">Ka Pik, L., <span style="color:#145094"><b>Ebihara, A.F.</b></span>, Miyagawa, T., Sakurai, K., and Imaoka, H.<br><i>in preparation.</i></li><br>
+    <!-- <li value="16">Watanabe, K., Miyagawa, T., <span style="color:#145094"><b>Ebihara, A.F.</b></span>, Saiko, M., Bhandari, P., Htet, H., Imaoka, H., and Iwadate, Y.<br><i>in preparation.</i></li><br>
+    <li value="15">Ka Pik, L., <span style="color:#145094"><b>Ebihara, A.F.</b></span>, Miyagawa, T., Sakurai, K., and Imaoka, H.<br><i>in preparation.</i></li><br> -->
     <!-- <li value="12">Ka Pik, L., <span style="color:#145094"><b>Ebihara, A.F.</b></span>, Miyagawa, T., Sakurai, K., and Imaoka, H.<br>
       <b>Patch-based Morphing Attack Detection Using Sequential Probability Ratio Test.</b>
       <br><i>International Conference of the Biometrics Special Interest Group (BIOSIG) 2022, Darmstadt, Germany.</i>
     </li><br>     -->
+    <li value="15">Mori, J., Miyagawa, T., Kihara, K., <span style="color:#145094"><b>Ebihara, A.F.</b></span>, and Araki, T.
+      <br><b>Federated Source-free Domain Adaptation for Classification: Weighted Cluster Aggregation for Unlabaled Data</b>
+      <br><i>IEEE/CVF Winter Conference on Applications of Computer Vision (WACV)</i>
+    </li><br> 
     <li value="14">Schmehl, M., Caruso, V.C., Chen, Y., Jun, N.Y., Willett, S.M., Mohl, J.T., Ruff, D.A., Cohen, M., <span style="color:#145094"><b>Ebihara, A.F.</b></span>, Freiwald, W.A., Tokdar, S., and Groh, J.M.
       <br><b>Multiple objects evoke fluctuating responses in several regions of the visual pathway.</b>
       <a href="https://elifesciences.org/articles/91129">[pdf]</a>

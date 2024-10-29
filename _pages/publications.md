@@ -15,7 +15,7 @@ author_profile: true
     </li><br>     -->
     <li value="15">Mori, J., Miyagawa, T., Kihara, K., <span style="color:#145094"><b>Ebihara, A.F.</b></span>, and Araki, T.
       <br><b>Federated Source-free Domain Adaptation for Classification: Weighted Cluster Aggregation for Unlabaled Data</b>
-      <br><i>IEEE/CVF Winter Conference on Applications of Computer Vision (WACV)</i>
+      <br><i>IEEE/CVF Winter Conference on Applications of Computer Vision (WACV) 2024.</i>
     </li><br> 
     <li value="14">Schmehl, M., Caruso, V.C., Chen, Y., Jun, N.Y., Willett, S.M., Mohl, J.T., Ruff, D.A., Cohen, M., <span style="color:#145094"><b>Ebihara, A.F.</b></span>, Freiwald, W.A., Tokdar, S., and Groh, J.M.
       <br><b>Multiple objects evoke fluctuating responses in several regions of the visual pathway.</b>

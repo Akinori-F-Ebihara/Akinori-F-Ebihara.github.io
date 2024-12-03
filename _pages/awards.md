@@ -40,9 +40,9 @@ Awarded for the oral presentation “Flash Reflection-based Face Liveness Detect
 </p>
 
 <p style="font-size:20px;margin-top:20px">
-2008~2010&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>Murata Overseas Scholarship Foundation, 39th year’s scholarship awardee</b>
+2008~2010&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>Murata Overseas Scholarship Foundation, 39th-year scholarship awardee</b>
 </p>
-<p style='margin-left:155.0pt;margin-top:-18px'>2 years of financial support (covers living expenses, travel expenses and tuition if any) for studying abroad.<br>
+<p style='margin-left:155.0pt;margin-top:-18px'>Awarded a 2-year financial scholarship supporting living expenses, travel expenses, and tuition (if applicable) during the Ph.D. program.<br>
 </p>
 
 <p style="font-size:20px;margin-top:20px">

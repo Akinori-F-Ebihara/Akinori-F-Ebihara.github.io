@@ -6,7 +6,7 @@ author_profile: true
 ---
 
 ## Reviewer
-- TBA
+- Reviewer, NeurIPS (<a href="https://elifesciences.org/articles/91129">Top Reviewer: Top 7.7%, 1304/16941</a>), ICLR, and others
 <!-- Served as a peer reviewer for top-tier machine learning conferences, including NeurIPS, ICLR, and AISTATS. -->
 
 ## Organizing Committee Member

@@ -5,6 +5,9 @@ permalink: /awards/
 author_profile: true
 ---
 <p style="font-size:20px">
+Nov. 2024&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b><a href="https://elifesciences.org/articles/91129">NeurIPS 2024 Top Reviewer (Top 7.7%, 1304/16941)</a></b>
+</p>
+<p style="font-size:20px">
 Jul. 19th, 2024&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>NEC GIBU Award for Multiple Patent Registrations</b>
 <!-- 2024年度　グローバルイノベーションビジネスユニット　多数件登録表彰 -->
 </p>

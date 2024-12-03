@@ -12,18 +12,18 @@ redirect_from:
 <br>
 <br> -->
 <span style="color:#145094"><b>Learn from the brain, but not be constrained by it.</b></span> Artificial intelligence research has been profoundly influenced by neuroscience, inspiring advancements in areas such as the representation of visual stimuli [1, 2] and visual attention mechanisms [3, 4]. However, as one of the ultimate goals of AI is to surpass human capabilities [5], modern algorithms do not need to strictly mimic biological processes [6]. Our research philosophy embraces this balance: leveraging biological insights to inform computational algorithms where appropriate, while maintaining the freedom to explore beyond biological constraints.
-
 <br>  
-<br>  
-
+<br>
 <!-- # Latest Research
 One example of our bio-inspired machine learning is the study of the Sequential Probability Ratio Test, or SPRT [7]. SPRT is originally invented by Abraham Wald, later re-discovered as the algorithm that best explains the primate parietal lobe neurons' activity [8]. The parietal neurons are thought to be engaged in evidence-accumulating processes in complex decision-making. We extended Wald's algorithm to a more general case, using deep neural networks aided by density ratio estimation algorithms [9]. Coined as SPRT-TANDEM, our algorithm showed a competitive speed and accuracy under various real-world scenarios. Interested readers are invited to read the [introductory article on GitHub](https://github.com/Akinori-F-Ebihara/SPRT-TANDEM_what_is_it) and/or the [original paper [10]](https://arxiv.org/abs/2006.05587).
 <br>
 <br> -->
 # Latest Research  
-A recent example of our bio-inspired machine learning work focuses on the **Sequential Probability Ratio Test (SPRT)** [7]. Originally proposed by Abraham Wald, SPRT was later found to describe the activity of neurons in the primate parietal lobe [8], which are believed to play a role in evidence accumulation during complex decision-making tasks. Building on this foundation, we expanded Wald's algorithm to address more complex scenarios by integrating deep neural networks with advanced density ratio estimation techniques [9]. This extension, **SPRT-TANDEM**, demonstrates competitive speed and accuracy across various real-world applications.
+A recent example of our bio-inspired machine learning work focuses on the Sequential Probability Ratio Test (SPRT) [7]. Originally proposed by Abraham Wald, SPRT was later found to describe the activity of neurons in the primate parietal lobe [8], which are believed to play a role in evidence accumulation during complex decision-making tasks. Building on this foundation, we expanded Wald's algorithm to address more complex scenarios by integrating deep neural networks with advanced density ratio estimation techniques [9]. This extension, SPRT-TANDEM, demonstrates competitive speed and accuracy across various real-world applications.
 
 For those interested, we invite you to explore our [introductory article on GitHub](https://github.com/Akinori-F-Ebihara/SPRT-TANDEM_what_is_it) and delve deeper into the [original research paper [10]](https://arxiv.org/abs/2006.05587).  
+<br>
+<br>
 
 # Research Interests
 - Bio-inspired machine learning

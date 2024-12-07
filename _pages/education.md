@@ -15,6 +15,9 @@ Faculty advisory committee: Dr. Cornelia I. Bargmann and Dr. Charles D. Gilbert<
 <i>Thesis: Normalization among heterogeneous population confers stimulus discriminability on the macaque face patch neurons</i>
 </p><br>
 
+
+
+
 <p style="font-size:22px">2004-2008&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <b>The University of Tokyo, Japan</b></p>
 <p style='margin-left:145.0pt;margin-top:-15px'>
@@ -23,6 +26,7 @@ B.A. advisor: Dr. Hitoshi Sakano<br>
 B.A. mentor: Dr. Hirofumi Nishizumi<br>
 <i>Thesis: Expression mechanism of mouse odorant receptor gene</i><br>
 GPA: 3.88/4.00
+- Attended the <b>Undergraduate Program for Bioinformatics and Systems Biology<\b> (2006).
 </p>
 <br>
 <br>

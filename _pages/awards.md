@@ -5,7 +5,7 @@ permalink: /awards/
 author_profile: true
 ---
 <p style="font-size:20px">
-Nov. 2024&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>NeurIPS 2024 <a href="https://neurips.cc/Conferences/2024/ProgramCommittee">Top Reviewer (Top 7.7%, 1304/16941)</a></b>
+Nov. 2024 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>NeurIPS 2024 <a href="https://neurips.cc/Conferences/2024/ProgramCommittee">Top Reviewer (Top 7.7%, 1304/16941)</a></b>
 </p>
 <p style="font-size:20px">
 Jul. 19th, 2024&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>NEC GIBU Award for Multiple Patent Registrations</b>

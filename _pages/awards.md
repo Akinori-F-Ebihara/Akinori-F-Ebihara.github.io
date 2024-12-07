@@ -15,8 +15,11 @@ Jul. 19th, 2024&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp
 NEC's internal award for registering 10 patents during the 2023 fiscal year.<br>
 </p>
 <p style="font-size:20px">
-2022&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>NEC Innovators 100</b>: recognized as one of the top innovators among researchers in NEC Central Research Laboratories.
+2022&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>NEC Innovators 100</b><br>
 </p>
+<p style='margin-left:155.0pt;margin-top:-18px'>
+Recognized as one of the top innovators among researchers in NEC Central Research Laboratories.<br>
+
 <p style="font-size:20px">
 Oct. 1st, 2020&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>IJCB 2020 Google Best Paper Award</b>
 <!-- a.k.a. Google PC Chairs Choice Best Paper Award -->

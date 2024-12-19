@@ -15,77 +15,78 @@ author_profile: true
     </li><br>     -->
     <li value="15">Mori, J., Kihara, K., Miyagawa, T., <span style="color:#145094"><b>Ebihara, A.F.</b></span>, Teranishi, I, and Kashima, H.
       <br><b>Federated Source-free Domain Adaptation for Classification: Weighted Cluster Aggregation for Unlabaled Data</b>
+      <a href="https://arxiv.org/abs/2412.13757">[pdf]</a>
       <br><i>IEEE/CVF Winter Conference on Applications of Computer Vision (WACV) 2025.</i>
     </li><br> 
     <li value="14">Schmehl, M., Caruso, V.C., Chen, Y., Jun, N.Y., Willett, S.M., Mohl, J.T., Ruff, D.A., Cohen, M., <span style="color:#145094"><b>Ebihara, A.F.</b></span>, Freiwald, W.A., Tokdar, S., and Groh, J.M.
-      <br><b>Multiple objects evoke fluctuating responses in several regions of the visual pathway.</b>
+      <br><b>Multiple objects evoke fluctuating responses in several regions of the visual pathway</b>
       <a href="https://elifesciences.org/articles/91129">[pdf]</a>
       <br><i>eLife 2024.</i>
     </li><br>
     <li value="13">Schmehl, M., Caruso, V.C., Willett, S.M., Chen, Y., Jun, N.Y., Mohl, J.T., Ruff, D.A., Cohen, M., <span style="color:#145094"><b>Ebihara, A.F.</b></span>, Freiwald, W.A., Tokdar, S., and Groh, J.M.
-      <br><b>Fluctuating responses evoked by multiple objects: a general feature of visual representations.</b>
+      <br><b>Fluctuating responses evoked by multiple objects: a general feature of visual representations</b>
       <br><i>Conference on Cognitive Computational Neuroscience (CCN) 2023, Oxford, UK.</i>
       <br><b>*Oral presentation (top 4.5%)</b>
     </li><br>
     <li value="12"><span style="color:#145094"><b>Ebihara, A.F.</b></span>, Miyagawa, T., Sakurai, K., and Imaoka, H.
-      <br><b>Toward Asymptotic Optimality: Sequential Unsupervised Regression of Density Ratio for Early Classification.</b>
+      <br><b>Toward Asymptotic Optimality: Sequential Unsupervised Regression of Density Ratio for Early Classification</b>
       <a href="https://arxiv.org/abs/2302.09810">[pdf]</a>
       <br><i>IEEE International Conference on Acoustics, Speech, and Signal Processing (ICASSP) 2023, Rhodes Island, Greece.</i>
     </li><br>
     <li value="11">Sawada, A., Miyagawa, T., <span style="color:#145094"><b>Ebihara, A.F.</b></span>, Yachida, S., and  Hosoi, T.
-      <br><b>Convolutional Neural Networks for Time-dependent Classification of Variable-length Time Series.</b>
+      <br><b>Convolutional Neural Networks for Time-dependent Classification of Variable-length Time Series</b>
       <a href="https://arxiv.org/abs/2207.03718">[pdf]</a>
       <br><i>IEEE World Congress on Computational Intelligence (WCCI) 2022, IJCNN track, Padua, Italy.</i>
       <br><b>*Oral presentation.</b>
     </li><br>
     <li value="10">Miyamoto, T., Hashimoto, H., Hayasaka, A., <span style="color:#145094"><b>Ebihara, A.F.</b></span>, and Imaoka, H.
-      <br><b>Joint Feature Distribution Alignment Learning for NIR-VIS and VIS-VIS Face Recognition.</b>
+      <br><b>Joint Feature Distribution Alignment Learning for NIR-VIS and VIS-VIS Face Recognition</b>
       <a href="https://arxiv.org/abs/2204.11434">[pdf]</a>
       <br><i>International Joint Conference on Biometrics (IJCB) 2021, Virtual conference.</i>
     </li><br>
     <li value="9">Miyagawa, T., and <span style="color:#145094"><b>Ebihara, A.F.</b></span>
-      <br><b>The Power of Log-Sum-Exp: Sequential Density Ratio Matrix Estimation for Speed-Accuracy Optimization.</b>
+      <br><b>The Power of Log-Sum-Exp: Sequential Density Ratio Matrix Estimation for Speed-Accuracy Optimization</b>
       <a href="https://arxiv.org/abs/2105.13636">[pdf]</a>
       <br><i>International Conference on Machine Learning (ICML) 2021, Virtual conference.</i>
     </li><br>
     <li value="8"><span style="color:#145094"><b>Ebihara, A.F.</b></span>, Sakurai, K., and Imaoka, H.
-      <br><b>Efficient Face Spoofing Detection with Flash.</b>
+      <br><b>Efficient Face Spoofing Detection with Flash</b>
       <a href="https://ieeexplore.ieee.org/abstract/document/9419913">[pdf]</a>
       <br><i>IEEE Transactions on Biometrics, Behavior, and Identity Science (T-BIOM), vol. 3, no. 4, pp. 535-549, Oct. 2021, doi: 10.1109/TBIOM.2021.3076816.</i>
     </li><br>
     <li value="7">Imaoka, H., Hashimoto, H., Takahashi, K., <span style="color:#145094"><b>Ebihara, A.F.</b></span>, Liu, J., Hayasaka, A., Morishita, Y., and Sakurai, K.
-      <br><b>The Future of Biometrics Technology: from Face Recognition to Related Applications.</b>
+      <br><b>The Future of Biometrics Technology: from Face Recognition to Related Applications</b>
       <a href="https://www.cambridge.org/core/journals/apsipa-transactions-on-signal-and-information-processing/article/future-of-biometrics-technology-from-face-recognition-to-related-applications/98B13157669DFC22D36F284228A0CE42">[pdf]</a>
       <br><i>APSIPA Transactions on Signal and Information Processing, 2021, 10, E9. doi:10.1017/ATSIP.2021.8.</i>
     </li><br>
     <li value="6"><span style="color:#145094"><b>Ebihara, A.F.</b></span>, Miyagawa, T., Sakurai, K., and Imaoka, H.
-      <br><b>Sequential Density Ratio Estimation for Simultaneous Optimization of Speed and Accuracy.</b>
+      <br><b>Sequential Density Ratio Estimation for Simultaneous Optimization of Speed and Accuracy</b>
       <a href="https://arxiv.org/abs/2006.05587">[pdf]</a>
       <br><i>International Conference on Learning Representations (ICLR) 2021, Virtual conference.</i>
       <br><b><a href="https://openreview.net/forum?id=Rhsu5qD36cL&referrer=%5BAuthor%20Console%5D(%2Fgroup%3Fid%3DICLR.cc%2F2021%2FConference%2FAuthors%23your-submissions)">*Spotlight presentation (top 5.5%).</a></b>
       <!-- *modified from 5.57%, to be aligned with ICLR statistics https://papercopilot.com/statistics/iclr-statistics/iclr-2021-statistics/ -->
     </li><br>
     <li value="5"><span style="color:#145094"><b>Ebihara, A.F.</b></span>, Sakurai, K., and Imaoka, H.
-      <br><b>Specular- and Diffuse-reflection-based Face Spoofing Detection for Mobile Devices.</b>
+      <br><b>Specular- and Diffuse-reflection-based Face Spoofing Detection for Mobile Devices</b>
       <a href="https://arxiv.org/abs/1907.12400">[pdf]</a>
       <br><i>International Joint Conference on Biometrics (IJCB) 2020, Virtual conference.</i>
       <br><b><a href="https://ieee-biometrics.org/ijcb2020/Program.html#awards">*IJCB 2020 Best Paper</a></b>
     </li><br>
     <li value="4">Caruso, V.C., Mohl, J.T., Glynn, C., Jee, J., Willets, S.M., Azman, A., <span style="color:#145094"><b>Ebihara, A.F.</b></span>, Estrada, R., Freiwald, W.A., Tokdar, S.T., and Groh, J.M.
-      <br><b>Single Neurons May Encode Simultaneous Stimuli by Switching Between Activity Patterns.</b>
+      <br><b>Single Neurons May Encode Simultaneous Stimuli by Switching Between Activity Patterns</b>
       <a href="https://www.nature.com/articles/s41467-018-05121-8">[pdf]</a>
       <br><i>Nature Communications 9, 2715 (2018).</i>
       </li><br>
     <li value="3"><span style="color:#145094"><b>Ebihara, A.F.</b></span>, Hocevar, A., Magnasco M.O., and Freiwald, W.A.
-      <br><b>Multi-object Scene Encoding in Face-selective Cortex.</b>
+      <br><b>Multi-object Scene Encoding in Face-selective Cortex</b>
       <br><i>Manuscript in preparation.</i>
     </li><br>
     <li value="2">Leibo, J.Z., Anselmi, F., Mutch J., <span style="color:#145094"><b>Ebihara, A.F.</b></span>, Freiwald, W.A., and Poggio, T.
-      <br><b>View-invariance and Mirror-symmetric Tuning in a Model of the Macaque Face-processing System. </b>
+      <br><b>View-invariance and Mirror-symmetric Tuning in a Model of the Macaque Face-processing System</b>
       <br><i>Cosyne 2013, Salt Lake City, UT,  USA.</i>
     </li><br>
     <li value="1"><span style="color:#145094"><b>Ebihara, A.F.</b></span> and Freiwald, W.A.
-      <br><b>Representation of Multiple Stimuli in the Macaque Middle Face Patch. </b>
+      <br><b>Representation of Multiple Stimuli in the Macaque Middle Face Patch</b>
       <br><i>Cosyne 2012, Salt Lake City, UT, USA.</i>
     </li><br>
 </ol>
@@ -93,24 +94,24 @@ author_profile: true
 ## Non-peer-reviewed Works
 <ol>
     <li value="16">Schmehl, M., Caruso, V.C., Willett, S.M., Chen, Y., Jun, N.Y., Mohl, J.T., Ruff, D.A., Cohen, M., <span style="color:#145094"><b>Ebihara, A.F.</b></span>, Freiwald, W.A., Tokdar, S., and Groh, J.M.
-      <br><b>Fluctuating responses evoked by multiple objects: a general phenomenon.</b>
+      <br><b>Fluctuating responses evoked by multiple objects: a general phenomenon</b>
       <br><i>Simian Collective 2023, Chicago.</i>
       </li><br>
     <li value="15">Miyamoto, T., Hashimoto, H., Hayasaka, A., <span style="color:#145094"><b>Ebihara, A.F.</b></span>, and Imaoka, H.
-      <br><b>Joint Feature Distribution Alignment Learning for NIR-VIS and VIS-VIS Face Recognition.</b>
+      <br><b>Joint Feature Distribution Alignment Learning for NIR-VIS and VIS-VIS Face Recognition</b>
       <br><i>The 11th Symposium on Biometrics, Recognition and Authentication (IEICE SBRA2021), Virtual Conference.</i>
     </li><br>
     <li value="14">Kawai, H., Watanabe, D., Ito, K., Aoki, T., <span style="color:#145094"><b>Ebihara, A.F.</b></span>, Sakurai, K., and Imaoka, H.
-      <br><b>Spoofing Detection for the Face Authentication Using Deep Learning.</b>
+      <br><b>Spoofing Detection for the Face Authentication Using Deep Learning</b>
       <br><i>2019 Symposium on Cryptography and Information Security. (IEICE SCIS) Otsu city, Shiga, Japan.</i>
     </li><br>
     <li value="13"><span style="color:#145094"><b>Ebihara, A.F.</b></span>, Sakurai, K., and Imaoka, H.
-      <br><b>Flash Reflection-based Face Liveness Detection for Mobile Devices.</b>
+      <br><b>Flash Reflection-based Face Liveness Detection for Mobile Devices</b>
       <br><i>The 8th Symposium on Biometrics, Recognition and Authentication (IEICE SBRA2018), Iidabashi, Tokyo, Japan.</i>
       <br><b><a href="https://www.ieice.org/~biox/sbra2018/?cmd=program">*Bio-X incentive award</a></b>
     </li><br>
     <li value="12"><span style="color:#145094"><b>Ebihara, A.F.</b></span>, Sakurai, K., and Imaoka, H.
-      <br><b>Spoofing Detection with a Monocular Camera using Flash Reflection.</b>
+      <br><b>Spoofing Detection with a Monocular Camera using Flash Reflection</b>
       <br><i>IEICE Bio-X Study Group 2018. Kanazawa city, Ishikawa, Japan.</i>
     </li><br>
     <li value="11">Caruso, V.C., <span style="color:#145094"><b>Ebihara, A.F.</b></span>, Tokdar, S., Freiwald, W.A., and Groh, J.M.
@@ -118,43 +119,43 @@ author_profile: true
       <br><i>Conference on Cognitive Computational Neuroscience (CCN)	2017. Columbia University, NY.</i>
     </li><br>
     <li value="10">Caruso, V.C., <span style="color:#145094"><b>Ebihara, A.F.</b></span>, Milewski A., Tokdar, S., Freiwald W.A., and Groh J.M.
-      <br><b>Is Multiplexing a General Strategy for Encoding Multiple Items in the Brain? Evidence From a Visual Cortical Face Area and a Subcortical Auditory Area.</b>
+      <br><b>Is Multiplexing a General Strategy for Encoding Multiple Items in the Brain? Evidence From a Visual Cortical Face Area and a Subcortical Auditory Area</b>
       <br><i>Society for Neuroscience annual meeting 2015, Poster session on Oscillations and synchrony: Unit studies. Chicago, IL.</i>
       </li><br>
     <li value="9"><span style="color:#145094"><b>Ebihara, A.F.</b></span>
-      <br><b>A Circuit Mechanism for Explicit Multi-stimulus Coding.</b>
+      <br><b>A Circuit Mechanism for Explicit Multi-stimulus Coding</b>
       <br><i>JMSA New York Life Science Forum 2015, New York, NY.</i>
     </li><br>
     <li value="8"><span style="color:#145094"><b>Ebihara, A.F.</b></span>, Hocevar, A., Magnasco M.O., and Freiwald, W.A.
-      <br><b>Representation of Multiple Stimuli by Face Selective Neurons in the Macaque Temporal Lobe.</b>
+      <br><b>Representation of Multiple Stimuli by Face Selective Neurons in the Macaque Temporal Lobe</b>
       <br><i>JMSA New York Life Science Forum 2015, New York, NY.</i>
     </li><br>
     <li value="7"><span style="color:#145094"><b>Ebihara, A.F.</b></span>, Hocevar, A., Magnasco M.O., and Freiwald, W.A.
-      <br><b>Representations of Multiple Stimuli by Face-selective Neurons in the Macaque Temporal Lobe.</b>
+      <br><b>Representations of Multiple Stimuli by Face-selective Neurons in the Macaque Temporal Lobe</b>
       <br><i>Society for Neuroscience annual meeting 2014, Poster session on Neural Processing of Faces and Bodies, Washington, DC.</i>
     </li><br>
     <li value="6"><span style="color:#145094"><b>Ebihara, A.F.</b></span>, Hocevar, A., Magnasco M.O., and Freiwald, W.A.
-      <br><b>Representations of Multiple Stimuli in the Macaque Temporal Lobe.</b>
+      <br><b>Representations of Multiple Stimuli in the Macaque Temporal Lobe</b>
       <br><i>Cold Spring Harbor Symposium on Quantitative Biology 2014: Cognition, Cold Spring Harbor, NY.</i>
     </li><br>
     <li value="5"><span style="color:#145094"><b>Ebihara, A.F.</b></span>, Leibo, J.Z., Poggio, T., and Freiwald, W.A.
-      <br><b>Max-pooling and Clutter Tolerance in the Macaque Face Processing System.</b>
+      <br><b>Max-pooling and Clutter Tolerance in the Macaque Face Processing System</b>
       <br><i>NSF-STC site visit at McGovern Institute for Brain Research (MIT), 2012, Cambridge, MA.</i>
     </li><br>
     <li value="4"><span style="color:#145094"><b>Ebihara, A.F.</b></span> and Freiwald, W.A.
-      <br><b>Representations of Multiple Stimuli in the Macaque Face Patches.</b>
+      <br><b>Representations of Multiple Stimuli in the Macaque Face Patches</b>
       <br><i>Society for Neuroscience annual meeting 2012, Poster session on Neural Processing of Faces and Bodies, Session 263.10/Y19, New Orleans, LA.</i>
     </li><br>
     <li value="3"><span style="color:#145094"><b>Ebihara, A.F.</b></span>, Tsao, D.Y., and Freiwald, W.A.
-      <br><b>Representation of Multiple Stimuli by Face-selective Neurons in the Macaque Temporal Lobe.</b>
+      <br><b>Representation of Multiple Stimuli by Face-selective Neurons in the Macaque Temporal Lobe</b>
       <br><i>Society for Neuroscience annual meeting 2011, Poster session on Face Processing in Extrastriate Cortex,Session 487.06/OO36, Washington, DC.</i>
       </li><br>
     <li value="2"><span style="color:#145094"><b>Ebihara, A.F.</b></span>, Tsao, D.Y., and Freiwald, W.A.
-      <br><b>Representations of Multiple Objects in the Macaque Face Processing System.</b>
+      <br><b>Representations of Multiple Objects in the Macaque Face Processing System</b>
       <br><i>Society for Neuroscience annual meeting 2010, Nanosymposium on Encoding of Visually Presented Faces II, Session 834.4, San Diego, CA.</i>
     </li><br>
     <li value="1">Nishizumi, H., Nakayama, H, <span style="color:#145094"><b>Ebihara, A.F.</b></span>, and Sakano, H.
-      <br><b>Odorant Receptor Gene Choice in the Mouse Olfactory System.</b>
+      <br><b>Odorant Receptor Gene Choice in the Mouse Olfactory System</b>
       <br><i>The 31st Annual Meeting of the Japan Neuroscience Society, 2008, Oral session O1-H04, Tokyo, Japan.</i>
     </li><br>
 </ol>

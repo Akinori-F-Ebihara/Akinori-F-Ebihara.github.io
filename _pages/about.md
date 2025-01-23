@@ -37,6 +37,9 @@ For those interested, we invite you to explore our [introductory article on GitH
 <br>
 
 # News
+__[Jan. 23rd, 2025]__　　
+- Our paper, "Learning the Optimal Stopping for Early Classification within Finite Horizons via Sequential Probability Ratio Test" was accepted to ICLR 2025.　　
+
 __[Apr. 1st, 2024]__　　
 - Akinori F. Ebihara has been promoted to Principal Researcher.
 

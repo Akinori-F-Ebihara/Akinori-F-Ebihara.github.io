@@ -15,7 +15,7 @@ Jul. 19th, 2024&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp
 NEC's internal award for registering 10 patents during the 2023 fiscal year.<br>
 </p>
 <p style="font-size:20px">
-2022&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>NEC Innovators 100</b><br>
+2022&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b><a href="https://jpn.nec.com/dx/special/innovators100/">NEC Innovators 100</a></b><br>
 </p>
 <p style='margin-left:155.0pt;margin-top:-18px'>
 Recognized as one of the top innovators among researchers in NEC Central Research Laboratories.<br>

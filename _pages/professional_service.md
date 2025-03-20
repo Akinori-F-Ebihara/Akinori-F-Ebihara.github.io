@@ -6,8 +6,11 @@ author_profile: true
 ---
 
 ## Reviewer
-- **NeurIPS** (<a href="https://neurips.cc/Conferences/2024/ProgramCommittee">2024 Top Reviewer: Top 7.7%, 1304/16941</a>), **ICLR**, **ICML**, and others
-<!-- Served as a peer reviewer for top-tier machine learning conferences, including NeurIPS, ICLR, and AISTATS. -->
+- **NeurIPS** (<a href="https://neurips.cc/Conferences/2024/ProgramCommittee">2024 Top Reviewer: Top 7.7%, 1304/16941</a>), **ICLR**, **ICML**, **TMLR**, and others
+
+<!-- NeurIPS: 2024, 2025
+ICLR: 2025
+ICML: 2025 -->
 
 ## Organizing Committee Member
 - TBA

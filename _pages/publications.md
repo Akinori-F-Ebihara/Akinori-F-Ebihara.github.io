@@ -312,7 +312,8 @@ Faculty advisory committee: Dr. Cornelia I. Bargmann and Dr. Charles D. Gilbert<
 
 ## Media
 Nov 11th, 2021. <b>LabBase.jp</b>
-<a href="https://compass.labbase.jp/articles/799">異分野キャリアって有り？　研究力重視のNEC（日本電気株式会社）で、神経科学者が「顔認証」で活躍する理由</a>
+異分野キャリアって有り？　研究力重視のNEC（日本電気株式会社）で、神経科学者が「顔認証」で活躍する理由
+<!-- <a href="https://compass.labbase.jp/articles/799">異分野キャリアって有り？　研究力重視のNEC（日本電気株式会社）で、神経科学者が「顔認証」で活躍する理由</a> -->
 
 May 14th, 2021. <b>Nikkei xTech（日経クロステック追加取材）</b>
 <a href="https://xtech.nikkei.com/atcl/nxt/column/18/00001/05582/">「ひらめき」と「慎重さ」が同居するNECの新AI、分析速度最大20倍の裏側</a>

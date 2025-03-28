@@ -5,7 +5,7 @@ permalink: /publications/
 author_profile: true
 ---
 
-## Peer-reviewed Journals / Conferences
+## Selected Peer-reviewed Works
 <ol>
     <!-- <li value="16">Watanabe, K., Miyagawa, T., <span style="color:#145094"><b>Ebihara, A.F.</b></span>, Saiko, M., Bhandari, P., Htet, H., Imaoka, H., and Iwadate, Y.<br><i>in preparation.</i></li><br>
     <li value="15">Ka Pik, L., <span style="color:#145094"><b>Ebihara, A.F.</b></span>, Miyagawa, T., Sakurai, K., and Imaoka, H.<br><i>in preparation.</i></li><br> -->
@@ -13,10 +13,6 @@ author_profile: true
       <b>Patch-based Morphing Attack Detection Using Sequential Probability Ratio Test.</b>
       <br><i>International Conference of the Biometrics Special Interest Group (BIOSIG) 2022, Darmstadt, Germany.</i>
     </li><br>     -->
-    <li value="17">Miyagawa, T., and <span style="color:#145094"><b>Ebihara, A.F.</b></span>
-      <br><b>統計的早期時系列分類のレビュー：理論的に最適な早押し分類器の実用化 [Review: Statistical Early Classification of Time Series]</b> 
-      <br><i>Symposium on Sensing via Image Information (SSII), Tokyo, Japan, May 2025. (in Japanese).</i>
-    </li><br>
     <li value="16"><span style="color:#145094"><b>Ebihara, A.F.</b></span>, Miyagawa, T., Sakurai, K., and Imaoka, H.
       <br><b>Learning the Optimal Stopping for Early Classification within Finite Horizons via Sequential Probability Ratio Test</b> <a href="https://www.arxiv.org/abs/2501.18059">[pdf]</a> <a href="https://openreview.net/forum?id=SRghq20nGU&referrer=%5BAuthor%20Console%5D(%2Fgroup%3Fid%3DICLR.cc%2F2025%2FConference%2FAuthors%23your-submissions)">[Openreview]</a>
       <!-- <a href="https://arxiv.org/abs/2006.05587">[pdf]</a> -->
@@ -97,6 +93,14 @@ author_profile: true
     <li value="1"><span style="color:#145094"><b>Ebihara, A.F.</b></span> and Freiwald, W.A.
       <br><b>Representation of Multiple Stimuli in the Macaque Middle Face Patch</b>
       <br><i>Cosyne 2012, Salt Lake City, UT, USA.</i>
+    </li><br>
+</ol>
+
+## Domestic Peer-reviewed Works
+<ol>
+    <li value="1">Miyagawa, T., and <span style="color:#145094"><b>Ebihara, A.F.</b></span>
+      <br><b>統計的早期時系列分類のレビュー：理論的に最適な早押し分類器の実用化 [Review: Statistical Early Classification of Time Series]</b> 
+      <br><i>Symposium on Sensing via Image Information (SSII), Tokyo, Japan, May 2025. (in Japanese).</i>
     </li><br>
 </ol>
 

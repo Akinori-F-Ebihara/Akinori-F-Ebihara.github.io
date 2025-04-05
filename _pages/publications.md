@@ -13,7 +13,7 @@ author_profile: true
       <b>Patch-based Morphing Attack Detection Using Sequential Probability Ratio Test.</b>
       <br><i>International Conference of the Biometrics Special Interest Group (BIOSIG) 2022, Darmstadt, Germany.</i>
     </li><br>     -->
-    <li value="17">Takuma Amada, Kazuya Kakizaki, Miyagawa, T., <span style="color:#145094"><b>Ebihara, A.F.</b></span>, et al. (TBA)
+    <li value="17">Amada, T., Kakizaki, K.,  Miyagawa, T., <span style="color:#145094"><b>Ebihara, A.F.</b></span>, et al. (TBA)
       <br><b>Robust Deepfake Detection for Electronic Know Your Customer Systems Using Registered Images</b>
       <br><i>19th IEEE International Conference on Automatic Face and Gesture Recognition (FG) 2025, Tampa, Florida, USA.</i>
     </li><br>

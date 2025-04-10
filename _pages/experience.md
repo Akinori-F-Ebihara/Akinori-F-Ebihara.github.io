@@ -5,18 +5,18 @@ permalink: /experience/
 author_profile: true
 ---
 
-# Research  
+## Research  
 <p style="font-size:18px">2024~present&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <b>Biometrics Research Laboratories, NEC Corporation</b></p>
 <p style='margin-left:120.0pt;margin-top:-18px;'>
 <i><b>Principal Researcher</b> at the Research Group for Biometirc Recognition Systems</i>
-
+</p>
 <p style="font-size:18px">2021~2023&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <b>Biometrics Research Laboratories, NEC Corporation</b></p>
 <p style='margin-left:120.0pt;margin-top:-18px;'>
 <i><b>"Special Researcher"*</b> at the Face Recognition Research Group</i><br>
 *A few distinguished researchers that are selected to enter a performance-based reward system instead of the traditional seniority wage system.<br>
-
+</p>
 <p style="font-size:18px">2018~2021&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <b>Biometrics Research Laboratories, NEC Corporation</b></p>
 <p style='margin-left:120.0pt;margin-top:-18px;'>
@@ -77,7 +77,7 @@ Advisor: Dr. Hitoshi Imaoka and Mr. Kazuyuki Sakurai<br>
 - Developed programs for shotgun sequencing (Java), extracting information from databases (Perl regular expression) and MAP kinase cascade simulation (GENESIS/kinetikit)  
 </p>
 
-# Education  
+## Education  
 <p style="font-size:22px">2008-2015&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <b>The Rockefeller University, New York, NY</b></p>
 <p style='margin-left:145.0pt;margin-top:-15px'>
@@ -96,9 +96,10 @@ B.A. mentor: Dr. Hirofumi Nishizumi<br>
 <i>Thesis: Expression mechanism of mouse odorant receptor gene</i><br>
 GPA: 3.88/4.00<br>
 - Attended the <b>Undergraduate Program for Bioinformatics and Systems Biology</b> (2006).
+</p><br>
 
-# Service
-## Reviewer
+## Service
+### Reviewer
 **NeurIPS**, **ICLR**, **ICML**, **TMLR**, and others
 <!-- NeurIPS: 2024, ICLR: 2024, ICML: 2025, TMLR: 2025-  -->
 

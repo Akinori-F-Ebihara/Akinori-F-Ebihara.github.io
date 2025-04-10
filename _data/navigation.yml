@@ -3,14 +3,14 @@ main:
   - title: "Publications"
     url: /publications/
     
-  - title: "Research Experience"
-    url: /research/
+  - title: "Experience"
+    url: /experience/
 
-  - title: "Education"
-    url: /education/
+  # - title: "Education"
+  #   url: /education/
 
-  - title: "Professional Service"
-    url: /proservice/
+  # - title: "Professional Service"
+  #   url: /proservice/
 
   - title: "Honors and Awards"
     url: /awards/

@@ -1,9 +1,11 @@
 ---
 layout: archive
-title: "Research Experience"
-permalink: /research/
+title: "Experience"
+permalink: /experience/
 author_profile: true
 ---
+
+# Research  
 <p style="font-size:18px">2024~present&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <b>Biometrics Research Laboratories, NEC Corporation</b></p>
 <p style='margin-left:120.0pt;margin-top:-18px;'>
@@ -75,6 +77,32 @@ Advisor: Dr. Hitoshi Imaoka and Mr. Kazuyuki Sakurai<br>
 - Developed programs for shotgun sequencing (Java), extracting information from databases (Perl regular expression) and MAP kinase cascade simulation (GENESIS/kinetikit)  
 </p>
 
+# Education  
+<p style="font-size:22px">2008-2015&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<b>The Rockefeller University, New York, NY</b></p>
+<p style='margin-left:145.0pt;margin-top:-15px'>
+<b>Doctor of Philosophy in Biological Sciences</b><br>
+Ph.D. advisor: Dr. Winrich A. Freiwald, Laboratory of Neural Systems<br>
+Ph.D. co-advisor: Dr. Marcelo Magnasco, Laboratory of Mathematical Physics<br>
+Faculty advisory committee: Dr. Cornelia I. Bargmann and Dr. Charles D. Gilbert<br>
+<i>Thesis: Normalization among heterogeneous population confers stimulus discriminability on the macaque face patch neurons</i>
+</p><br>
+<p style="font-size:22px">2004-2008&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<b>The University of Tokyo, Japan</b></p>
+<p style='margin-left:145.0pt;margin-top:-15px'>
+<b>Bachelor of Science in Biophysics and Biochemistry, March 2008</b><br>
+B.A. advisor: Dr. Hitoshi Sakano<br>
+B.A. mentor: Dr. Hirofumi Nishizumi<br>
+<i>Thesis: Expression mechanism of mouse odorant receptor gene</i><br>
+GPA: 3.88/4.00<br>
+- Attended the <b>Undergraduate Program for Bioinformatics and Systems Biology</b> (2006).
+
+# Service
+## Reviewer
+**NeurIPS**, **ICLR**, **ICML**, **TMLR**, and others
+<!-- NeurIPS: 2024, ICLR: 2024, ICML: 2025, TMLR: 2025-  -->
+
+<!-- <br>
 <br>
 <br>
 <br>
@@ -84,8 +112,7 @@ Advisor: Dr. Hitoshi Imaoka and Mr. Kazuyuki Sakurai<br>
 <br>
 <br>
 <br>
-<br>
-<br>
+<br> -->
 
 <!-- 
 ## [2018~present] Biometrics Research Laboratories, NEC, Kanagawa, Japan  

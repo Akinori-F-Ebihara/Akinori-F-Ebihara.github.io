@@ -366,7 +366,7 @@ Feb. 17th, 2017.　<b>President Online</b>
 
 
 ## Books
-<a href="https://www.amazon.co.jp/%E9%A1%94%E8%AA%8D%E8%A8%BC%E3%81%AE%E6%95%99%E7%A7%91%E6%9B%B8-%E6%98%8E%E6%97%A5%E3%81%AE%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E3%82%92%E5%89%B5%E3%82%8B%E6%9C%80%E5%85%88%E7%AB%AFAI%E3%81%AE%E4%B8%96%E7%95%8C-%E4%BB%8A%E5%B2%A1-%E4%BB%81/dp/483342438X/ref=sr_1_1?__mk_ja_JP=%E3%82%AB%E3%82%BF%E3%82%AB%E3%83%8A&keywords=%E9%A1%94%E8%AA%8D%E8%A8%BC%E3%81%AE%E6%95%99%E7%A7%91%E6%9B%B8&qid=1639299963&sr=8-1">顔認証の教科書 明日のビジネスを創る最先端AIの世界</a> (The Handbook of Facial Recognition: Exploring Cutting-Edge AI Shaping Future Business)
+<a href="https://www.amazon.co.jp/%E9%A1%94%E8%AA%8D%E8%A8%BC%E3%81%AE%E6%95%99%E7%A7%91%E6%9B%B8-%E6%98%8E%E6%97%A5%E3%81%AE%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E3%82%92%E5%89%B5%E3%82%8B%E6%9C%80%E5%85%88%E7%AB%AFAI%E3%81%AE%E4%B8%96%E7%95%8C-%E4%BB%8A%E5%B2%A1-%E4%BB%81/dp/483342438X/ref=sr_1_1?__mk_ja_JP=%E3%82%AB%E3%82%BF%E3%82%AB%E3%83%8A&keywords=%E9%A1%94%E8%AA%8D%E8%A8%BC%E3%81%AE%E6%95%99%E7%A7%91%E6%9B%B8&qid=1639299963&sr=8-1">**顔認証の教科書 明日のビジネスを創る最先端AIの世界**</a> (The Handbook of Facial Recognition: Exploring Cutting-Edge AI Shaping Future Business)
 by Hitoshi Imaoka  
 * Supervised the latter half of Chapter 1-4: 顔認証システムとは何か？ (What is a Facial Recognition System?) and Column ②: 脳神経科学との融合で顔認証を高速化する画期的AIの開発 (A Revolutionary Neuroscience-inspired AI Accelerating Facial Recognition.
 <br>

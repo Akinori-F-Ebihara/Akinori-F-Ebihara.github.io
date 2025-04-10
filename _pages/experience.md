@@ -99,8 +99,7 @@ GPA: 3.88/4.00<br>
 </p><br>
 
 ## Service
-### Reviewer
-**NeurIPS**, **ICLR**, **ICML**, **TMLR**, and others
+**Reviewer**: NeurIPS, ICLR, ICML, TMLR, and others
 <!-- NeurIPS: 2024, ICLR: 2024, ICML: 2025, TMLR: 2025-  -->
 
 <!-- <br>

@@ -13,6 +13,10 @@ author_profile: true
       <b>Patch-based Morphing Attack Detection Using Sequential Probability Ratio Test.</b>
       <br><i>International Conference of the Biometrics Special Interest Group (BIOSIG) 2022, Darmstadt, Germany.</i>
     </li><br>     -->
+    <li value="18">Kihara, K., Mori J.,  Miyagawa, T., and <span style="color:#145094"><b>Ebihara, A.F.</b></span>
+      <br><b>Rethinking the Backbone in Class Imbalanced Federated Source Free Domain Adaptation: The Utility of Vision Foundation Models</b>
+      <br><i>IEEE International Conference on Image Processing (ICIP) 2025 Workshop 1: Edge Intelligence: Smart, Efficient, and Scalable Solutions for IoT, Wearables, and Embedded Devices (SEEDS), Anchorage, Alaska, USA.</i>
+    </li><br>
     <li value="17">Amada, T., Kakizaki, K.,  Miyagawa, T., <span style="color:#145094"><b>Ebihara, A.F.</b></span>, Shiohara, K., and Yamasaki, T.
       <br><b>Robust Deepfake Detection for Electronic Know Your Customer Systems Using Registered Images</b>
       <br><i>19th IEEE International Conference on Automatic Face and Gesture Recognition (FG) 2025, Tampa, Florida, USA.</i>
@@ -25,7 +29,7 @@ author_profile: true
     <li value="15">Mori, J., Kihara, K., Miyagawa, T., <span style="color:#145094"><b>Ebihara, A.F.</b></span>, Teranishi, I, and Kashima, H.
       <br><b>Federated Source-free Domain Adaptation for Classification: Weighted Cluster Aggregation for Unlabaled Data</b>
       <a href="https://arxiv.org/abs/2412.13757">[pdf]</a>
-      <br><i>IEEE/CVF Winter Conference on Applications of Computer Vision (WACV) 2025.</i>
+      <br><i>IEEE/CVF Winter Conference on Applications of Computer Vision (WACV) 2025, Tucson, Arizona, USA.</i>
     </li><br> 
     <li value="14">Schmehl, M., Caruso, V.C., Chen, Y., Jun, N.Y., Willett, S.M., Mohl, J.T., Ruff, D.A., Cohen, M., <span style="color:#145094"><b>Ebihara, A.F.</b></span>, Freiwald, W.A., Tokdar, S., and Groh, J.M.
       <br><b>Multiple objects evoke fluctuating responses in several regions of the visual pathway</b>
@@ -110,10 +114,18 @@ author_profile: true
 
 ## Non-peer-reviewed Works
 <ol>
+    <li value="18">Fukui, H., Miyagawa, T., and <span style="color:#145094"><b>Ebihara, A.F.</b></span>
+      <br><b>追跡のためのCross-attentionモジュールを用いたクエリ伝搬アルゴリズムの軽量化 [Lightweight Query Propagation Algorithm Using a Cross‑Attention Module for Multi-Object Tracking]</b>
+      <br><i>The 28th Meeting on Image Recognition and Understanding (MIRU) 2025, Kyoto, Japan. (in Japanese)</i>
+    </li><br>
+    <li value="17">Miyagawa, T., and <span style="color:#145094"><b>Ebihara, A.F.</b></span>
+      <br><b>統計的早期時系列分類のレビュー：損失関数の性質 [Review: Loss Function for Statistical Early Classification of Time Series]</b>
+      <br><i>The 28th Meeting on Image Recognition and Understanding (MIRU) 2025, Kyoto, Japan. (in Japanese)</i>
+    </li><br>
     <li value="16">Schmehl, M., Caruso, V.C., Willett, S.M., Chen, Y., Jun, N.Y., Mohl, J.T., Ruff, D.A., Cohen, M., <span style="color:#145094"><b>Ebihara, A.F.</b></span>, Freiwald, W.A., Tokdar, S., and Groh, J.M.
       <br><b>Fluctuating responses evoked by multiple objects: a general phenomenon</b>
       <br><i>Simian Collective 2023, Chicago.</i>
-      </li><br>
+    </li><br>
     <li value="15">Miyamoto, T., Hashimoto, H., Hayasaka, A., <span style="color:#145094"><b>Ebihara, A.F.</b></span>, and Imaoka, H.
       <br><b>Joint Feature Distribution Alignment Learning for NIR-VIS and VIS-VIS Face Recognition</b>
       <br><i>The 11th Symposium on Biometrics, Recognition and Authentication (IEICE SBRA2021), Virtual Conference.</i>

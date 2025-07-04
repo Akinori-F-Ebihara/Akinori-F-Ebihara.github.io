@@ -114,6 +114,10 @@ author_profile: true
 
 ## Non-peer-reviewed Works
 <ol>
+    <li value="19">Narahara, A., Miyagawa, T., and <span style="color:#145094"><b>Ebihara, A.F.</b></span>
+      <br><b>早期時系列分類のためのH一致性をもつ損失関数 [An H‑Consistent Loss Function for Early Classification of Time Series]</b>
+      <br><i>The 28th Meeting on Image Recognition and Understanding (MIRU) 2025, Kyoto, Japan. (in Japanese)</i>
+    </li><br>
     <li value="18">Fukui, H., Miyagawa, T., and <span style="color:#145094"><b>Ebihara, A.F.</b></span>
       <br><b>追跡のためのCross-attentionモジュールを用いたクエリ伝搬アルゴリズムの軽量化 [Lightweight Query Propagation Algorithm Using a Cross‑Attention Module for Multi-Object Tracking]</b>
       <br><i>The 28th Meeting on Image Recognition and Understanding (MIRU) 2025, Kyoto, Japan. (in Japanese)</i>

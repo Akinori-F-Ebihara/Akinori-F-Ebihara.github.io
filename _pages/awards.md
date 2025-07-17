@@ -5,6 +5,13 @@ permalink: /awards/
 author_profile: true
 ---
 <p style="font-size:20px">
+Jul. 17th, 2025&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>NEC GIBU Award for Multiple Patent Registrations</b>
+<!-- 2025年度　グローバルイノベーションビジネスユニット　多数件登録表彰 -->
+</p>
+<p style='margin-left:155.0pt;margin-top:-18px'>
+NEC's internal award for registering 20 patents during the 2024 fiscal year.<br>
+</p>
+<p style="font-size:20px">
 Nov. 2024 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>NeurIPS 2024 <a href="https://neurips.cc/Conferences/2024/ProgramCommittee">Top Reviewer (Top 7.7%, 1304/16941)</a></b>
 </p>
 <p style="font-size:20px">

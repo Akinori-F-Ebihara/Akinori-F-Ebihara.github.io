@@ -7,18 +7,12 @@ author_profile: true
 
 ## Selected Peer-reviewed Works
 <ol>
-    <!-- <li value="16">Watanabe, K., Miyagawa, T., <span style="color:#145094"><b>Ebihara, A.F.</b></span>, Saiko, M., Bhandari, P., Htet, H., Imaoka, H., and Iwadate, Y.<br><i>in preparation.</i></li><br>
-    <li value="15">Ka Pik, L., <span style="color:#145094"><b>Ebihara, A.F.</b></span>, Miyagawa, T., Sakurai, K., and Imaoka, H.<br><i>in preparation.</i></li><br> -->
-    <!-- <li value="12">Ka Pik, L., <span style="color:#145094"><b>Ebihara, A.F.</b></span>, Miyagawa, T., Sakurai, K., and Imaoka, H.<br>
-      <b>Patch-based Morphing Attack Detection Using Sequential Probability Ratio Test.</b>
-      <br><i>International Conference of the Biometrics Special Interest Group (BIOSIG) 2022, Darmstadt, Germany.</i>
-    </li><br>     -->
     <li value="18">Kihara, K., Mori J.,  Miyagawa, T., and <span style="color:#145094"><b>Ebihara, A.F.</b></span>
       <br><b>Rethinking the Backbone in Class Imbalanced Federated Source Free Domain Adaptation: The Utility of Vision Foundation Models</b>
       <br><i>IEEE International Conference on Image Processing (ICIP) 2025 Workshop 1: Edge Intelligence: Smart, Efficient, and Scalable Solutions for IoT, Wearables, and Embedded Devices (SEEDS), Anchorage, Alaska, USA.</i>
     </li><br>
     <li value="17">Amada, T., Kakizaki, K.,  Miyagawa, T., <span style="color:#145094"><b>Ebihara, A.F.</b></span>, Shiohara, K., and Yamasaki, T.
-      <br><b>Robust Deepfake Detection for Electronic Know Your Customer Systems Using Registered Images</b>
+      <br><b>Robust Deepfake Detection for Electronic Know Your Customer Systems Using Registered Images</b> <a href="https://www.arxiv.org/abs/2507.22601">[pdf]</a>
       <br><i>19th IEEE International Conference on Automatic Face and Gesture Recognition (FG) 2025, Tampa, Florida, USA.</i>
     </li><br>
     <li value="16"><span style="color:#145094"><b>Ebihara, A.F.</b></span>, Miyagawa, T., Sakurai, K., and Imaoka, H.

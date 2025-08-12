@@ -4,9 +4,21 @@ title: "Experience"
 permalink: /experience/
 author_profile: true
 ---
+<a id="top"></a>  
+
+## Index  
+- [Research](#research)
+- [Education](#education)
+- [Service](#service)
+
 
 ## Research  
-<p style="font-size:18px">2024~present&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<p style="font-size:18px">2025~present&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<b>Biometrics Research Laboratories, NEC Corporation</b></p>
+<p style='margin-left:120.0pt;margin-top:-18px;'>
+<i><b>Principal Researcher</b> at the Research Group for Face Recognition</i>
+</p>
+<p style="font-size:18px">2024~2025&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <b>Biometrics Research Laboratories, NEC Corporation</b></p>
 <p style='margin-left:120.0pt;margin-top:-18px;'>
 <i><b>Principal Researcher</b> at the Research Group for Biometirc Recognition Systems</i>
@@ -75,7 +87,8 @@ Advisor: Dr. Hitoshi Imaoka and Mr. Kazuyuki Sakurai<br>
 <p style='margin-left:120.0pt;margin-top:-18px;'>
 <i>Undergraduate, Department of Biophysics and Biochemistry, School of Science</i><br>
 - Developed programs for shotgun sequencing (Java), extracting information from databases (Perl regular expression) and MAP kinase cascade simulation (GENESIS/kinetikit)  
-</p>
+</p>  
+[↑ back to top](#top)  
 
 ## Education  
 <p style="font-size:22px">2008-2015&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
@@ -97,9 +110,11 @@ B.A. mentor: Dr. Hirofumi Nishizumi<br>
 GPA: 3.88/4.00<br>
 - Attended the <b>Undergraduate Program for Bioinformatics and Systems Biology</b> (2006).
 </p><br>
+[↑ back to top](#top)
 
 ## Service
-**Reviewer**: NeurIPS, ICLR, ICML, BMVC, TMLR, and others. Reviewer awards are detailed under 'Honors and Awards.'
+**Reviewer**: NeurIPS, ICLR, ICML, AAAI, BMVC, TMLR, and others. Reviewer awards are detailed under 'Honors and Awards.'  
+[↑ back to top](#top)  
 <!-- NeurIPS: 2024, ICLR: 2025, ICML: 2025, BMVC: 2025, TMLR: 2025-  -->
 
 <!-- <br>

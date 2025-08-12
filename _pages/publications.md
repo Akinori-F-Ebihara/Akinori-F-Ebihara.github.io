@@ -4,6 +4,17 @@ title: "Publications and Other Works"
 permalink: /publications/
 author_profile: true
 ---
+<a id="top"></a>  
+
+## Index  
+- [Selected Peer-reviewed Works](#selected-peer-reviewed-works)
+- [Domestic Peer-reviewed Works](#domestic-peer-reviewed-works)
+- [Non-peer-reviewed Works](#non-peer-reviewed-works)
+- [Ph.D. Thesis](#phd-thesis)
+- [Invited Talks](#invited-talks)
+- [Patents](#patents)
+- [Media](#media)
+- [Books](#books)
 
 ## Selected Peer-reviewed Works
 <ol>
@@ -96,7 +107,9 @@ author_profile: true
       <br><b>Representation of Multiple Stimuli in the Macaque Middle Face Patch</b>
       <br><i>Cosyne 2012, Salt Lake City, UT, USA.</i>
     </li><br>
-</ol>
+</ol>  
+
+[↑ back to top](#top)  
 
 ## Domestic Peer-reviewed Works
 <ol>
@@ -104,7 +117,9 @@ author_profile: true
       <br><b>統計的早期時系列分類のレビュー：理論的に最適な早押し分類器の実用化 [Review: Statistical Early Classification of Time Series]</b> 
       <br><i>Symposium on Sensing via Image Information (SSII), Tokyo, Japan, May 2025. (in Japanese).</i>
     </li><br>
-</ol>
+</ol>  
+
+[↑ back to top](#top)  
 
 ## Non-peer-reviewed Works
 <ol>
@@ -185,7 +200,9 @@ author_profile: true
       <br><b>Odorant Receptor Gene Choice in the Mouse Olfactory System</b>
       <br><i>The 31st Annual Meeting of the Japan Neuroscience Society, 2008, Oral session O1-H04, Tokyo, Japan.</i>
     </li><br>
-</ol>
+</ol>  
+
+[↑ back to top](#top)  
 
 ## Ph.D. Thesis
 <p style='margin-left:30.0pt'>
@@ -197,14 +214,18 @@ author_profile: true
 Ph.D. advisor: Dr. Winrich A. Freiwald<br>
 Ph.D. co-advisor: Dr. Marcelo Magnasco<br>
 Faculty advisory committee: Dr. Cornelia I. Bargmann and Dr. Charles D. Gilbert<br>
-<br></p>
+<br></p>  
+
+[↑ back to top](#top)  
 
 ## Invited talks
 <ol>
     <span style="color:#145094"><b>Ebihara, A.F.</b></span>
     <br><b>SPRT-TANDEM: Sequential Density Ratio Estimation for Early Classification.</b>
     <br><i>Symposium on Biometrics, Recognition and Authentication (SBRA) 2023, Seikei University, Tokyo, Japan.</i>
-</ol>
+</ol>  
+
+[↑ back to top](#top)  
 
 ## Patents
 <ol>
@@ -329,7 +350,9 @@ Faculty advisory committee: Dr. Cornelia I. Bargmann and Dr. Charles D. Gilbert<
       <br>WO2019078310A1, JP7047848B2, EP3699865A4, US20200257888A1
       <!-- published on Oct. 1st, 2020.</i> US20200257888A1(deleted?)-->
     </li><br>
-</ol>
+</ol>  
+
+[↑ back to top](#top)  
 
 ## Media
 Nov 11th, 2021. <b>LabBase.jp</b>
@@ -371,7 +394,9 @@ May. 6th, 2021. <b>Nikkei Online (日経電子版)</b>
 <a href="https://www.nikkei.com/article/DGXZQOUC211IQ0R20C21A4000000/  ">NEC、顔認証の判定時間短縮　最大で20分の1に</a>
 
 Feb. 17th, 2017.　<b>President Online</b>
-<a href="https://president.jp/articles/-/21367?page=2">高学歴ワーキングプア「ポスドク問題」は解決できたか？</a><br>
+<a href="https://president.jp/articles/-/21367?page=2">高学歴ワーキングプア「ポスドク問題」は解決できたか？</a><br>  
+
+[↑ back to top](#top)  
 
 
 
@@ -380,4 +405,6 @@ Feb. 17th, 2017.　<b>President Online</b>
 by Hitoshi Imaoka  
 * Supervised the latter half of Chapter 1-4: 顔認証システムとは何か？ (What is a Facial Recognition System?) and Column ②: 脳神経科学との融合で顔認証を高速化する画期的AIの開発 (Developing a Revolutionary Neuroscience-Inspired AI Accelerating Facial Recognition).
 <br>
+  
+[↑ back to top](#top)  
 

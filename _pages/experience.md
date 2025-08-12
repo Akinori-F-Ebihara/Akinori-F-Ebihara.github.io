@@ -88,6 +88,7 @@ Advisor: Dr. Hitoshi Imaoka and Mr. Kazuyuki Sakurai<br>
 <i>Undergraduate, Department of Biophysics and Biochemistry, School of Science</i><br>
 - Developed programs for shotgun sequencing (Java), extracting information from databases (Perl regular expression) and MAP kinase cascade simulation (GENESIS/kinetikit)  
 </p>  
+
 [↑ back to top](#top)  
 
 ## Education  
@@ -109,11 +110,13 @@ B.A. mentor: Dr. Hirofumi Nishizumi<br>
 <i>Thesis: Expression mechanism of mouse odorant receptor gene</i><br>
 GPA: 3.88/4.00<br>
 - Attended the <b>Undergraduate Program for Bioinformatics and Systems Biology</b> (2006).
-</p><br>
+</p><br>  
+
 [↑ back to top](#top)
 
 ## Service
 **Reviewer**: NeurIPS, ICLR, ICML, AAAI, BMVC, TMLR, and others. Reviewer awards are detailed under 'Honors and Awards.'  
+
 [↑ back to top](#top)  
 <!-- NeurIPS: 2024, ICLR: 2025, ICML: 2025, BMVC: 2025, TMLR: 2025-  -->
 

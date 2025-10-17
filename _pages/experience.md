@@ -115,10 +115,11 @@ GPA: 3.88/4.00<br>
 [↑ back to top](#top)
 
 ## Service
-**Reviewer**: NeurIPS, ICLR, ICML, AAAI, BMVC, TMLR, and others. Reviewer awards are detailed under 'Honors and Awards.'  
+**Reviewer**: NeurIPS, ICLR, ICML, AISTATS, TMLR, BMVC, AAAI, and others.
+- Reviewer awards are detailed under 'Honors and Awards.'  
 
 [↑ back to top](#top)  
-<!-- NeurIPS: 2024, ICLR: 2025, ICML: 2025, BMVC: 2025, TMLR: 2025-  -->
+<!-- NeurIPS: 2024,2025, ICLR: 2025, ICML: 2025, BMVC: 2025, TMLR: 2025, AAAI: 2026, AISTATS: 2025,2026,->
 
 <!-- <br>
 <br>

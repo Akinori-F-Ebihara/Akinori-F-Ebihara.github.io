@@ -19,7 +19,7 @@ author_profile: true
 ## Selected Peer-reviewed Works
 <ol>
     <li value="18">Kihara, K., Mori J.,  Miyagawa, T., and <span style="color:#145094"><b>Ebihara, A.F.</b></span>
-      <br><b>Rethinking the Backbone in Class Imbalanced Federated Source Free Domain Adaptation: The Utility of Vision Foundation Models</b>
+      <br><b>Rethinking the Backbone in Class Imbalanced Federated Source Free Domain Adaptation: The Utility of Vision Foundation Models</b> <a href="https://arxiv.org/abs/2509.08372">[pdf]</a>
       <br><i>IEEE International Conference on Image Processing (ICIP) 2025 Workshop 1: Edge Intelligence: Smart, Efficient, and Scalable Solutions for IoT, Wearables, and Embedded Devices (SEEDS), Anchorage, Alaska, USA.</i>
     </li><br>
     <li value="17">Amada, T., Kakizaki, K.,  Miyagawa, T., <span style="color:#145094"><b>Ebihara, A.F.</b></span>, Shiohara, K., and Yamasaki, T.

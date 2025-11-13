@@ -123,6 +123,10 @@ author_profile: true
 
 ## Non-peer-reviewed Works
 <ol>
+    <li value="20">Kihara, K., Mori J.,  Miyagawa, T., and <span style="color:#145094"><b>Ebihara, A.F.</b></span>
+      <br><b>クラス不均衡下連合型ソースフリードメイン適応における画像基盤モデルによる特徴量抽出器の再考 [Rethinking the Backbone in Class Imbalanced Federated Source Free Domain Adaptation: The Utility of Vision Foundation Models]</b>
+      <br><i>2026 Symposium on Cryptography and Information Security, Hokkaido, Japan. (in Japanese)</i>
+    </li><br>
     <li value="19">Narahara, A., Miyagawa, T., and <span style="color:#145094"><b>Ebihara, A.F.</b></span>
       <br><b>早期時系列分類のためのH一致性をもつ損失関数 [An H‑Consistent Loss Function for Early Classification of Time Series]</b>
       <br><i>The 28th Meeting on Image Recognition and Understanding (MIRU) 2025, Kyoto, Japan. (in Japanese)</i>

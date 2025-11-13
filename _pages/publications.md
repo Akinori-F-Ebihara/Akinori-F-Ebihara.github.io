@@ -125,19 +125,19 @@ author_profile: true
 <ol>
     <li value="20">Kihara, K., Mori J.,  Miyagawa, T., and <span style="color:#145094"><b>Ebihara, A.F.</b></span>
       <br><b>クラス不均衡下連合型ソースフリードメイン適応における画像基盤モデルによる特徴量抽出器の再考 [Rethinking the Backbone in Class Imbalanced Federated Source Free Domain Adaptation: The Utility of Vision Foundation Models]</b>
-      <br><i>2026 Symposium on Cryptography and Information Security, Hokkaido, Japan. (in Japanese)</i>
+      <br><i>2026 Symposium on Cryptography and Information Security (IEICE SCIS), Hakodate City, Hokkaido, Japan. (in Japanese)</i>
     </li><br>
     <li value="19">Narahara, A., Miyagawa, T., and <span style="color:#145094"><b>Ebihara, A.F.</b></span>
       <br><b>早期時系列分類のためのH一致性をもつ損失関数 [An H‑Consistent Loss Function for Early Classification of Time Series]</b>
-      <br><i>The 28th Meeting on Image Recognition and Understanding (MIRU) 2025, Kyoto, Japan. (in Japanese)</i>
+      <br><i>The 28th Meeting on Image Recognition and Understanding (MIRU) 2025, Sakyo Ward, Kyoto, Japan. (in Japanese)</i>
     </li><br>
     <li value="18">Fukui, H., Miyagawa, T., and <span style="color:#145094"><b>Ebihara, A.F.</b></span>
       <br><b>追跡のためのCross-attentionモジュールを用いたクエリ伝搬アルゴリズムの軽量化 [Lightweight Query Propagation Algorithm Using a Cross‑Attention Module for Multi-Object Tracking]</b>
-      <br><i>The 28th Meeting on Image Recognition and Understanding (MIRU) 2025, Kyoto, Japan. (in Japanese)</i>
+      <br><i>The 28th Meeting on Image Recognition and Understanding (MIRU) 2025, Sakyo Ward, Kyoto, Japan. (in Japanese)</i>
     </li><br>
     <li value="17">Miyagawa, T., and <span style="color:#145094"><b>Ebihara, A.F.</b></span>
       <br><b>統計的早期時系列分類のレビュー：損失関数の性質 [Review: Loss Function for Statistical Early Classification of Time Series]</b>
-      <br><i>The 28th Meeting on Image Recognition and Understanding (MIRU) 2025, Kyoto, Japan. (in Japanese)</i>
+      <br><i>The 28th Meeting on Image Recognition and Understanding (MIRU) 2025, Sakyo Ward, Kyoto, Japan. (in Japanese)</i>
     </li><br>
     <li value="16">Schmehl, M., Caruso, V.C., Willett, S.M., Chen, Y., Jun, N.Y., Mohl, J.T., Ruff, D.A., Cohen, M., <span style="color:#145094"><b>Ebihara, A.F.</b></span>, Freiwald, W.A., Tokdar, S., and Groh, J.M.
       <br><b>Fluctuating responses evoked by multiple objects: a general phenomenon</b>
@@ -145,20 +145,20 @@ author_profile: true
     </li><br>
     <li value="15">Miyamoto, T., Hashimoto, H., Hayasaka, A., <span style="color:#145094"><b>Ebihara, A.F.</b></span>, and Imaoka, H.
       <br><b>Joint Feature Distribution Alignment Learning for NIR-VIS and VIS-VIS Face Recognition</b>
-      <br><i>The 11th Symposium on Biometrics, Recognition and Authentication (IEICE SBRA2021), Virtual Conference.</i>
+      <br><i>The 11th Symposium on Biometrics, Recognition and Authentication (IEICE SBRA2021), Virtual Conference. (in Japanese)</i>
     </li><br>
     <li value="14">Kawai, H., Watanabe, D., Ito, K., Aoki, T., <span style="color:#145094"><b>Ebihara, A.F.</b></span>, Sakurai, K., and Imaoka, H.
-      <br><b>Spoofing Detection for the Face Authentication Using Deep Learning</b>
-      <br><i>2019 Symposium on Cryptography and Information Security. (IEICE SCIS) Otsu city, Shiga, Japan.</i>
+      <br><b>顔認証における深層学習を用いた生体検知手法とその精度評価 [Spoofing Detection for the Face Authentication Using Deep Learning]</b>
+      <br><i>2019 Symposium on Cryptography and Information Security (IEICE SCIS). Otsu city, Shiga, Japan. (in Japanese)</i>
     </li><br>
     <li value="13"><span style="color:#145094"><b>Ebihara, A.F.</b></span>, Sakurai, K., and Imaoka, H.
-      <br><b>Flash Reflection-based Face Liveness Detection for Mobile Devices</b>
-      <br><i>The 8th Symposium on Biometrics, Recognition and Authentication (IEICE SBRA2018), Iidabashi, Tokyo, Japan.</i>
-      <br><b><a href="https://www.ieice.org/~biox/sbra2018/?cmd=program">*Bio-X incentive award</a></b>
+      <br><b>フラッシュ反射光によるモバイル向け顔ライブネス検知 [Flash Reflection-based Face Liveness Detection for Mobile Devices]</b>
+      <br><i>The 8th Symposium on Biometrics, Recognition and Authentication (IEICE SBRA2018), Iidabashi, Tokyo, Japan. (in Japanese)</i>
+      <br><b><a href="https://www.ieice.org/~biox/sbra2018/?cmd=program">*Bio-X incentive award　(2018年BioX研究会奨励賞)</a></b>
     </li><br>
     <li value="12"><span style="color:#145094"><b>Ebihara, A.F.</b></span>, Sakurai, K., and Imaoka, H.
-      <br><b>Spoofing Detection with a Monocular Camera using Flash Reflection</b>
-      <br><i>IEICE Bio-X Study Group 2018. Kanazawa city, Ishikawa, Japan.</i>
+      <br><b>フラッシュ反射光を利用した単眼可視光カメラによるなりすまし検知 [Spoofing Detection with a Monocular Camera using Flash Reflection]</b>
+      <br><i>IEICE Bio-X Study Group 2018. Kanazawa city, Ishikawa, Japan. (in Japanese)</i>
     </li><br>
     <li value="11">Caruso, V.C., <span style="color:#145094"><b>Ebihara, A.F.</b></span>, Tokdar, S., Freiwald, W.A., and Groh, J.M.
       <br><b>Multiplexing in Face Selective Cortex: Evidence of Flexible Trial-by-Trial and Sub-Trial Representations of Multiple Stimuli</b>

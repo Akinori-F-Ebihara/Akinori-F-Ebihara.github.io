@@ -18,7 +18,7 @@ author_profile: true
 
 ## Selected Peer-reviewed Works
 <ol>
-    <li value="18">Akamatsu, Y., <span style="color:#145094"><b>Ebihara, A.F.</b></span>, and Umematsu, T.
+    <li value="19">Akamatsu, Y., <span style="color:#145094"><b>Ebihara, A.F.</b></span>, and Umematsu, T.
       <br><b>U-FaceBP: Uncertainty-aware Bayesian Ensemble Deep Learning for Face Video-based Blood Pressure Estimation</b> 
       <br><i>IEEE Transactions on Instrumentation & Measurement (TIM), 2026.</i>
     </li><br>

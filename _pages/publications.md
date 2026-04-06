@@ -18,6 +18,10 @@ author_profile: true
 
 ## Selected Peer-reviewed Works
 <ol>
+    <li value="18">Akamatsu, Y., <span style="color:#145094"><b>Ebihara, A.F.</b></span>, and Umematsu, T.
+      <br><b>U-FaceBP: Uncertainty-aware Bayesian Ensemble Deep Learning for Face Video-based Blood Pressure Estimation</b> 
+      <br><i>IEEE Transactions on Instrumentation & Measurement (TIM), 2026.</i>
+    </li><br>
     <li value="18">Kihara, K., Mori J.,  Miyagawa, T., and <span style="color:#145094"><b>Ebihara, A.F.</b></span>
       <br><b>Rethinking the Backbone in Class Imbalanced Federated Source Free Domain Adaptation: The Utility of Vision Foundation Models</b> <a href="https://arxiv.org/abs/2509.08372">[pdf]</a>
       <br><i>IEEE International Conference on Image Processing (ICIP) 2025 Workshop 1: Edge Intelligence: Smart, Efficient, and Scalable Solutions for IoT, Wearables, and Embedded Devices (SEEDS), Anchorage, Alaska, USA.</i>

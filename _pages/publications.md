@@ -18,6 +18,10 @@ author_profile: true
 
 ## Selected Peer-reviewed Works
 <ol>
+    <li value="20">Miyagawa, T., and <span style="color:#145094"><b>Ebihara, A.F.</b></span>
+      <br><b>Accurate Evaluation of Quickest Changepoint Detectors via Non-parametric Survival Analysis</b>
+      <!-- <a href="https://arxiv.org/abs/2105.13636">[pdf]</a> -->
+      <br><i>International Conference on Machine Learning (ICML) 2026, Seoul, South Korea.</i>
     <li value="19">Akamatsu, Y., <span style="color:#145094"><b>Ebihara, A.F.</b></span>, and Umematsu, T.
       <br><b>U-FaceBP: Uncertainty-aware Bayesian Ensemble Deep Learning for Face Video-based Blood Pressure Estimation</b> 
       <br><i>IEEE Transactions on Instrumentation & Measurement (TIM), 2026.</i>

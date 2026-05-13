@@ -5,6 +5,9 @@ permalink: /awards/
 author_profile: true
 ---
 <p style="font-size:20px">
+May 14th. 2026&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>ICML 2026 Gold Reviewer (Top 25%)</b>
+</p>
+<p style="font-size:20px">
 Jul. 17th, 2025&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>NEC GIBU Award for Multiple Patent Registrations</b>
 <!-- 2025年度　グローバルイノベーションビジネスユニット　多数件登録表彰 -->
 </p>

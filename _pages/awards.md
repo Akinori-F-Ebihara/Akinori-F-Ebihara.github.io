@@ -5,7 +5,7 @@ permalink: /awards/
 author_profile: true
 ---
 <p style="font-size:20px">
-Oct. 2026 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>NeurIPS 2026 Top Reviewer</b>
+Oct. 11th, 2026&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>NeurIPS 2026 Top Reviewer</b>
 </p>
 <p style="font-size:20px">
 May 14th. 2026&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>ICML 2026 Gold Reviewer (Top 25%)</b>
